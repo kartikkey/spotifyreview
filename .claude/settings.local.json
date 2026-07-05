@@ -25,7 +25,10 @@
       "Bash(git init *)",
       "Bash(git status *)",
       "Bash(git check-ignore *)",
-      "Bash(echo \"\\(exit $?: nonzero = not ignored, which is what we want\\)\")"
+      "Bash(echo \"\\(exit $?: nonzero = not ignored, which is what we want\\)\")",
+      "Bash(wc -l output/master_reviews.csv)",
+      "Bash(ls -la --time-style=full-iso data/*.json)",
+      "Bash(powershell -c \"Get-Item data\\\\\\\\*.json | Select-Object Name, LastWriteTime\")"
     ]
   }
 }
