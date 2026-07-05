@@ -1,0 +1,431 @@
+[
+  {
+    "review_id": "110",
+    "source": "google_play",
+    "review_text": "Don't waste time with the free version, fork out for premium. Free version is awful, no way of sugar coating that. Do not recommend the unpaid version at all. Premium however is great! There's a huge library of albums, playlists, podcasts; it's particularly helpful being able to download songs for offline play. The Discovery Weekly playlist can be hit or miss but is greatly appreciated all the same! Some performance issues, it must be said. And we could really do without the AI junk",
+    "review_date": "2025-04-16",
+    "rating": 4,
+    "sentiment": "mixed",
+    "emotion": "Mixed",
+    "review_type": "Mixed Feedback",
+    "persona": "Premium User",
+    "summary": "The user highly recommends the premium version for its features and library, despite some performance issues and dislike for AI features, while strongly advising against the free version.",
+    "primary_topic": "Premium",
+    "secondary_topics": [
+      "Music Discovery",
+      "Offline Playback",
+      "Performance",
+      "AI DJ",
+      "Library",
+      "Podcasts"
+    ],
+    "pain_points": [
+      "free version is awful",
+      "some performance issues",
+      "dislike AI features"
+    ],
+    "feature_requests": [
+      "remove AI features"
+    ],
+    "positive_themes": [
+      "premium version is great",
+      "huge library of albums, playlists, podcasts",
+      "helpful to download songs for offline play",
+      "Discovery Weekly is appreciated"
+    ],
+    "user_goal": "Enjoy music without limitations, discover new music, listen offline.",
+    "root_cause": "Free tier limitations are too restrictive; AI features are unwanted; unspecified performance issues.",
+    "mentioned_features": [
+      "Discovery Weekly",
+      "AI"
+    ],
+    "recommendation_component": "Discover Weekly",
+    "music_discovery_related": true,
+    "discovery_issue": "The Discovery Weekly playlist can be inconsistent, and AI-driven features are unwanted.",
+    "impact_area": "General",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "111",
+    "source": "google_play",
+    "review_text": "I've been loyal to Spotify for over a decade. But it is not the same platform it used to be. It is impossible to discover small artists. My recommendations are clogged with popular sponsored artists, even ones I've BLOCKED. All the cool features and staff curated playlists are soulless AI garbage now that Spotify has laid off hundreds of employees. Adding songs to a playlist (my favorite feature) frequently crashes my phone. Premium rates rise. If I find a good alternative, I will switch.",
+    "review_date": "2025-01-22",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Disappointed",
+    "review_type": "Complaint",
+    "persona": "Premium User",
+    "summary": "A long-time user is disappointed with Spotify's decline, citing poor discovery of small artists, irrelevant recommendations, AI-generated content, app crashes, and rising premium rates.",
+    "primary_topic": "Recommendation Quality",
+    "secondary_topics": [
+      "Music Discovery",
+      "AI DJ",
+      "Playlist Management",
+      "Premium",
+      "Performance"
+    ],
+    "pain_points": [
+      "impossible to discover small artists",
+      "recommendations clogged with popular sponsored artists",
+      "recommendations include blocked artists",
+      "staff curated playlists are soulless AI garbage",
+      "adding songs to a playlist frequently crashes phone",
+      "premium rates rise"
+    ],
+    "feature_requests": [
+      "improve discovery of small artists",
+      "remove sponsored artists from recommendations",
+      "improve playlist management stability"
+    ],
+    "positive_themes": [],
+    "user_goal": "Discover new and small artists, manage playlists, enjoy a stable music platform.",
+    "root_cause": "Recommendation algorithm prioritizes popular/sponsored content over user preferences and new/small artists; AI-generated content is perceived as low quality; app instability during playlist management; increasing subscription costs.",
+    "mentioned_features": [
+      "playlists",
+      "AI"
+    ],
+    "recommendation_component": "Algorithm",
+    "music_discovery_related": true,
+    "discovery_issue": "Recommendations are poor, clogged with popular/sponsored artists, include blocked artists, and hinder discovery of small artists.",
+    "impact_area": "Recommendation Quality",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "112",
+    "source": "google_play",
+    "review_text": "The shuffle doesn't really shuffle your music, it just plays the songs you've been listening to recently. The discover weekly sucks, its not at all tailored to my taste, it NEVER has the genres I listen to and ive only found a handfull of songs I actually like from it. The offline option is very iffy, sometimes it'll load but a lot of times it won't and tell me I'm offline. Well duh, thats why I'm in offline mode!! I like this app but would love it if things were improved.",
+    "review_date": "2024-09-03",
+    "rating": 3,
+    "sentiment": "negative",
+    "emotion": "Frustrated",
+    "review_type": "Complaint",
+    "persona": "Unknown",
+    "summary": "The user is frustrated with the ineffective shuffle feature, poor Discover Weekly recommendations that don't match their taste, and unreliable offline playback.",
+    "primary_topic": "Recommendation Quality",
+    "secondary_topics": [
+      "Music Discovery",
+      "Offline Playback",
+      "User Experience"
+    ],
+    "pain_points": [
+      "shuffle doesn't really shuffle",
+      "shuffle plays recently listened songs",
+      "Discover Weekly sucks",
+      "Discover Weekly not tailored to taste",
+      "Discover Weekly never has preferred genres",
+      "offline option is iffy",
+      "offline mode fails to load music"
+    ],
+    "feature_requests": [
+      "improve shuffle algorithm",
+      "improve Discover Weekly personalization",
+      "improve offline playback reliability"
+    ],
+    "positive_themes": [],
+    "user_goal": "Listen to a diverse shuffle of music, discover new music tailored to taste, reliably play music offline.",
+    "root_cause": "Shuffle algorithm is not truly random or diverse; Discover Weekly algorithm fails to accurately reflect user's genre preferences; offline playback mechanism is unreliable.",
+    "mentioned_features": [
+      "shuffle",
+      "Discover Weekly",
+      "offline option"
+    ],
+    "recommendation_component": "Discover Weekly",
+    "music_discovery_related": true,
+    "discovery_issue": "Discover Weekly recommendations are not tailored to the user's taste or preferred genres, and the shuffle feature is not diverse.",
+    "impact_area": "Recommendation Quality",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "113",
+    "source": "google_play",
+    "review_text": "Updated review after TRYING to listen to audio books. you get 15 hours even with premium and have to pay a ridiculous amount of 13$ per 10hours. I took that 13$ to audible and finished the book I was listening to and got even better deals to continue the series. I spent 6 dollars for the 2nd book in the series that was over 20hrs long. I would have paid 4 times that to listen to it on spotify. I suggest either update the business model or get rid of it completely before you lose business.",
+    "review_date": "2025-04-20",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Disappointed",
+    "review_type": "Complaint",
+    "persona": "Premium User",
+    "summary": "The user is highly dissatisfied with Spotify's audiobook business model, finding the premium hour limits and additional costs to be poor value compared to competitors like Audible.",
+    "primary_topic": "Podcasts",
+    "secondary_topics": [
+      "Premium",
+      "User Experience"
+    ],
+    "pain_points": [
+      "limited audiobook hours even with premium",
+      "ridiculous cost for additional audiobook hours",
+      "poor value compared to competitors"
+    ],
+    "feature_requests": [
+      "update audiobook business model",
+      "remove audiobook feature if not improved"
+    ],
+    "positive_themes": [],
+    "user_goal": "Listen to audiobooks affordably.",
+    "root_cause": "Spotify's audiobook pricing and access model is uncompetitive and perceived as poor value.",
+    "mentioned_features": [
+      "audio books"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Podcasts",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "114",
+    "source": "google_play",
+    "review_text": "App isn't great. Bad UI, glitchy additions of songs to playlists, discrepancies between data of the web client and mobile, and often recommends music I dislike in service to some unknowable algorithm. The ceo investing in the military industrial complex's use of ai makes me plan on dropping it entirely. Spotify's main draw is its collection, which I'm sure will migrate elsewhere at some point",
+    "review_date": "2025-07-18",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Complaint",
+    "persona": "Unknown",
+    "summary": "The user criticizes the app's bad UI, glitchy playlist additions, data discrepancies, poor music recommendations, and expresses ethical concerns about the CEO's investments, leading them to consider switching.",
+    "primary_topic": "User Experience",
+    "secondary_topics": [
+      "Recommendation Quality",
+      "Playlist Management",
+      "Performance",
+      "Other"
+    ],
+    "pain_points": [
+      "bad UI",
+      "glitchy additions of songs to playlists",
+      "discrepancies between web client and mobile data",
+      "often recommends music I dislike",
+      "CEO's investments are concerning"
+    ],
+    "feature_requests": [
+      "improve UI",
+      "fix playlist addition glitches",
+      "synchronize data between web and mobile",
+      "improve recommendation algorithm"
+    ],
+    "positive_themes": [
+      "Spotify's main draw is its collection"
+    ],
+    "user_goal": "Have a smooth, consistent, and ethically aligned music streaming experience with good recommendations.",
+    "root_cause": "Poor UI design; bugs in playlist management; lack of data synchronization across platforms; recommendation algorithm generates irrelevant suggestions; ethical concerns with company leadership.",
+    "mentioned_features": [
+      "playlists",
+      "web client",
+      "mobile"
+    ],
+    "recommendation_component": "Algorithm",
+    "music_discovery_related": true,
+    "discovery_issue": "The recommendation algorithm often suggests music the user dislikes.",
+    "impact_area": "User Experience",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "115",
+    "source": "google_play",
+    "review_text": "Even their free version is abysmal. Yes I know they're trying to force us to buy the premium version. Byt omg. I tried to play one song. It offered me a selection instead and wouldn't let me skip along to the ONE song I wanted to add to my likes songs. I've used up all my skips for the month now. I'm going back to Amazon music for another try over there because Spotify makes me so angry",
+    "review_date": "2025-01-30",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Complaint",
+    "persona": "Free User",
+    "summary": "The user is angry and frustrated with the abysmal free version, which restricts song selection and skips, making it impossible to play a desired song or add it to liked songs.",
+    "primary_topic": "Ads",
+    "secondary_topics": [
+      "User Experience",
+      "Premium"
+    ],
+    "pain_points": [
+      "free version is abysmal",
+      "forced to listen to selections instead of specific songs",
+      "unable to skip to desired song",
+      "limited skips used up quickly",
+      "unable to add desired song to liked songs"
+    ],
+    "feature_requests": [
+      "allow specific song playback on free tier",
+      "increase skips on free tier",
+      "allow adding songs to liked songs on free tier"
+    ],
+    "positive_themes": [],
+    "user_goal": "Play a specific song, add it to liked songs, and have more control over playback on the free tier.",
+    "root_cause": "Restrictive free tier limitations (no on-demand playback, limited skips) are too aggressive, pushing users away.",
+    "mentioned_features": [
+      "skips",
+      "liked songs"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Ads",
+    "severity": "critical",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "116",
+    "source": "google_play",
+    "review_text": "Edit: must be nice to make millions every month off an app that don't work. Wth is happening to this app I PAY for?! Every single time I open it, it just goes dumb and my data stops working for up to an entire minute. It's extremely laggy skipping through songs and does this weird thing where it goes back a previous song and then forward to your next song. Everything is updated. These problems shouldn't even exist today. So quit being lazy and fix your mess. Canceling subscription until then.",
+    "review_date": "2025-04-13",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Complaint",
+    "persona": "Premium User",
+    "summary": "A paying user is extremely angry and frustrated with severe performance issues, including app unresponsiveness, data connectivity problems, laggy song skipping, and erratic playback behavior, leading them to cancel their subscription.",
+    "primary_topic": "Performance",
+    "secondary_topics": [
+      "User Experience",
+      "Premium"
+    ],
+    "pain_points": [
+      "app doesn't work",
+      "app goes dumb on opening",
+      "data stops working for up to a minute",
+      "extremely laggy skipping through songs",
+      "app goes back to previous song then forward to next"
+    ],
+    "feature_requests": [
+      "fix performance issues",
+      "improve app stability"
+    ],
+    "positive_themes": [],
+    "user_goal": "Play music smoothly and reliably.",
+    "root_cause": "App performance degradation, possibly due to bugs or inefficient code, leading to unresponsiveness and playback issues.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Performance",
+    "severity": "critical",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "117",
+    "source": "google_play",
+    "review_text": "Would love to give more stars. But, I found that when you're broke for a month & can't afford premium, the quality of the app decreases heavily. For example: I got my music ready for a shower and listened to an ad that told me to enjoy 30 minutes of AD FREE music. Guess what happened after one song while I was in the shower..? THREE MORE ADS LMAO. I lowkey understand the hate Spotify gets now. These ads straight up lie if you aren't paying Spotify. Do better. Sincerely, a 10+ year Spotify user",
+    "review_date": "2025-08-05",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Frustrated",
+    "review_type": "Complaint",
+    "persona": "Free User",
+    "summary": "The user, a long-time Spotify user, is frustrated by the heavily degraded experience on the free tier, specifically citing misleading ad-free offers that quickly revert to multiple ads.",
+    "primary_topic": "Ads",
+    "secondary_topics": [
+      "Premium",
+      "User Experience"
+    ],
+    "pain_points": [
+      "app quality decreases heavily on free tier",
+      "misleading ad-free offers",
+      "ads play immediately after ad-free promise"
+    ],
+    "feature_requests": [
+      "improve ad experience on free tier",
+      "ensure ad-free promises are honored"
+    ],
+    "positive_themes": [],
+    "user_goal": "Listen to music with a reasonable ad experience on the free tier, or have ad-free promises honored.",
+    "root_cause": "Deceptive ad practices on the free tier, where ad-free promises are not honored, leading to a poor user experience.",
+    "mentioned_features": [
+      "ads"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Ads",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "118",
+    "source": "google_play",
+    "review_text": "super buggy app, constantly switches audio sources (computer, car, phone, etc.). no control over the default \"home\" screen/cannot specify library as home screen. app feels like you are being marketed to, as they are constantly attempting to shove whatever drivel they can down your throat. will be switching to another provider as soon as I can.",
+    "review_date": "2025-08-28",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Complaint",
+    "persona": "Unknown",
+    "summary": "The user is highly frustrated with the buggy app, constant audio source switching, lack of home screen customization, and feeling constantly marketed to, leading them to plan on switching providers.",
+    "primary_topic": "User Experience",
+    "secondary_topics": [
+      "Performance",
+      "Recommendation Quality",
+      "Library"
+    ],
+    "pain_points": [
+      "super buggy app",
+      "constantly switches audio sources",
+      "no control over default home screen",
+      "cannot specify library as home screen",
+      "app feels like being marketed to",
+      "constantly shoved unwanted content"
+    ],
+    "feature_requests": [
+      "fix bugs",
+      "improve audio source stability",
+      "allow home screen customization",
+      "allow setting library as home screen",
+      "reduce unwanted marketing/content pushing"
+    ],
+    "positive_themes": [],
+    "user_goal": "Have a stable, customizable, and user-centric app experience without intrusive marketing.",
+    "root_cause": "App instability (bugs, audio source switching); lack of user customization options for the home screen; aggressive content promotion strategy.",
+    "mentioned_features": [
+      "home screen",
+      "library"
+    ],
+    "recommendation_component": "General Discovery",
+    "music_discovery_related": true,
+    "discovery_issue": "The app constantly pushes unwanted content and recommendations, making the user feel marketed to.",
+    "impact_area": "User Experience",
+    "severity": "critical",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "119",
+    "source": "google_play",
+    "review_text": "not sure how it's possible in today's technological age but every week this app just gets worse and worse and less user-friendly. opening up the app itself now takes anywhere from 10 seconds to over one full minute to get the main screen to pop up, and after testing it a couple times, hitting the search button gets you a blank screen for 2 plus minutes before the actual search bar pops up giving you access to look for something. a reinstall does nothing to fix this.",
+    "review_date": "2025-07-09",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Frustrated",
+    "review_type": "Complaint",
+    "persona": "Unknown",
+    "summary": "The user reports severe and worsening performance issues, including extremely long app startup times and significant delays in the search function, making the app less user-friendly.",
+    "primary_topic": "Performance",
+    "secondary_topics": [
+      "User Experience",
+      "Search"
+    ],
+    "pain_points": [
+      "app gets worse and worse",
+      "app is less user-friendly",
+      "app takes 10 seconds to over a minute to open",
+      "search button leads to blank screen for 2+ minutes",
+      "reinstall does not fix issues"
+    ],
+    "feature_requests": [
+      "improve app startup time",
+      "fix search function delay"
+    ],
+    "positive_themes": [],
+    "user_goal": "Open the app and use core functions like search quickly and reliably.",
+    "root_cause": "Severe performance degradation in app startup and search functionality, possibly due to software bugs or inefficient resource management.",
+    "mentioned_features": [
+      "search button"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Performance",
+    "severity": "critical",
+    "confidence": 1.0
+  }
+]

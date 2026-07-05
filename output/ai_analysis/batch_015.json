@@ -1,0 +1,379 @@
+[
+  {
+    "review_id": "140",
+    "source": "google_play",
+    "review_text": "My queue will glitch with multiple of the same song, I'm talking 5-7 of the same in a row. It's been doing this for well over a week. I also wish there was a way to hide recently played collections from the homescreen. Other than that it does what I need it to, but hate that the price keeps going up. Also BRING BACK THE HEART FOR LIKES PLEASE",
+    "review_date": "2025-01-29",
+    "rating": 4,
+    "sentiment": "mixed",
+    "emotion": "Frustrated",
+    "review_type": "Mixed Feedback",
+    "persona": "Unknown",
+    "summary": "The user experiences a queue glitch with duplicate songs, wishes to hide recently played collections, dislikes price increases, and wants the heart icon for likes back.",
+    "primary_topic": "User Experience",
+    "secondary_topics": [
+      "Premium",
+      "Library"
+    ],
+    "pain_points": [
+      "queue glitches with duplicate songs",
+      "price keeps increasing"
+    ],
+    "feature_requests": [
+      "hide recently played collections from homescreen",
+      "bring back heart icon for likes"
+    ],
+    "positive_themes": [
+      "app generally meets needs"
+    ],
+    "user_goal": "Listen to music without interruption, manage playback, customize UI.",
+    "root_cause": "Software bug causing queue duplication; lack of UI customization options; historical UI change.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "User Experience",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "141",
+    "source": "google_play",
+    "review_text": "Generally all good but when listening via a smart speaker or android auto the app does not stay up to date with what's being listened to unless you open the app. So for example if I spend an hour listening but don't open the app up to sync then it thinks I'm still on a song I listened to an hour ago. This is especially frustrating especially when using DJ or a playlist as it will just cycle through all the songs you previously listened to as it doesn't know you already listened to them.",
+    "review_date": "2025-10-03",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Frustrated",
+    "review_type": "Complaint",
+    "persona": "Unknown",
+    "summary": "The app fails to sync playback status across devices (smart speaker, Android Auto) unless opened, leading to repeated songs, especially with DJ or playlists.",
+    "primary_topic": "Performance",
+    "secondary_topics": [
+      "AI DJ",
+      "Playlist Management",
+      "User Experience"
+    ],
+    "pain_points": [
+      "app does not sync playback status across devices",
+      "repeated songs when using DJ or playlists due to sync issue"
+    ],
+    "feature_requests": [],
+    "positive_themes": [],
+    "user_goal": "Listen to music seamlessly across devices, avoid repeated songs.",
+    "root_cause": "Playback state not reliably syncing in the background or across connected devices (smart speaker, Android Auto) without explicit app interaction.",
+    "mentioned_features": [
+      "DJ",
+      "Android Auto"
+    ],
+    "recommendation_component": "AI DJ",
+    "music_discovery_related": true,
+    "discovery_issue": "The AI DJ and playlists repeat songs because the app fails to sync playback status across devices.",
+    "impact_area": "User Experience",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "142",
+    "source": "google_play",
+    "review_text": "I really love spotify, its my only music app i use, but... the only problem are the ads, i get way to many often after 1 song. after 1 song i get up to 3/4 ads almost everytime, i wish it was only 1. and i really don't want to buy premium only because it cost money, like every app, and i prefer to not pay on apps.",
+    "review_date": "2025-04-08",
+    "rating": 3,
+    "sentiment": "mixed",
+    "emotion": "Frustrated",
+    "review_type": "Mixed Feedback",
+    "persona": "Free User",
+    "summary": "The user loves Spotify but is frustrated by the excessive number of ads (3-4 after every song) and wishes for fewer ads, while not wanting to pay for Premium.",
+    "primary_topic": "Ads",
+    "secondary_topics": [
+      "Premium"
+    ],
+    "pain_points": [
+      "too many ads",
+      "ads play too often (3-4 after every song)"
+    ],
+    "feature_requests": [
+      "reduce number of ads (to 1 per song)"
+    ],
+    "positive_themes": [
+      "loves Spotify",
+      "only music app used"
+    ],
+    "user_goal": "Listen to music with minimal interruption from ads.",
+    "root_cause": "Aggressive ad frequency on the free tier.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Ads",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "143",
+    "source": "google_play",
+    "review_text": "Lee been having fun with this appListening to my own music but one day The menus of Albums or artists profiles changed For some reason when I go into my playes I have to press a green play button and I can't even listen to the songs I wanted to hear! And plus I can only Watch 6 song The playlist gives me meaning I can't even listen to my own song I want to hear I'm so mad",
+    "review_date": "2025-05-25",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Complaint",
+    "persona": "Free User",
+    "summary": "The user is angry about recent UI changes that prevent them from playing specific songs from albums or artist profiles and limit playlist playback to only 6 songs.",
+    "primary_topic": "User Experience",
+    "secondary_topics": [
+      "Playlist Management",
+      "Library"
+    ],
+    "pain_points": [
+      "UI changes prevent playing specific songs from albums/artist profiles",
+      "playlists limit playback to 6 songs"
+    ],
+    "feature_requests": [
+      "restore ability to play specific songs from albums/artist profiles",
+      "remove playlist playback limits"
+    ],
+    "positive_themes": [],
+    "user_goal": "Listen to specific songs from their library or artist profiles, play full playlists.",
+    "root_cause": "Recent UI/feature changes, likely related to free tier restrictions, impacting direct song playback and playlist functionality.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "User Experience",
+    "severity": "critical",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "144",
+    "source": "google_play",
+    "review_text": "I downloaded the app for both the music and podcasts. it has been just under 5 years. Stop trying to fix what's not broken. I completely understand the need for ads but do they have to jump in and overlap stuff you are listening to like an old 1990s radio DJ talking over a song? For podcasts, why did you get rid of the new episodes list? Do you even understand the problem it creates for people who listen in their vehicle? Time to search elsewhere...",
+    "review_date": "2025-05-27",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Disappointed",
+    "review_type": "Complaint",
+    "persona": "Unknown",
+    "summary": "The user is frustrated with intrusive ads that overlap content and the removal of the new podcast episodes list, which negatively impacts listening in a vehicle.",
+    "primary_topic": "Ads",
+    "secondary_topics": [
+      "Podcasts",
+      "User Experience"
+    ],
+    "pain_points": [
+      "ads overlap music/podcasts",
+      "new podcast episodes list was removed"
+    ],
+    "feature_requests": [
+      "restore new podcast episodes list"
+    ],
+    "positive_themes": [],
+    "user_goal": "Listen to music and podcasts without intrusive ads, easily find new podcast episodes.",
+    "root_cause": "Poor ad implementation (overlapping content); removal of a useful podcast management feature.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Ads",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "145",
+    "source": "google_play",
+    "review_text": "Spotify is an amazing music streaming app!🎵🎶 It's got an insane library pop song, playlist , and podcasts that cater to every note and test. The discover weekly and Release Rader playlist are always on point, introduction me to new artists and tracks I love. The UI is sleek and user- friend, making I want to listen to . Overall, Spotify is a must-have app four music lovers! ☺️🫶",
+    "review_date": "2025-11-25",
+    "rating": 5,
+    "sentiment": "positive",
+    "emotion": "Excited",
+    "review_type": "Praise",
+    "persona": "Unknown",
+    "summary": "The user praises Spotify as an amazing music streaming app with an insane library, excellent discovery playlists, and a sleek, user-friendly UI.",
+    "primary_topic": "Music Discovery",
+    "secondary_topics": [
+      "Recommendation Quality",
+      "User Experience",
+      "Library",
+      "Podcasts"
+    ],
+    "pain_points": [],
+    "feature_requests": [],
+    "positive_themes": [
+      "amazing music streaming app",
+      "insane library of songs and podcasts",
+      "Discover Weekly and Release Radar are on point",
+      "introduces new artists and tracks",
+      "sleek and user-friendly UI"
+    ],
+    "user_goal": "Discover new music, enjoy a wide variety of content, have a good user experience.",
+    "root_cause": "",
+    "mentioned_features": [
+      "Discover Weekly",
+      "Release Radar"
+    ],
+    "recommendation_component": "Discover Weekly",
+    "music_discovery_related": true,
+    "discovery_issue": "Discover Weekly and Release Radar playlists are consistently accurate and introduce new, loved artists and tracks.",
+    "impact_area": "Music Discovery",
+    "severity": "none",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "146",
+    "source": "google_play",
+    "review_text": "I absolutely love Spotify, there's not a whole ton of ads for me and I can still listen for free. I like the Spotify wrapped feature at the end of the year and I love the fact you can see your top songs and artists. Also the mixes are just amazing that they make including all my favorite songs and a few new and suggested ones!",
+    "review_date": "2025-07-02",
+    "rating": 5,
+    "sentiment": "positive",
+    "emotion": "Happy",
+    "review_type": "Praise",
+    "persona": "Free User",
+    "summary": "The user loves Spotify, appreciates the manageable ad load on the free tier, enjoys Spotify Wrapped, and finds the personalized mixes amazing for combining favorites with new suggestions.",
+    "primary_topic": "Music Discovery",
+    "secondary_topics": [
+      "Ads",
+      "User Experience",
+      "Recommendation Quality"
+    ],
+    "pain_points": [],
+    "feature_requests": [],
+    "positive_themes": [
+      "loves Spotify",
+      "manageable ad load on free tier",
+      "Spotify Wrapped feature",
+      "can see top songs and artists",
+      "amazing personalized mixes (including favorites and new suggestions)"
+    ],
+    "user_goal": "Enjoy music for free, discover new music, review listening habits.",
+    "root_cause": "",
+    "mentioned_features": [
+      "Spotify Wrapped",
+      "mixes"
+    ],
+    "recommendation_component": "Daily Mix",
+    "music_discovery_related": true,
+    "discovery_issue": "Personalized mixes are amazing, effectively combining favorite songs with new and suggested ones.",
+    "impact_area": "Music Discovery",
+    "severity": "none",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "147",
+    "source": "google_play",
+    "review_text": "It has had such potential for so long... But falls short on so many things! This review box doesn't have enough characters & I am over trying to convey this to someone important who wants to listen (tried beta vs, tried online suggestions, etc). Was switching to SoundCloud then the audiobooks were added! Still think more audiobook hours should be available on premium - 15hrs = 1.25 books/month & unfair some podcasts added to audiobook category & therefore included in this 15hr allowance.",
+    "review_date": "2024-10-19",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Disappointed",
+    "review_type": "Complaint",
+    "persona": "Premium User",
+    "summary": "The user is disappointed with Spotify's unfulfilled potential, specifically complaining about the limited audiobook hours on Premium and the unfair inclusion of some podcasts in that allowance.",
+    "primary_topic": "Podcasts",
+    "secondary_topics": [
+      "Premium",
+      "User Experience"
+    ],
+    "pain_points": [
+      "limited audiobook hours on Premium (15hrs)",
+      "some podcasts are incorrectly categorized as audiobooks and count towards the 15hr limit"
+    ],
+    "feature_requests": [
+      "more audiobook hours on Premium"
+    ],
+    "positive_themes": [],
+    "user_goal": "Listen to audiobooks and podcasts on Premium without restrictive limits.",
+    "root_cause": "Restrictive premium tier limits on audiobook consumption and incorrect categorization of certain content.",
+    "mentioned_features": [
+      "audiobooks",
+      "podcasts"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Podcasts",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "148",
+    "source": "google_play",
+    "review_text": "Since the last update all my followed podcast settings have changed from only showing unplayed episodes to all episodes. You now push through requests for extra payments into my new episodes playlist despite the fact I already pay for premium. I can't even edit my new episodes playlist to remove them, not a premium service anymore, time to look elsewhere.",
+    "review_date": "2025-02-14",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Complaint",
+    "persona": "Premium User",
+    "summary": "After a recent update, the user's podcast settings changed to show all episodes instead of just unplayed, and requests for extra payments are pushed into their new episodes playlist, which cannot be edited, despite being a Premium user.",
+    "primary_topic": "Podcasts",
+    "secondary_topics": [
+      "Premium",
+      "User Experience"
+    ],
+    "pain_points": [
+      "followed podcast settings changed to show all episodes instead of unplayed",
+      "requests for extra payments pushed into new episodes playlist",
+      "cannot edit new episodes playlist to remove unwanted content"
+    ],
+    "feature_requests": [
+      "restore podcast settings to show only unplayed episodes",
+      "allow editing of new episodes playlist",
+      "stop pushing extra payment requests to premium users"
+    ],
+    "positive_themes": [],
+    "user_goal": "Manage podcast listening efficiently, receive premium service without additional payment prompts.",
+    "root_cause": "Software update introduced unwanted changes to podcast settings and monetization practices for premium users.",
+    "mentioned_features": [
+      "podcast settings",
+      "new episodes playlist"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Podcasts",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "149",
+    "source": "google_play",
+    "review_text": "I've used Spotify constantly for years now with premium but I hate how expensive it's gotten and that some features aren't in premium (uninterrupted podcasts, limited audio book time) which is a little annoying. Another one is when I'm using offline mode and every now and then I'll get a \"log back in to confirm you're a user/still using offline\" and making my music unplayable. Annoying but okay",
+    "review_date": "2025-06-20",
+    "rating": 4,
+    "sentiment": "mixed",
+    "emotion": "Frustrated",
+    "review_type": "Mixed Feedback",
+    "persona": "Premium User",
+    "summary": "The user, a long-time Premium subscriber, is frustrated by increasing prices, premium features that are not truly uninterrupted (podcasts, audiobooks), and recurring login prompts in offline mode that make music unplayable.",
+    "primary_topic": "Premium",
+    "secondary_topics": [
+      "Offline Playback",
+      "Podcasts",
+      "User Experience"
+    ],
+    "pain_points": [
+      "premium price has increased",
+      "some premium features are not fully uninterrupted (podcasts, limited audiobook time)",
+      "recurring login prompts in offline mode",
+      "music becomes unplayable in offline mode due to login prompts"
+    ],
+    "feature_requests": [
+      "ensure uninterrupted podcasts for premium users",
+      "increase audiobook time for premium users",
+      "fix offline mode login prompts"
+    ],
+    "positive_themes": [],
+    "user_goal": "Enjoy premium features without interruption, listen offline reliably.",
+    "root_cause": "Pricing strategy; incomplete premium feature implementation; bug in offline mode authentication.",
+    "mentioned_features": [
+      "offline mode",
+      "podcasts",
+      "audiobooks"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Premium",
+    "severity": "high",
+    "confidence": 0.9
+  }
+]

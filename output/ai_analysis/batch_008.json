@@ -1,0 +1,400 @@
+[
+  {
+    "review_id": "70",
+    "source": "google_play",
+    "review_text": "When using the Free version of this app, searching and playing a song is broken. For example, if I search and play \"Billie Jean\" by MJ, it will play \"Beat it\" or \"Thriller\". Earlier versions of spotify did not do this and it makes this app one of the most unreliable apps for Free music playing - along with your procured playlists on permenant shuffle. You'd be better off with competitor products. WOULD NOT RECOMMEND - unless you have over 100 dollars a year to blow on premium.",
+    "review_date": "2025-03-09",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Frustrated",
+    "review_type": "Complaint",
+    "persona": "Free User",
+    "summary": "The free version of Spotify incorrectly plays different songs than searched for and forces permanent shuffle on playlists, making it unreliable.",
+    "primary_topic": "Search",
+    "secondary_topics": [
+      "Playlist Management",
+      "Premium"
+    ],
+    "pain_points": [
+      "searching and playing a song is broken",
+      "plays incorrect songs when searched",
+      "procured playlists on permanent shuffle",
+      "unreliable app for free music playing"
+    ],
+    "feature_requests": [],
+    "positive_themes": [],
+    "user_goal": "Play a specific song by searching for it; listen to music reliably.",
+    "root_cause": "Search functionality is misdirecting playback; free tier playlist behavior is restrictive.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Search",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "71",
+    "source": "google_play",
+    "review_text": "Managing the Queue is hit and miss. No direct menu option for it. Can add a few titles only to find, later, that the queue has been wiped. Can't change the order of play by dragging and dropping. EDIT: A year later and queue Mgt is still a mess; ye, can now change order easier, but it still seems to appear and disappear at will. Downgraded to 2 stars just to signal continued disappointment.",
+    "review_date": "2025-03-24",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Disappointed",
+    "review_type": "Complaint",
+    "persona": "Unknown",
+    "summary": "The queue management feature is unreliable, lacking a direct menu option, wiping unexpectedly, and previously not allowing reordering.",
+    "primary_topic": "Playlist Management",
+    "secondary_topics": [
+      "User Experience"
+    ],
+    "pain_points": [
+      "managing the queue is hit and miss",
+      "no direct menu option for queue",
+      "queue has been wiped unexpectedly",
+      "queue appears and disappears at will",
+      "couldn't change order of play by dragging and dropping (past issue)"
+    ],
+    "feature_requests": [
+      "improve queue management reliability",
+      "add direct menu option for queue"
+    ],
+    "positive_themes": [],
+    "user_goal": "Manage the playback order of songs.",
+    "root_cause": "Queue management system is buggy and lacks consistent UI/UX.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "User Experience",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "72",
+    "source": "google_play",
+    "review_text": "I am so tired of this app. It gets more and more expensive. I had premium and it advertises audiobooks with your subscription, but only allows so many hours before it wants more money. cancelled premium bc I only listen to podcasts that have ads built in, forgot my alarm was set to my spotify Playlist. instead of a song, I woke up to 6 consecutive ads I had to listen to to get back to my podcast, to listen to more ads. Total garbage.",
+    "review_date": "2025-10-13",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Complaint",
+    "persona": "Premium User",
+    "summary": "The user is frustrated with increasing premium costs, limited audiobook access despite subscription, and excessive ads even for podcasts, leading to cancellation.",
+    "primary_topic": "Premium",
+    "secondary_topics": [
+      "Ads",
+      "Podcasts",
+      "User Experience"
+    ],
+    "pain_points": [
+      "app gets more and more expensive",
+      "audiobooks only allow limited hours with premium",
+      "podcasts have ads built in (even with premium)",
+      "woke up to 6 consecutive ads from alarm playlist",
+      "excessive ads on podcasts"
+    ],
+    "feature_requests": [
+      "full audiobook access with premium",
+      "ad-free podcasts with premium"
+    ],
+    "positive_themes": [],
+    "user_goal": "Listen to music and podcasts ad-free with a premium subscription; access audiobooks.",
+    "root_cause": "Premium subscription benefits are perceived as insufficient or misleading regarding audiobooks and podcast ads; free tier ad experience is intrusive.",
+    "mentioned_features": [
+      "audiobooks",
+      "podcasts"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Premium",
+    "severity": "critical",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "73",
+    "source": "google_play",
+    "review_text": "It keeps repeating the same songs in my playlist over and over again even if my playlist is 27 hours long. There's many songs for it to play, but it just plays the same songs. It's ruining my listening experience. Plus, I can barely even listen to songs without being asked to buy premium. Such frequent ads.. it's like this isn't a free listening app anymore.",
+    "review_date": "2025-06-02",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Frustrated",
+    "review_type": "Complaint",
+    "persona": "Free User",
+    "summary": "The app repeatedly plays the same songs from long playlists and features excessive, frequent ads, diminishing the free listening experience.",
+    "primary_topic": "Playlist Management",
+    "secondary_topics": [
+      "Ads",
+      "User Experience"
+    ],
+    "pain_points": [
+      "repeating the same songs in playlist",
+      "frequent ads",
+      "constantly asked to buy premium"
+    ],
+    "feature_requests": [
+      "improve playlist shuffle algorithm",
+      "reduce ad frequency for free users"
+    ],
+    "positive_themes": [],
+    "user_goal": "Listen to a diverse selection of songs from a playlist; listen to music without excessive interruptions.",
+    "root_cause": "Playlist shuffle algorithm lacks diversity; free tier ad frequency is too high.",
+    "mentioned_features": [],
+    "recommendation_component": "Algorithm",
+    "music_discovery_related": true,
+    "discovery_issue": "The playlist shuffle algorithm repeats songs too frequently, reducing diversity.",
+    "impact_area": "User Experience",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "74",
+    "source": "google_play",
+    "review_text": "Unless you're going to pay for premium, don't bother. You used to get 30 minutes add free, but no longer. Oh, they still say to enjoy the next 30 minutes add free. After ONE song, you're stuck listening to several ads that run longer than the song you just heard. I thought it might be a bug, but it happens consistently now.",
+    "review_date": "2024-10-30",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Disappointed",
+    "review_type": "Complaint",
+    "persona": "Free User",
+    "summary": "The free tier no longer provides 30 minutes of ad-free listening as advertised, instead playing multiple long ads after just one song.",
+    "primary_topic": "Ads",
+    "secondary_topics": [
+      "Premium",
+      "User Experience"
+    ],
+    "pain_points": [
+      "no longer get 30 minutes ad-free",
+      "ads play after one song despite 30-min ad-free claim",
+      "several ads run longer than the song",
+      "inconsistent ad experience"
+    ],
+    "feature_requests": [
+      "restore 30 minutes ad-free listening for free users",
+      "reduce ad frequency and length"
+    ],
+    "positive_themes": [],
+    "user_goal": "Listen to music with reasonable ad breaks on the free tier.",
+    "root_cause": "Ad policy for free users has changed or is inconsistently applied, leading to a poor user experience.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Ads",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "75",
+    "source": "google_play",
+    "review_text": "This isn't a critique of the content. The app and company are dissapointing to me. I've paid for an add free experience but for some reason they think it's okay to pepper podcasts with adds. It makes me feel betrayed. I'll be jumping ship the moment I find a better option. Re: the reply I just got... I'm not sure what you misunderstood about my post. I paid for an add free experience. You've included adds in some of your content. I'll be shopping for a truely add free experience.",
+    "review_date": "2025-05-28",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Betrayed",
+    "review_type": "Complaint",
+    "persona": "Premium User",
+    "summary": "The user feels betrayed because their paid ad-free experience still includes ads within podcasts, leading them to consider switching platforms.",
+    "primary_topic": "Ads",
+    "secondary_topics": [
+      "Podcasts",
+      "Premium"
+    ],
+    "pain_points": [
+      "podcasts peppered with ads despite paid ad-free experience",
+      "feels betrayed by company",
+      "lack of truly ad-free experience"
+    ],
+    "feature_requests": [
+      "provide a truly ad-free experience for premium users across all content types"
+    ],
+    "positive_themes": [],
+    "user_goal": "Enjoy an ad-free listening experience across all content with a premium subscription.",
+    "root_cause": "Premium subscription terms regarding podcast ads are unclear or not meeting user expectations for an \"ad-free\" experience.",
+    "mentioned_features": [
+      "podcasts"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Ads",
+    "severity": "critical",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "76",
+    "source": "google_play",
+    "review_text": "At this point, just make Spotify a paid app cause instead of two ads, it's three, sometimes even FOUR. says 30 mins without ads, but it's like 5 mins, adds random songs in my Playlist, can only skip 6 songs each hour, and can't see what song is up next. a little update!! I love listening to music!! but I got 5 ads in a row. And I am not paying for Spotify premium.",
+    "review_date": "2025-10-21",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Frustrated",
+    "review_type": "Complaint",
+    "persona": "Free User",
+    "summary": "The free Spotify experience is severely degraded by excessive ads, false promises of ad-free time, random songs added to playlists, and limited skips, making it almost unusable.",
+    "primary_topic": "Ads",
+    "secondary_topics": [
+      "Playlist Management",
+      "User Experience",
+      "Premium"
+    ],
+    "pain_points": [
+      "excessive ads (3-5 in a row)",
+      "30 mins ad-free claim is false (only 5 mins)",
+      "adds random songs in my playlist",
+      "can only skip 6 songs each hour",
+      "can't see what song is up next"
+    ],
+    "feature_requests": [
+      "reduce ad frequency and length",
+      "allow more skips for free users",
+      "allow viewing upcoming songs for free users",
+      "prevent random songs from being added to playlists"
+    ],
+    "positive_themes": [
+      "loves listening to music"
+    ],
+    "user_goal": "Listen to music on the free tier with a reasonable experience.",
+    "root_cause": "Free tier restrictions and ad policies are too aggressive and inconsistent with advertised benefits, leading to a poor user experience.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Ads",
+    "severity": "critical",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "77",
+    "source": "google_play",
+    "review_text": "Spotify has become top tier grabage these days. Phone and desktop doesn't sync reliably, can't remember what device it was just streaming to a second ago, doesn't play songs when they're clicked on, plays song when you don't click them but scroll past, their \"help\" is just full of regurgitated nonsense and they put zero effort into improvement. They corned the market and then went cut corners to make more money. what a surprise.",
+    "review_date": "2025-06-27",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Complaint",
+    "persona": "Unknown",
+    "summary": "Spotify suffers from unreliable device syncing, playback issues (not playing clicked songs, playing unclicked songs), and unhelpful customer support, indicating a lack of improvement effort.",
+    "primary_topic": "Performance",
+    "secondary_topics": [
+      "User Experience",
+      "Social Features"
+    ],
+    "pain_points": [
+      "phone and desktop doesn't sync reliably",
+      "can't remember what device it was just streaming to",
+      "doesn't play songs when clicked",
+      "plays songs when not clicked but scrolled past",
+      "help is full of regurgitated nonsense",
+      "zero effort into improvement"
+    ],
+    "feature_requests": [
+      "improve device syncing reliability",
+      "fix playback issues",
+      "improve customer support"
+    ],
+    "positive_themes": [],
+    "user_goal": "Seamlessly stream music across devices; reliably play desired songs.",
+    "root_cause": "Technical bugs in device syncing and playback functionality; inadequate customer support.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Performance",
+    "severity": "critical",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "78",
+    "source": "google_play",
+    "review_text": "I've been using Spotify for almost 10 years. I've noticed that the app no longer shuffles my playlits, so the same songs keep playing over and over again. I'm on the premium plan, yet I'm still getting ads on podcasts and I don't have access to audio books. There are some podcasts that I used to listen to almost daily that have now become locked. What's the point of paying for a premium subscription if I don't gain access to everything the app offers?",
+    "review_date": "2025-01-10",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Disappointed",
+    "review_type": "Complaint",
+    "persona": "Premium User",
+    "summary": "Despite being a long-time premium user, the app's shuffle feature repeats songs, podcasts still have ads, audiobooks are inaccessible, and some previously free podcasts are now locked, diminishing the value of the premium subscription.",
+    "primary_topic": "Premium",
+    "secondary_topics": [
+      "Playlist Management",
+      "Ads",
+      "Podcasts",
+      "User Experience"
+    ],
+    "pain_points": [
+      "app no longer shuffles playlists effectively",
+      "same songs keep playing over and over",
+      "getting ads on podcasts (with premium)",
+      "no access to audiobooks (with premium)",
+      "some podcasts have become locked"
+    ],
+    "feature_requests": [
+      "improve playlist shuffle algorithm",
+      "provide ad-free podcasts for premium users",
+      "grant full audiobook access for premium users",
+      "unlock previously free podcasts"
+    ],
+    "positive_themes": [],
+    "user_goal": "Enjoy a diverse music listening experience; access all premium features including ad-free podcasts and audiobooks.",
+    "root_cause": "Playlist shuffle algorithm is flawed; premium subscription benefits are not meeting user expectations regarding ads, audiobooks, and podcast access.",
+    "mentioned_features": [
+      "audiobooks",
+      "podcasts"
+    ],
+    "recommendation_component": "Algorithm",
+    "music_discovery_related": true,
+    "discovery_issue": "The playlist shuffle algorithm repeats songs too frequently, reducing diversity.",
+    "impact_area": "Premium",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "79",
+    "source": "google_play",
+    "review_text": "Great navigation, love the system and format, especially the playlist making system. It's just SO MANY ads, and that's not something I usually complain about but seriously? After every other song? The thirty minute ad breaks don't even work, it's totally immersion breaking, especially getting the same ads over and over and the singing ones are just so annoying. Quit money grabbing, not everyone has money to throw away. Sometimes it just skips songs on its own and it's janky on Aux.",
+    "review_date": "2025-03-31",
+    "rating": 2,
+    "sentiment": "mixed",
+    "emotion": "Frustrated",
+    "review_type": "Mixed Feedback",
+    "persona": "Free User",
+    "summary": "The user appreciates Spotify's navigation and playlist system but is severely frustrated by the excessive, repetitive ads that break immersion and the unreliable ad-free breaks, along with occasional song skipping and janky Aux performance.",
+    "primary_topic": "Ads",
+    "secondary_topics": [
+      "User Experience",
+      "Playlist Management",
+      "Performance"
+    ],
+    "pain_points": [
+      "so many ads (after every other song)",
+      "thirty minute ad breaks don't work",
+      "ads are immersion breaking",
+      "getting the same ads over and over",
+      "singing ads are annoying",
+      "sometimes skips songs on its own",
+      "janky on Aux"
+    ],
+    "feature_requests": [
+      "reduce ad frequency and repetition",
+      "fix ad-free break functionality",
+      "improve Aux connectivity",
+      "prevent automatic song skipping"
+    ],
+    "positive_themes": [
+      "great navigation",
+      "love the system and format",
+      "excellent playlist making system"
+    ],
+    "user_goal": "Listen to music with minimal interruptions and reliable playback.",
+    "root_cause": "Free tier ad policy is too aggressive and poorly implemented; technical issues with playback and Aux connectivity.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Ads",
+    "severity": "high",
+    "confidence": 0.9
+  }
+]

@@ -1,0 +1,350 @@
+[
+  {
+    "review_id": "50",
+    "source": "google_play",
+    "review_text": "Free version is almost unusable. Good grief! 4 ads in a row then it tells me I can enjoy 30 minutes ad free. 2 songs later here are 4 more ads. At first I figured maybe a weird glitch. Nope. It's happens several times over the last few days. And on top of the that the ads are horrible. They're louder than your music so it's very jarring especially if you're listening to something chill, and they're repetitive. I can't listen to specific songs, everything is behind a pay wall now.",
+    "review_date": "2025-07-09",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Frustrated",
+    "review_type": "Complaint",
+    "persona": "Free User",
+    "summary": "The free version of Spotify is almost unusable due to excessive, loud, and repetitive ads, and the inability to play specific songs.",
+    "primary_topic": "Ads",
+    "secondary_topics": [
+      "Premium",
+      "User Experience"
+    ],
+    "pain_points": [
+      "excessive ads",
+      "ads are louder than music",
+      "repetitive ads",
+      "inability to listen to specific songs",
+      "\"30 minutes ad free\" promise is broken"
+    ],
+    "feature_requests": [],
+    "positive_themes": [],
+    "user_goal": "Listen to music without excessive interruptions and with control over song selection.",
+    "root_cause": "Free tier monetization strategy leads to a poor user experience with ads and feature restrictions.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Ads",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "51",
+    "source": "google_play",
+    "review_text": "It's a really good app, featuring all kinds of music, from old to recent and every genre. I really like it. But the thing is when one hasn't subscribed to the premium features, he's deprived of many choices. That's understandable, but then part of the restrictions is that there's a limit to how many times you can choose a song from your library in a day. Another thing, the app tends to play or switch to songs that are not in my catalog while I'm playing a song stored there. it's infuriating.",
+    "review_date": "2025-08-03",
+    "rating": 5,
+    "sentiment": "mixed",
+    "emotion": "Frustrated",
+    "review_type": "Mixed Feedback",
+    "persona": "Free User",
+    "summary": "The user praises Spotify's music catalog but is frustrated by free tier restrictions like daily song selection limits and unwanted songs being played from outside their library.",
+    "primary_topic": "Premium",
+    "secondary_topics": [
+      "User Experience",
+      "Library"
+    ],
+    "pain_points": [
+      "deprived of choices on free tier",
+      "limit on daily song selection from library",
+      "app plays/switches to songs not in user's catalog"
+    ],
+    "feature_requests": [],
+    "positive_themes": [
+      "large music catalogue",
+      "wide genre availability"
+    ],
+    "user_goal": "Listen to desired music from their library without restrictions or unwanted interruptions.",
+    "root_cause": "Free tier restrictions on song selection and playback behavior.",
+    "mentioned_features": [],
+    "recommendation_component": "General Discovery",
+    "music_discovery_related": true,
+    "discovery_issue": "The app plays or switches to unwanted songs not in the user's catalog.",
+    "impact_area": "User Experience",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "52",
+    "source": "google_play",
+    "review_text": "Spotify used to be incredible! Now, it's total trash! The connectivity is asteonomcally garbage - I could have 5G UC service, be playing downloaded songs, but Spotify will be constantly interrupted. I'm currently experiencing a complete blackout. I loved the way the queue was set-up, where you could see what was in the queue, & what was playing from the list - it was a large, legible set of tracks; now, it's a \"user-friendly\" mess, where it's impossible to see the queue, versus the list.",
+    "review_date": "2025-04-16",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Complaint",
+    "persona": "Unknown",
+    "summary": "The user criticizes Spotify's poor connectivity, even with downloaded songs, and expresses strong dissatisfaction with the redesigned queue interface.",
+    "primary_topic": "Performance",
+    "secondary_topics": [
+      "User Experience",
+      "Offline Playback"
+    ],
+    "pain_points": [
+      "poor connectivity",
+      "constant interruptions",
+      "complete blackout",
+      "redesigned queue is a \"mess\"",
+      "impossible to see queue vs. list"
+    ],
+    "feature_requests": [],
+    "positive_themes": [],
+    "user_goal": "Listen to music reliably without interruptions and manage their playback queue effectively.",
+    "root_cause": "Unstable network connectivity handling and a poorly designed queue interface.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Performance",
+    "severity": "critical",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "53",
+    "source": "google_play",
+    "review_text": "there are multiple things wrong with it, though it does have a lot of music it's hard to get to that music you want because of how it's set up. When I try to get a song it plays a different song from \"things we added\" which is really just a way to get money so you get so annoyed that you pay for premium. It plays other songs before it plays your song and it only lets you skip five times, it also adds things to your own playlist when you try to create one. I won't be using this app anymore.",
+    "review_date": "2025-08-10",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Frustrated",
+    "review_type": "Complaint",
+    "persona": "Free User",
+    "summary": "The user is frustrated by Spotify's free tier restrictions, including inability to play desired songs directly, limited skips, and unwanted songs being added to playlists.",
+    "primary_topic": "Premium",
+    "secondary_topics": [
+      "User Experience",
+      "Playlist Management"
+    ],
+    "pain_points": [
+      "hard to get to desired music",
+      "plays different songs than selected",
+      "limited skips",
+      "unwanted songs added to playlists"
+    ],
+    "feature_requests": [],
+    "positive_themes": [],
+    "user_goal": "Play specific songs, create and manage playlists with desired content.",
+    "root_cause": "Free tier restrictions on playback control and playlist management.",
+    "mentioned_features": [],
+    "recommendation_component": "General Discovery",
+    "music_discovery_related": true,
+    "discovery_issue": "The app plays unwanted songs instead of selected ones and adds unrequested songs to user-created playlists.",
+    "impact_area": "User Experience",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "54",
+    "source": "google_play",
+    "review_text": "When things go wrong on the app, like ads appearing when you're paying for Premium, it's very difficult to contact anyone to resolve the issue which is unacceptable when you pay £11 a month. This happened to me recently, and when i have more time, I will be considering finding an alternative, especially if I can find a way to import my playlists.",
+    "review_date": "2025-03-20",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Disappointed",
+    "review_type": "Complaint",
+    "persona": "Premium User",
+    "summary": "A Premium user is frustrated by ads appearing despite their subscription and the difficulty in contacting customer support to resolve the issue.",
+    "primary_topic": "Premium",
+    "secondary_topics": [
+      "Ads",
+      "User Experience"
+    ],
+    "pain_points": [
+      "ads appearing for Premium user",
+      "difficult to contact customer support"
+    ],
+    "feature_requests": [],
+    "positive_themes": [],
+    "user_goal": "Enjoy an ad-free experience as a paying Premium subscriber and receive effective customer support for issues.",
+    "root_cause": "Bug in ad delivery system for premium users and inadequate customer support channels.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Premium",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "55",
+    "source": "google_play",
+    "review_text": "The app is driving me crazy. For one, there's an oversaturation of ads -- roughly 2-3 minutes of ads per 3-5 minutes of music. And the ads where it's like \"Watch this ad to get 30 minutes of ad-free listening\" don't work at all; I just get more normal ads within 5-10 minutes. I'm not buying a membership, Spotify, and your bugs, intentional or not, aren't gonna force me to. Edit: Looked at community page. Solution was to keep the app in focus while the video plays. Problem: I ALREADY HAVE BEEN!",
+    "review_date": "2025-07-25",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Complaint",
+    "persona": "Free User",
+    "summary": "The user is extremely frustrated by the excessive number of ads on the free tier and the failure of the \"ad-free listening\" reward feature to work as intended.",
+    "primary_topic": "Ads",
+    "secondary_topics": [
+      "Bug Report",
+      "User Experience"
+    ],
+    "pain_points": [
+      "oversaturation of ads",
+      "\"30 minutes ad-free listening\" feature doesn't work",
+      "ads appear quickly after reward"
+    ],
+    "feature_requests": [],
+    "positive_themes": [],
+    "user_goal": "Listen to music with fewer interruptions from ads, and for ad-free rewards to function correctly.",
+    "root_cause": "Aggressive free tier ad strategy and a bug in the \"ad-free listening\" reward system.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Ads",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "56",
+    "source": "google_play",
+    "review_text": "I have the free version right now because I can not afford premium. I will get the ad saying \"listen for 30 minutes of ad free music\" then it literally plays 1 3-4 minute song before I get another 2 minute set of ads. I habe time stamped screen shots to prove this. At this point, I feel as though im listening to more ads than I am music and highly considering switching streaming services. We're getting to a point where I almost can't listen to music unless I pay. Fix it!",
+    "review_date": "2025-04-19",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Frustrated",
+    "review_type": "Complaint",
+    "persona": "Free User",
+    "summary": "The user on the free version experiences a broken \"30 minutes ad free music\" feature, leading to excessive ads and considering switching services.",
+    "primary_topic": "Ads",
+    "secondary_topics": [
+      "Premium",
+      "User Experience"
+    ],
+    "pain_points": [
+      "\"30 minutes ad free music\" feature doesn't work",
+      "excessive ads",
+      "listening to more ads than music"
+    ],
+    "feature_requests": [],
+    "positive_themes": [],
+    "user_goal": "Listen to music on the free tier with reasonable ad interruptions and functional ad-free rewards.",
+    "root_cause": "Bug in the \"ad-free listening\" reward system and aggressive free tier ad strategy.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Ads",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "57",
+    "source": "google_play",
+    "review_text": "This company has just the worst software. It is slow to load and not very responsive. I click to play a different song and it takes 5 seconds to switch songs, if it does it at all. Constantly disconnects from connected devices. I move a song in the playlist and it bounces around, sometimes returning back to original position. The AI DJ just plays the same songs over and over and the voice is obnoxious. Some of these bugs have been in the software for nearly 10 years and still not fixed.",
+    "review_date": "2025-08-01",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Complaint",
+    "persona": "Unknown",
+    "summary": "The user criticizes Spotify's software for being slow, unresponsive, constantly disconnecting from devices, having playlist management issues, and the AI DJ being repetitive and obnoxious.",
+    "primary_topic": "Performance",
+    "secondary_topics": [
+      "User Experience",
+      "AI DJ",
+      "Playlist Management"
+    ],
+    "pain_points": [
+      "slow to load",
+      "not responsive",
+      "takes long to switch songs",
+      "constantly disconnects from connected devices",
+      "playlist songs bounce around/return to original position",
+      "AI DJ plays same songs over and over",
+      "AI DJ voice is obnoxious"
+    ],
+    "feature_requests": [],
+    "positive_themes": [],
+    "user_goal": "Have a smooth, responsive music playback experience, manage playlists reliably, and enjoy diverse recommendations from AI DJ.",
+    "root_cause": "Software performance issues, bugs in device connectivity and playlist management, and lack of diversity in AI DJ's recommendations.",
+    "mentioned_features": [
+      "AI DJ"
+    ],
+    "recommendation_component": "AI DJ",
+    "music_discovery_related": true,
+    "discovery_issue": "The AI DJ repeatedly plays the same songs, lacking diversity in its recommendations.",
+    "impact_area": "Performance",
+    "severity": "critical",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "58",
+    "source": "google_play",
+    "review_text": "I love Spotify and have for years, use it almost every single day. So when they added the option to listen to audio books with the premium subscription I was very excited, however, who ever decided to put a limit on how many chapters you can listen to and then decided you can buy more chapters for the same price as I pay for my premium subscription deserves to get fired. That is the stupidest thing I've ever seen. Do better Spotify.",
+    "review_date": "2024-11-27",
+    "rating": 3,
+    "sentiment": "mixed",
+    "emotion": "Angry",
+    "review_type": "Mixed Feedback",
+    "persona": "Premium User",
+    "summary": "A long-time Spotify user loves the service but is angry about the limited number of audiobook chapters included with Premium and the high cost to purchase more.",
+    "primary_topic": "Premium",
+    "secondary_topics": [
+      "Other"
+    ],
+    "pain_points": [
+      "limit on audiobook chapters for Premium users",
+      "high cost to buy more audiobook chapters"
+    ],
+    "feature_requests": [],
+    "positive_themes": [
+      "loves Spotify",
+      "uses it daily",
+      "excited about audiobooks"
+    ],
+    "user_goal": "Access a substantial library of audiobooks as part of their Premium subscription.",
+    "root_cause": "Premium subscription model for audiobooks is perceived as poor value.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Premium",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "59",
+    "source": "google_play",
+    "review_text": "I usually love Spotify, I even have premium, but recently it has been SO testy when I try to open it. Sometimes it will work fine, but most of the time it just opens to a black screen and no matter if I reset the app, or even my phone, nothing really helps it. When it does this, if it eventually opens, everything is incredibly slow to load. I'm very disappointed.",
+    "review_date": "2025-05-06",
+    "rating": 1,
+    "sentiment": "mixed",
+    "emotion": "Disappointed",
+    "review_type": "Bug Report",
+    "persona": "Premium User",
+    "summary": "A Premium user is disappointed by recent app instability, frequently opening to a black screen and being incredibly slow to load.",
+    "primary_topic": "Performance",
+    "secondary_topics": [
+      "Bug Report",
+      "User Experience"
+    ],
+    "pain_points": [
+      "app opens to a black screen",
+      "incredibly slow to load",
+      "app is \"testy\""
+    ],
+    "feature_requests": [],
+    "positive_themes": [
+      "usually loves Spotify"
+    ],
+    "user_goal": "Open and use the Spotify app reliably and quickly.",
+    "root_cause": "App stability and performance issues (bugs).",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Performance",
+    "severity": "critical",
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,366 @@
+[
+  {
+    "review_id": "90",
+    "source": "google_play",
+    "review_text": "I've used this platform since 2011, and it seems to get worse every year. I open another app(non-media related) and my queue disappears and stops playing the current song. It's as if Iuninstalled the app and reinstall it every time that happens. But if I close the app and reopen it, the music resumes. And when I open the app after a while, it lags. The team that works on this app need to do better. I'm really close to canceling premium and switching to an app that actually works properly.",
+    "review_date": "2025-08-08",
+    "rating": 3,
+    "sentiment": "negative",
+    "emotion": "Frustrated",
+    "review_type": "Complaint",
+    "persona": "Premium User",
+    "summary": "The user is frustrated with the app's performance issues, including music stopping and queue disappearing when switching apps, and general lagging.",
+    "primary_topic": "Performance",
+    "secondary_topics": [
+      "User Experience",
+      "Premium"
+    ],
+    "pain_points": [
+      "music stops playing when switching apps",
+      "queue disappears when switching apps",
+      "app lags after a while"
+    ],
+    "feature_requests": [],
+    "positive_themes": [],
+    "user_goal": "Listen to music without interruption and use the app smoothly.",
+    "root_cause": "App background process instability or memory management issues, general performance degradation.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Performance",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "91",
+    "source": "google_play",
+    "review_text": "Unreliable app. I have my music downloaded so I can use when there is no service, but Spotify app freezes SO often. This is a recent issue, so hopefully I can get that fixed. There's also poor syncing across devices, making me have to delete EVERYTHING and redownload to see all of my liked songs again. pst, why is there a single button at the top of the library that can instantly delete all downloaded songs with no window asking if I meant to hit it?🙃",
+    "review_date": "2025-09-15",
+    "rating": 3,
+    "sentiment": "negative",
+    "emotion": "Frustrated",
+    "review_type": "Complaint",
+    "persona": "Unknown",
+    "summary": "The user experiences frequent app freezes, poor syncing of liked songs across devices, and an easily triggered 'delete all downloaded songs' button without confirmation.",
+    "primary_topic": "Performance",
+    "secondary_topics": [
+      "Offline Playback",
+      "User Experience",
+      "Library"
+    ],
+    "pain_points": [
+      "app freezes often",
+      "poor syncing across devices",
+      "liked songs not syncing",
+      "easy accidental deletion of downloaded songs"
+    ],
+    "feature_requests": [
+      "add confirmation for deleting all downloaded songs"
+    ],
+    "positive_themes": [],
+    "user_goal": "Listen to downloaded music reliably offline, have consistent library across devices, and manage downloaded content safely.",
+    "root_cause": "App instability/bugs causing freezes, synchronization issues with user library data, poor UI/UX design for critical actions.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Performance",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "92",
+    "source": "google_play",
+    "review_text": "Bro!!!!! Too many ads! It's really annoying. So many ads! They are coming after just 2-3 songs and that's too 3-4 or 4-5 ads! This is really annoying and if this continues I'll delete Spotify and I will tell my friends also to delete Spotify! I appreciate Spotify in quality but this is too much! It's our choice to take a premium or not. Why are you forcing us by making those many ads!? Really a bad service bruhh 😮‍💨😒. I hate Spotify nowadays.",
+    "review_date": "2026-04-14",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Complaint",
+    "persona": "Free User",
+    "summary": "The user is extremely frustrated with the excessive number and frequency of advertisements on the free tier, feeling forced to upgrade.",
+    "primary_topic": "Ads",
+    "secondary_topics": [
+      "User Experience"
+    ],
+    "pain_points": [
+      "too many ads",
+      "ads after 2-3 songs",
+      "multiple ads (3-5) at once"
+    ],
+    "feature_requests": [],
+    "positive_themes": [
+      "appreciates Spotify quality"
+    ],
+    "user_goal": "Listen to music with fewer interruptions.",
+    "root_cause": "Aggressive ad monetization strategy on the free tier.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Ads",
+    "severity": "critical",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "93",
+    "source": "google_play",
+    "review_text": "listening to music - great! However I hate the fact that spotify are pushing their own ads inbetween podcasts. As I've already paid premium, you're now making me pay again. And no, this isn't ads included in the creators podcast, they are played separately before and after the podcast. No point paying for premium if you mostly listen to podcasts, purely because Spotify feel like they haven't made enough money out of you. Oh and trying to charge 8.99 for extra audio book hours is just plain greed",
+    "review_date": "2025-03-20",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Disappointed",
+    "review_type": "Complaint",
+    "persona": "Premium User",
+    "summary": "The premium user is frustrated by Spotify-inserted ads in podcasts and additional charges for audiobook hours, feeling that premium benefits are diminishing.",
+    "primary_topic": "Podcasts",
+    "secondary_topics": [
+      "Premium",
+      "Ads"
+    ],
+    "pain_points": [
+      "Spotify pushing own ads in podcasts for premium users",
+      "charging extra for audiobook hours"
+    ],
+    "feature_requests": [],
+    "positive_themes": [
+      "listening to music is great"
+    ],
+    "user_goal": "Listen to podcasts and audiobooks without ads or additional charges as a premium user.",
+    "root_cause": "Spotify's monetization strategy for podcasts and audiobooks, which differs from music for premium users.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Premium",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "94",
+    "source": "google_play",
+    "review_text": "I absolutely love Spotify and have since 2008. I always pay for premium because I can't stand commercials. Reason for the 4 star rating is due to a reoccurring issue causing me to reinstall the app to fix it. Eventually i can only play 1 genre of music from my library. doesn't matter if I make a shuffle all playlist or select a specific song from different genre. it only affects my downloaded/liked songs. It could be 4 months or a year, it always seems to happen. It's very annoying.",
+    "review_date": "2025-08-04",
+    "rating": 4,
+    "sentiment": "mixed",
+    "emotion": "Frustrated",
+    "review_type": "Mixed Feedback",
+    "persona": "Premium User",
+    "summary": "A long-time premium user loves Spotify but is frustrated by a recurring bug that limits playback to only one genre from their library, requiring app reinstallation.",
+    "primary_topic": "Library",
+    "secondary_topics": [
+      "Performance",
+      "User Experience",
+      "Premium"
+    ],
+    "pain_points": [
+      "recurring bug limiting playback to one genre from library",
+      "requires app reinstallation to fix bug"
+    ],
+    "feature_requests": [],
+    "positive_themes": [
+      "loves Spotify",
+      "wide selection",
+      "no commercials (premium benefit)"
+    ],
+    "user_goal": "Play music from their library across all genres without issues.",
+    "root_cause": "Persistent bug affecting library playback logic, possibly related to cached data or indexing.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Library",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "95",
+    "source": "google_play",
+    "review_text": "It's been going on very well, everything is perfect, but my account is signed up using my phone number, WITHOUT any emails, so when I go to the official site to log in through the phone number to add an email, it doesn't work, and keeps saying \"Check your phone number.\" Petition to actually make us able to log in using phone numbers, Spotify😞...",
+    "review_date": "2024-10-05",
+    "rating": 3,
+    "sentiment": "mixed",
+    "emotion": "Disappointed",
+    "review_type": "Suggestion",
+    "persona": "Unknown",
+    "summary": "The user is unable to log in to the official site using their phone number, which was used for signup, to add an email address.",
+    "primary_topic": "User Experience",
+    "secondary_topics": [],
+    "pain_points": [
+      "unable to log in with phone number on official site",
+      "cannot add email to phone-number-only account"
+    ],
+    "feature_requests": [
+      "enable phone number login on official site",
+      "allow adding email to phone-number-only accounts"
+    ],
+    "positive_themes": [
+      "everything is perfect (general app experience)"
+    ],
+    "user_goal": "Manage account details (add email) after signing up with a phone number.",
+    "root_cause": "Inconsistent login/account management capabilities between app and web for phone number accounts.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "User Experience",
+    "severity": "medium",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "96",
+    "source": "google_play",
+    "review_text": "I am not a fan of the results that kick out anytime I go to a song's \"Go to song radio\". When I want to go to the radio of a particular song, I expect similar songs that align with the song tempo/genre. However, this option just shuffles the latest music that has been released. I'm not sure if that's what is intended with this option, however my interpretation is that it should be playing similar music styles. If I wanted to listen to new releases, I would just go to my release radar.",
+    "review_date": "2025-06-09",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Disappointed",
+    "review_type": "Complaint",
+    "persona": "Unknown",
+    "summary": "The user is dissatisfied with the \"Go to song radio\" feature, as it plays new releases instead of similar songs based on tempo or genre.",
+    "primary_topic": "Radio",
+    "secondary_topics": [
+      "Recommendation Quality",
+      "Music Discovery"
+    ],
+    "pain_points": [
+      "'Go to song radio' plays new releases instead of similar songs",
+      "radio recommendations do not align with song tempo/genre"
+    ],
+    "feature_requests": [
+      "'Go to song radio' should play similar music styles"
+    ],
+    "positive_themes": [],
+    "user_goal": "Discover new music similar to a specific song using the \"Go to song radio\" feature.",
+    "root_cause": "Recommendation algorithm for \"song radio\" prioritizes new releases over stylistic similarity, or user expectation mismatch with feature intent.",
+    "mentioned_features": [
+      "Go to song radio",
+      "Release Radar"
+    ],
+    "recommendation_component": "Radio",
+    "music_discovery_related": true,
+    "discovery_issue": "The \"Go to song radio\" feature provides new releases rather than stylistically similar music, failing user expectations for discovery.",
+    "impact_area": "Recommendation Quality",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "97",
+    "source": "google_play",
+    "review_text": "Great streaming app. 2 things I wish they would add, one, a \"dislike\" button to compliment the heart. Hiding songs isn't the same. Makes playlists shorter by just not playing a song, and doesn't solve the problem of a not liked song showing up on playlists. It just gets grayed out and skipped. Let me dislike the song and just don't waste a spot on my Playlist with it. Secondly, the my DJ thing would be so much better if it didn't consistently cut off 30 seconds to a minute of most songs",
+    "review_date": "2025-10-29",
+    "rating": 3,
+    "sentiment": "mixed",
+    "emotion": "Frustrated",
+    "review_type": "Mixed Feedback",
+    "persona": "Unknown",
+    "summary": "The user praises the app but requests a \"dislike\" button for better playlist management and reports that the AI DJ consistently cuts off songs.",
+    "primary_topic": "AI DJ",
+    "secondary_topics": [
+      "Playlist Management",
+      "User Experience",
+      "Recommendation Quality"
+    ],
+    "pain_points": [
+      "AI DJ consistently cuts off songs",
+      "hiding songs is not an effective 'dislike' mechanism"
+    ],
+    "feature_requests": [
+      "add a 'dislike' button for songs",
+      "fix AI DJ cutting off songs"
+    ],
+    "positive_themes": [
+      "great streaming app"
+    ],
+    "user_goal": "Curate playlists more effectively and listen to full songs with AI DJ.",
+    "root_cause": "Lack of explicit negative feedback mechanism for recommendations/playlists, bug in AI DJ playback logic.",
+    "mentioned_features": [
+      "AI DJ"
+    ],
+    "recommendation_component": "AI DJ",
+    "music_discovery_related": true,
+    "discovery_issue": "The AI DJ cuts off songs, and there's no effective \"dislike\" button to refine recommendations and playlists.",
+    "impact_area": "AI DJ",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "98",
+    "source": "google_play",
+    "review_text": "I used to use spotify alot and I thought it was the best music app, but that was only because I was paying for premium, without premium you can't even skip or pick any of the music, you can only use shuffle or play it the playlist regularly but with my playlist I have a bunch of the same people over and over and that gets annoying, plus the app usually closes when I try to use it in the background then it gives me three 30 second ads after it just told me I get 30 minutes of uninterrupted music.",
+    "review_date": "2024-11-30",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Disappointed",
+    "review_type": "Complaint",
+    "persona": "Free User",
+    "summary": "The user, now on the free tier, is frustrated by the inability to skip or pick songs, repetitive playlist content, app closing in the background, and misleading ad-free promises.",
+    "primary_topic": "Ads",
+    "secondary_topics": [
+      "Premium",
+      "User Experience",
+      "Performance",
+      "Playlist Management"
+    ],
+    "pain_points": [
+      "cannot skip songs on free tier",
+      "cannot pick specific music on free tier",
+      "repetitive songs in playlists on free tier",
+      "app closes in background",
+      "misleading '30 minutes of uninterrupted music' promise followed by ads"
+    ],
+    "feature_requests": [],
+    "positive_themes": [],
+    "user_goal": "Listen to music with more control and fewer interruptions on the free tier.",
+    "root_cause": "Restrictive free tier features, poor app background stability, misleading ad messaging.",
+    "mentioned_features": [],
+    "recommendation_component": "General Discovery",
+    "music_discovery_related": true,
+    "discovery_issue": "Playlists on the free tier are repetitive, showing the same artists repeatedly.",
+    "impact_area": "Ads",
+    "severity": "critical",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "99",
+    "source": "google_play",
+    "review_text": "I've had Spotify premium for years. It's great to be able to select specific songs and listen without ads and they do have a really wide selection. I used to love their recs but the algorithms suck now. Harder to find new music bc they just keep pushing the same old. I also wish they would bring back the curated running playlist mix (your likes, mixed, w specific bpm).",
+    "review_date": "2025-04-14",
+    "rating": 3,
+    "sentiment": "mixed",
+    "emotion": "Disappointed",
+    "review_type": "Mixed Feedback",
+    "persona": "Premium User",
+    "summary": "A long-time premium user praises Spotify's selection and ad-free experience but is disappointed with the current recommendation algorithms, which are repetitive and make new music discovery difficult, and requests the return of curated running playlists.",
+    "primary_topic": "Recommendation Quality",
+    "secondary_topics": [
+      "Music Discovery",
+      "Playlist Management",
+      "Premium"
+    ],
+    "pain_points": [
+      "recommendation algorithms are poor",
+      "recommendations are repetitive",
+      "harder to find new music"
+    ],
+    "feature_requests": [
+      "improve recommendation algorithms",
+      "bring back curated running playlist mix (likes, mixed, specific bpm)"
+    ],
+    "positive_themes": [
+      "wide selection",
+      "select specific songs (premium)",
+      "listen without ads (premium)"
+    ],
+    "user_goal": "Discover new and diverse music and have personalized running playlists.",
+    "root_cause": "Recommendation algorithm lacks diversity and novelty, removal of a valued playlist feature.",
+    "mentioned_features": [],
+    "recommendation_component": "Algorithm",
+    "music_discovery_related": true,
+    "discovery_issue": "Recommendation algorithms are repetitive and make it harder to discover new music.",
+    "impact_area": "Recommendation Quality",
+    "severity": "high",
+    "confidence": 0.9
+  }
+]

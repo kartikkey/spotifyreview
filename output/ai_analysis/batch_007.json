@@ -1,0 +1,411 @@
+[
+  {
+    "review_id": "60",
+    "source": "google_play",
+    "review_text": "The U.I can be better. The search button should be at the top. Next, the automatic shuffle. I think the tempo and most dominant sound in a playing song is how the next song is determined. But it's not as efficient as YouTube music. Oh! I really love how that I can enjoy podcasts without ads and also download episodes to listen offline, no matter what plan I'm on. Spotify really did great on that one. I also love the captions for podcasts feature.",
+    "review_date": "2024-11-08",
+    "rating": 3,
+    "sentiment": "mixed",
+    "emotion": "Mixed",
+    "review_type": "Mixed Feedback",
+    "persona": "Unknown",
+    "summary": "The user suggests UI improvements and criticizes the automatic shuffle's efficiency compared to YouTube Music, while praising ad-free podcast listening, offline downloads, and captions.",
+    "primary_topic": "User Experience",
+    "secondary_topics": [
+      "Podcasts",
+      "Music Discovery"
+    ],
+    "pain_points": [
+      "UI layout could be better (search button placement)",
+      "automatic shuffle is not efficient compared to YouTube Music"
+    ],
+    "feature_requests": [
+      "Move search button to the top",
+      "Improve automatic shuffle algorithm"
+    ],
+    "positive_themes": [
+      "Ad-free podcast listening",
+      "Offline podcast downloads",
+      "Podcast captions"
+    ],
+    "user_goal": "Have a better user interface, experience efficient automatic music playback, enjoy podcasts",
+    "root_cause": "Suboptimal UI design for search, automatic shuffle algorithm not meeting user expectations for song transitions",
+    "mentioned_features": [
+      "Shuffle",
+      "Podcasts",
+      "Captions"
+    ],
+    "recommendation_component": "General Discovery",
+    "music_discovery_related": true,
+    "discovery_issue": "The automatic shuffle algorithm is perceived as inefficient compared to competitors.",
+    "impact_area": "User Experience",
+    "severity": "medium",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "61",
+    "source": "google_play",
+    "review_text": "I love having the music. I use spotify every day. Three stars because the app itself is absolute trash. It is constantly crashing, freezing, and randomly stopping. EDIT 03/22: don't know what they did but they made it worse than ever. Spotify is trash, yall. Edit 08/24: Dear Spotify. Pay artists more. Also do something about the various versions of songs as it relates to the favorites list. Maybe like suggest the other versions when you add the song to a playlist or something.",
+    "review_date": "2024-09-01",
+    "rating": 3,
+    "sentiment": "mixed",
+    "emotion": "Frustrated",
+    "review_type": "Mixed Feedback",
+    "persona": "Unknown",
+    "summary": "The user loves Spotify's music but is highly frustrated with the app's constant crashing, freezing, and stopping, and also suggests improving artist pay and handling of song versions in favorites.",
+    "primary_topic": "Performance",
+    "secondary_topics": [
+      "User Experience",
+      "Library",
+      "Other"
+    ],
+    "pain_points": [
+      "App constantly crashing",
+      "App freezing",
+      "App randomly stopping",
+      "Difficulty managing various versions of songs in favorites"
+    ],
+    "feature_requests": [
+      "Improve app stability",
+      "Suggest other versions of songs when adding to a playlist"
+    ],
+    "positive_themes": [
+      "Loves having music",
+      "Uses Spotify daily"
+    ],
+    "user_goal": "Listen to music reliably, manage favorite songs effectively",
+    "root_cause": "App instability and performance issues, lack of robust version management for songs in the library/playlists",
+    "mentioned_features": [
+      "Favorites list"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Performance",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "62",
+    "source": "google_play",
+    "review_text": "I had to edit my review, it used to be 5 stars but I'm lowering it because all of the sudden, every now and then, it'll switch what Im listening to. I've been listening to a podcast's library and it switched me to a curated list. If you want to make me a recommended list, fine but I don't HAVE to listen to that other stuff and this app is making it so I have to. Super inconvenient, especially while driving. I've used this app for years and never had any issues until recently.",
+    "review_date": "2024-12-10",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Frustrated",
+    "review_type": "Complaint",
+    "persona": "Unknown",
+    "summary": "The user is frustrated because the app unexpectedly switches from their chosen content, like a podcast, to a curated recommended list, forcing them to listen to unwanted content.",
+    "primary_topic": "User Experience",
+    "secondary_topics": [
+      "Podcasts",
+      "Recommendation Quality"
+    ],
+    "pain_points": [
+      "App automatically switches from user's chosen content (podcast) to a curated recommended list",
+      "Forced listening to unwanted content"
+    ],
+    "feature_requests": [
+      "Do not automatically switch playback to recommended lists",
+      "Allow users to opt-out or control auto-play of recommendations"
+    ],
+    "positive_themes": [],
+    "user_goal": "Listen to chosen content without interruption, avoid forced recommendations",
+    "root_cause": "Aggressive or poorly implemented auto-play/recommendation feature that overrides user's explicit content choice",
+    "mentioned_features": [
+      "Podcasts",
+      "Curated list"
+    ],
+    "recommendation_component": "General Discovery",
+    "music_discovery_related": true,
+    "discovery_issue": "The app automatically switches playback to recommended lists, forcing users to listen to unwanted content.",
+    "impact_area": "User Experience",
+    "severity": "high",
+    "confidence": 0.95
+  },
+  {
+    "review_id": "63",
+    "source": "google_play",
+    "review_text": "I LOVE Spotify, and as a user since circa 2013, I like to think I'm think I'm an early adopter and have a lot of experience with the app. That said, the last 6 months it's gone drastically downhill. The app constantly closes with no crash report, it just stops playing and it closes. Sometimes it's playing and the app is not even showing as open, which is fun. Sometimes, it's choppy and that may be a service issue but it's only been happening the last few months. Not sure what's going on!",
+    "review_date": "2025-07-17",
+    "rating": 5,
+    "sentiment": "mixed",
+    "emotion": "Disappointed",
+    "review_type": "Mixed Feedback",
+    "persona": "Unknown",
+    "summary": "A long-time user expresses love for Spotify but reports a drastic decline in app performance over the last six months, including constant closing, stopping playback, and choppiness.",
+    "primary_topic": "Performance",
+    "secondary_topics": [
+      "User Experience"
+    ],
+    "pain_points": [
+      "App constantly closes without crash report",
+      "App stops playing and closes",
+      "App sometimes plays without showing as open",
+      "Choppy playback"
+    ],
+    "feature_requests": [
+      "Improve app stability and performance"
+    ],
+    "positive_themes": [
+      "Loves Spotify",
+      "Long-term user"
+    ],
+    "user_goal": "Listen to music reliably and smoothly",
+    "root_cause": "Underlying app instability and performance regressions",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Performance",
+    "severity": "high",
+    "confidence": 0.95
+  },
+  {
+    "review_id": "64",
+    "source": "google_play",
+    "review_text": "Constant popups for premium, can’t skip without long ads, can’t play albums in order, and they have even stopped you from playing your “liked” songs. I mean, how could you stop us from playing our favorite song. So what's the point of this app then? It's better to listen to the radio, at least they'll play the latest songs. The free version is complete trash now. I’m planning to switch. Let’s see what we can find.",
+    "review_date": "2025-08-29",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Complaint",
+    "persona": "Free User",
+    "summary": "The user is highly frustrated with the free version of Spotify due to constant premium popups, unskippable long ads, inability to play albums in order, and being prevented from playing liked songs, leading them to consider switching.",
+    "primary_topic": "Ads",
+    "secondary_topics": [
+      "Premium",
+      "User Experience",
+      "Library"
+    ],
+    "pain_points": [
+      "Constant popups for premium",
+      "Inability to skip without long ads",
+      "Inability to play albums in order",
+      "Inability to play \"liked\" songs"
+    ],
+    "feature_requests": [
+      "Allow playing liked songs",
+      "Allow playing albums in order",
+      "Reduce ads/premium popups for free users"
+    ],
+    "positive_themes": [],
+    "user_goal": "Listen to music, play liked songs, play albums in order, avoid excessive interruptions",
+    "root_cause": "Restrictive free tier limitations, aggressive monetization strategies, poor user experience design for free users",
+    "mentioned_features": [
+      "Premium",
+      "Liked songs"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Ads",
+    "severity": "critical",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "65",
+    "source": "google_play",
+    "review_text": "Recently, it feels like the premium subscription is offering less value for its cost. One thing I recently discovered was that there is a limit on audiobook listening hours, and they will try to get you to pay extra to continue listening (this is with the premium subscription). I don't remember seeing this when I signed up, so if audiobooks are part of the reason that you want to sign up, I would recommend looking at other options. Also, it's hard to find user-created playlists now.",
+    "review_date": "2024-12-25",
+    "rating": 3,
+    "sentiment": "negative",
+    "emotion": "Disappointed",
+    "review_type": "Complaint",
+    "persona": "Premium User",
+    "summary": "The premium user feels their subscription offers less value due to a newly discovered limit on audiobook listening hours requiring extra payment, and also finds it difficult to locate user-created playlists.",
+    "primary_topic": "Premium",
+    "secondary_topics": [
+      "Podcasts",
+      "Playlist Management"
+    ],
+    "pain_points": [
+      "Premium subscription offers less value",
+      "Limit on audiobook listening hours requiring extra payment",
+      "Difficulty finding user-created playlists"
+    ],
+    "feature_requests": [
+      "Clarify audiobook limits during signup",
+      "Improve discoverability of user-created playlists"
+    ],
+    "positive_themes": [],
+    "user_goal": "Get full value from premium subscription, listen to audiobooks without extra cost, find user-created playlists",
+    "root_cause": "Unclear communication of premium features/limitations, changes in premium value proposition, poor discoverability of user-generated content",
+    "mentioned_features": [
+      "Premium subscription",
+      "Audiobooks",
+      "User-created playlists"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Premium",
+    "severity": "high",
+    "confidence": 0.95
+  },
+  {
+    "review_id": "66",
+    "source": "google_play",
+    "review_text": "Love the app! Good music variety. Lyrics are pretty in sync with every song. This also has a wide variety of podcasts. Edited: This kinda sucks. I was using it for a month, and I was able to skip any song, pick what song I wanted to listen to, and listen offline. I wasn't even paying for premium. Now I wake up, and it all changes. I can't skip as much as I could, and I can't pick out a specific song. AND THERE ARE SO MANY ADDS. GOOD GOD. The fact that I can't skip as much is ridiculous.👎",
+    "review_date": "2025-09-06",
+    "rating": 2,
+    "sentiment": "mixed",
+    "emotion": "Angry",
+    "review_type": "Mixed Feedback",
+    "persona": "Free User",
+    "summary": "The user initially loved the app for its music variety, lyrics, and podcasts, but became frustrated when free tier features like unlimited skips, on-demand song selection, and offline listening were suddenly removed, replaced with numerous ads.",
+    "primary_topic": "Ads",
+    "secondary_topics": [
+      "Premium",
+      "User Experience",
+      "Offline Playback"
+    ],
+    "pain_points": [
+      "Free tier features (unlimited skips, on-demand song selection, offline listening) were removed",
+      "Too many ads",
+      "Inability to skip as much",
+      "Inability to pick specific songs"
+    ],
+    "feature_requests": [
+      "Restore previous free tier functionality (unlimited skips, on-demand song selection, offline listening)",
+      "Reduce ads"
+    ],
+    "positive_themes": [
+      "Good music variety",
+      "In-sync lyrics",
+      "Wide variety of podcasts"
+    ],
+    "user_goal": "Listen to music with control (skips, specific songs), listen offline, avoid excessive ads",
+    "root_cause": "Changes in free tier policy, aggressive monetization strategy, poor communication of feature changes",
+    "mentioned_features": [
+      "Lyrics",
+      "Podcasts",
+      "Premium"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Ads",
+    "severity": "critical",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "67",
+    "source": "google_play",
+    "review_text": "App has become horribly unstable. The app crashes on me every other song, sometimes I get two songs in-between. I have reinstalled the app, cleared the cache, undownloaded and redownloaded all saved playlist. But the app still crashes constantly. Not worth the membership cost anymore, given that I can't enjoy my music. I hope it gets fixed with the next update, but considering the issue wasn't fixed after the last time I brought this issue up, I'm not hopeful.",
+    "review_date": "2024-12-10",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Frustrated",
+    "review_type": "Bug Report",
+    "persona": "Premium User",
+    "summary": "The premium user reports that the app has become horribly unstable, crashing constantly every one or two songs, despite troubleshooting efforts, making the membership cost feel unwarranted.",
+    "primary_topic": "Performance",
+    "secondary_topics": [
+      "User Experience",
+      "Premium"
+    ],
+    "pain_points": [
+      "App is horribly unstable",
+      "App crashes constantly (every other song)",
+      "Troubleshooting steps (reinstall, clear cache, re-download playlists) did not resolve the issue"
+    ],
+    "feature_requests": [
+      "Fix app stability and crashing issues"
+    ],
+    "positive_themes": [],
+    "user_goal": "Enjoy music reliably without interruptions",
+    "root_cause": "Severe app instability and persistent bugs",
+    "mentioned_features": [
+      "Playlists"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Performance",
+    "severity": "critical",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "68",
+    "source": "google_play",
+    "review_text": "TOOK AWAY THE LAST GOOD THING ABOUT SPOTIFY, the queue!! Used to be able to click queue and select random songs from library in the queue to play next, now you can't, have to individually drag each song to the top. Absolute trash. EVERY single update Spotify has done for the last 5 years has made the app worse and worse. Used to be the best, can't get my 7000 songs off the damn app without starting completely over on something else, no transfer apps work. So effing mad.",
+    "review_date": "2025-01-16",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Complaint",
+    "persona": "Unknown",
+    "summary": "The user is extremely angry and frustrated because a recent update removed the ability to easily select and add random songs to the queue from their library, now requiring manual dragging, and they feel every update has worsened the app.",
+    "primary_topic": "User Experience",
+    "secondary_topics": [
+      "Library",
+      "Playlist Management"
+    ],
+    "pain_points": [
+      "Removed ability to easily select and add random songs to the queue from the library",
+      "Now requires individual dragging to manage queue",
+      "Feeling that updates consistently worsen the app",
+      "Difficulty transferring existing library to other services"
+    ],
+    "feature_requests": [
+      "Restore previous queue management functionality (easy selection of songs from library)",
+      "Improve library transfer options"
+    ],
+    "positive_themes": [],
+    "user_goal": "Easily manage and queue songs from their library",
+    "root_cause": "Regression in queue management functionality, poor UX design choices in recent updates",
+    "mentioned_features": [
+      "Queue",
+      "Library"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "User Experience",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "69",
+    "source": "google_play",
+    "review_text": "First off, I love Spotify. Second, I play one playlist, and an ad says enjoy the next 30 minutes of uninterrupted listening. Then, halfway through listening to my song, I decided I wanted to swap playlist. As I do so,I get another ad? Also, I love having the free skips, but I feel like maybe have 10 skips instead of 6? I also wish I could download one of my playlists, but I dont want to pay for the Spotify Premium every month. Overall, I love Spotify and will keep using it.",
+    "review_date": "2025-11-25",
+    "rating": 5,
+    "sentiment": "mixed",
+    "emotion": "Satisfied",
+    "review_type": "Mixed Feedback",
+    "persona": "Free User",
+    "summary": "The user loves Spotify but is frustrated by inconsistent ad experiences, specifically receiving an ad immediately after an \"uninterrupted listening\" promise when switching playlists, and wishes for more free skips and the ability to download playlists without a premium subscription.",
+    "primary_topic": "Ads",
+    "secondary_topics": [
+      "Premium",
+      "User Experience",
+      "Offline Playback",
+      "Playlist Management"
+    ],
+    "pain_points": [
+      "Inconsistent ad experience (ad after \"uninterrupted listening\" promise when switching playlists)"
+    ],
+    "feature_requests": [
+      "Increase free skips (e.g., from 6 to 10)",
+      "Allow downloading one playlist without Premium"
+    ],
+    "positive_themes": [
+      "Loves Spotify",
+      "Free skips are appreciated"
+    ],
+    "user_goal": "Enjoy music with fewer interruptions, have more control over playback, download playlists without paying for premium",
+    "root_cause": "Inconsistent ad serving logic, restrictive free tier limitations",
+    "mentioned_features": [
+      "Playlists",
+      "Spotify Premium"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Ads",
+    "severity": "medium",
+    "confidence": 0.95
+  }
+]

@@ -1,0 +1,391 @@
+[
+  {
+    "review_id": "40",
+    "source": "google_play",
+    "review_text": "Edit 2/27/26: Something seems to have changed in the last few weeks. I listen a lot, probably 4-5 hours a day while I do renovation work and every time I open the app it shows a \"you are back online\" message and it takes 2-3 minutes to load up all the recommendations and personalization stuff. Most of the time I am connected to high quality Wi-Fi or 5G networks. it's definitely not a connection issue since it happens everywhere I go. It's a music app so it's not critical, but still.",
+    "review_date": "2026-02-27",
+    "rating": 3,
+    "sentiment": "negative",
+    "emotion": "Frustrated",
+    "review_type": "Complaint",
+    "persona": "Unknown",
+    "summary": "The user experiences long loading times for recommendations and personalization features upon opening the app, despite having a strong internet connection.",
+    "primary_topic": "Performance",
+    "secondary_topics": [
+      "Recommendation Quality",
+      "Music Discovery",
+      "User Experience"
+    ],
+    "pain_points": [
+      "long loading times for recommendations",
+      "app shows 'you are back online' message when already online"
+    ],
+    "feature_requests": [],
+    "positive_themes": [],
+    "user_goal": "Access music and personalized recommendations quickly.",
+    "root_cause": "App takes too long to load personalized content and recommendations, possibly due to inefficient data fetching or synchronization.",
+    "mentioned_features": [
+      "recommendations",
+      "personalization"
+    ],
+    "recommendation_component": "General Discovery",
+    "music_discovery_related": true,
+    "discovery_issue": "The app takes 2-3 minutes to load recommendations and personalization features.",
+    "impact_area": "Performance",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "41",
+    "source": "google_play",
+    "review_text": "Poor UI. Ads pop up on premium (disguised as something I might like). Ads on podcasts. Often unable to access downloaded library when offline. No option to disable sync between devices. Buggy, especially when listening to podcasts. I tried sync between devices and that's buggy. Downloaded huge video files without my permission and had to find settings to change that. Randomly changes settings like when I unplug my earphones, now music keeps playing but silently?! Pays musicians a pittance.",
+    "review_date": "2026-03-09",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Complaint",
+    "persona": "Premium User",
+    "summary": "The user, a premium subscriber, reports numerous bugs including ads on premium, inability to access offline downloads, buggy device sync, unwanted video downloads, and random setting changes, along with general poor UI.",
+    "primary_topic": "User Experience",
+    "secondary_topics": [
+      "Ads",
+      "Offline Playback",
+      "Podcasts",
+      "Performance",
+      "Social Features"
+    ],
+    "pain_points": [
+      "poor UI",
+      "ads on premium",
+      "ads on podcasts",
+      "unable to access downloaded library offline",
+      "no option to disable sync between devices",
+      "buggy device sync",
+      "unwanted video file downloads",
+      "random setting changes (music playing silently after unplugging earphones)",
+      "app is buggy when listening to podcasts"
+    ],
+    "feature_requests": [
+      "option to disable sync between devices"
+    ],
+    "positive_themes": [],
+    "user_goal": "Listen to music and podcasts seamlessly, both online and offline, without interruptions or unexpected behavior.",
+    "root_cause": "Multiple software bugs and design flaws affecting various features like ad delivery, offline access, device synchronization, and settings management.",
+    "mentioned_features": [
+      "podcasts",
+      "downloaded library",
+      "sync between devices"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "User Experience",
+    "severity": "critical",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "42",
+    "source": "google_play",
+    "review_text": "Personally, I don't understand why you have to double down on the free version of the app with a bunch of ads AND limited song choices. That's overkill and it makes this app hardly even usable for longer than 20 minutes before it devolves into music that's vaguely related to the stuff you chose to listen to. It's great when you spend money, but that's by design. Y'all make enough money to give us more than 6 skips... I mean, c'mon.",
+    "review_date": "2026-03-10",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Frustrated",
+    "review_type": "Complaint",
+    "persona": "Free User",
+    "summary": "The user criticizes the free version for excessive ads, limited song choices, and poor recommendation quality, making it barely usable.",
+    "primary_topic": "Ads",
+    "secondary_topics": [
+      "Premium",
+      "Music Discovery",
+      "Recommendation Quality"
+    ],
+    "pain_points": [
+      "excessive ads on free version",
+      "limited song choices on free version",
+      "poor recommendation quality on free version",
+      "only 6 skips per hour on free version"
+    ],
+    "feature_requests": [
+      "more than 6 skips on free version",
+      "improved recommendation quality on free version"
+    ],
+    "positive_themes": [],
+    "user_goal": "Listen to music on the free tier without excessive limitations or poor recommendations.",
+    "root_cause": "Aggressive monetization strategy on the free tier, leading to a degraded user experience and poor recommendation diversity.",
+    "mentioned_features": [],
+    "recommendation_component": "General Discovery",
+    "music_discovery_related": true,
+    "discovery_issue": "The free version's recommendations quickly devolve into vaguely related music, making it unusable.",
+    "impact_area": "Ads",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "43",
+    "source": "google_play",
+    "review_text": "This app keeps crashing despite clearing the cache, it is still crashing. The advertising is annoying louder than the music or podcast. This is really beat the purpose of being a background music. Jolting to say the least. I'm better off listening to my own music or using other players. 2026 update: totally giving on on this app, hangs all the time, will not even open, uninstalling.",
+    "review_date": "2026-03-10",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Complaint",
+    "persona": "Unknown",
+    "summary": "The user reports persistent app crashes, freezing, and excessively loud advertisements, leading to uninstallation.",
+    "primary_topic": "Performance",
+    "secondary_topics": [
+      "Ads",
+      "User Experience"
+    ],
+    "pain_points": [
+      "app keeps crashing",
+      "app hangs all the time",
+      "app will not open",
+      "advertisements are louder than music/podcast"
+    ],
+    "feature_requests": [],
+    "positive_themes": [],
+    "user_goal": "Listen to music or podcasts reliably in the background without interruptions or jarring ads.",
+    "root_cause": "Critical software bugs causing instability (crashing, freezing) and poor ad volume control.",
+    "mentioned_features": [
+      "podcast"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Performance",
+    "severity": "critical",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "44",
+    "source": "google_play",
+    "review_text": "Shuffle does not actually shuffle. 'Shuffle' is just Spotify's version of a playlist. If I add a song to the queue, it'll play the song but will not change the shuffle, so that song could be played right away again if it was in that order of the 'shuffle'. Super annoying, especially considering the monthly price keeps going up, but the issue doesn't get resolved! Also, my app keeps skipping! Makes me feel like I'm back in the 90's and I need to take the CD out and wipe it off! it's not my settin",
+    "review_date": "2026-03-07",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Frustrated",
+    "review_type": "Complaint",
+    "persona": "Premium User",
+    "summary": "The user complains that the shuffle feature does not work correctly, leading to repetitive songs, and also experiences frequent audio skipping issues.",
+    "primary_topic": "User Experience",
+    "secondary_topics": [
+      "Performance",
+      "Premium"
+    ],
+    "pain_points": [
+      "shuffle does not actually shuffle",
+      "songs repeat too quickly in shuffle",
+      "app keeps skipping audio"
+    ],
+    "feature_requests": [
+      "fix shuffle functionality"
+    ],
+    "positive_themes": [],
+    "user_goal": "Listen to a diverse, non-repetitive selection of music using shuffle and experience uninterrupted audio playback.",
+    "root_cause": "Flawed shuffle algorithm and an audio playback bug causing skipping.",
+    "mentioned_features": [
+      "Shuffle",
+      "queue"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "User Experience",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "45",
+    "source": "google_play",
+    "review_text": "The app has been great but recently with new updates it's become cumbersome to deal with. I like the Spotify DJ, but the app somehow turns off the DJ and switches automatically to Daily Mix 2 which I don't like because I have to keep monitoring my phone now to make sure DJ is up and playing music when I don't skip songs often. I didn't use daily mix In the past because it's too short and I need something to keep going while I'm at work. Edit: this fix they suggested in their reply doesn't work",
+    "review_date": "2026-01-10",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Frustrated",
+    "review_type": "Complaint",
+    "persona": "Unknown",
+    "summary": "The user is frustrated that the app automatically switches from Spotify DJ to Daily Mix 2, which they dislike due to its short duration, requiring constant monitoring.",
+    "primary_topic": "AI DJ",
+    "secondary_topics": [
+      "Daily Mix",
+      "User Experience",
+      "Recommendation Quality"
+    ],
+    "pain_points": [
+      "app automatically switches from Spotify DJ to Daily Mix 2",
+      "Daily Mix is too short"
+    ],
+    "feature_requests": [
+      "prevent automatic switching from Spotify DJ",
+      "longer Daily Mixes"
+    ],
+    "positive_themes": [
+      "likes Spotify DJ"
+    ],
+    "user_goal": "Listen to continuous, personalized music via Spotify DJ without manual intervention, especially during work.",
+    "root_cause": "Automatic switching behavior between recommendation features and the perceived inadequacy of Daily Mix duration.",
+    "mentioned_features": [
+      "Spotify DJ",
+      "Daily Mix 2"
+    ],
+    "recommendation_component": "AI DJ",
+    "music_discovery_related": true,
+    "discovery_issue": "The app automatically switches from the preferred Spotify DJ to the disliked and too-short Daily Mix 2.",
+    "impact_area": "Music Discovery",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "46",
+    "source": "google_play",
+    "review_text": "So most of the technical issues have been dealt with and this app seems to be running pretty flawlessly these days. I would recommend this to most people but especially anyone into Deathcore as it seems to have the best selection of current and past artist within that specific genre. The only reason I'm not giving 5 Stars is I hear the Artists don't make what they should. Who really knows though. Enjoy.",
+    "review_date": "2026-03-06",
+    "rating": 4,
+    "sentiment": "positive",
+    "emotion": "Satisfied",
+    "review_type": "Praise",
+    "persona": "Unknown",
+    "summary": "The user praises the app's improved technical performance and excellent selection for the Deathcore genre, though expresses concern about artist compensation.",
+    "primary_topic": "Performance",
+    "secondary_topics": [
+      "Library",
+      "User Experience",
+      "Other"
+    ],
+    "pain_points": [
+      "artists don't make what they should (hearsay)"
+    ],
+    "feature_requests": [],
+    "positive_themes": [
+      "technical issues dealt with",
+      "app running flawlessly",
+      "best selection for Deathcore genre"
+    ],
+    "user_goal": "Enjoy music from a specific genre with a stable and well-performing app.",
+    "root_cause": "",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Performance",
+    "severity": "none",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "47",
+    "source": "google_play",
+    "review_text": "Great app! The only thing I hate about this app is that it literally does NOT give us the bare minimum!? For example, being able to loop a song. I get the ad part, I don't mind it that much actually– but why not give free users the loop button? We already deal with 6 skips an hour, 2-4 ads after 2 songs, and not being able to play a playlist in order. Plus, the individual premium is 12 dollars a month, probably not bad for others, but I wouldn't buy it for a music app. Updated: Not much changed.",
+    "review_date": "2025-12-30",
+    "rating": 2,
+    "sentiment": "mixed",
+    "emotion": "Frustrated",
+    "review_type": "Mixed Feedback",
+    "persona": "Free User",
+    "summary": "The user, a free user, expresses frustration over basic features like song looping being unavailable, along with existing limitations like limited skips, frequent ads, and inability to play playlists in order.",
+    "primary_topic": "Premium",
+    "secondary_topics": [
+      "Ads",
+      "User Experience"
+    ],
+    "pain_points": [
+      "cannot loop a song (as free user)",
+      "limited to 6 skips an hour",
+      "2-4 ads after 2 songs",
+      "cannot play a playlist in order (as free user)"
+    ],
+    "feature_requests": [
+      "allow free users to loop songs",
+      "more skips for free users",
+      "allow free users to play playlists in order"
+    ],
+    "positive_themes": [
+      "great app (overall sentiment before listing complaints)",
+      "doesn't mind ads *that much* (initially)"
+    ],
+    "user_goal": "Have basic playback control and a less restrictive experience on the free tier.",
+    "root_cause": "Deliberate feature restrictions on the free tier to incentivize premium subscriptions.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Premium",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "48",
+    "source": "google_play",
+    "review_text": "I love this app for the most part. I have premium and have ever since switching from Pandora, so I don't even fully remember the distinction between the free and paid subscriptions at this point, however it is frustrating when I am listening to a podcast with video and all of a sudden, it just shows the profile of the podcaster rather than the video. I remember having a method to fix this in the settings, but it's been too long since then to even remember what it was. Please fix this!!",
+    "review_date": "2026-02-17",
+    "rating": 4,
+    "sentiment": "mixed",
+    "emotion": "Frustrated",
+    "review_type": "Mixed Feedback",
+    "persona": "Premium User",
+    "summary": "A premium user generally loves the app but is frustrated by a bug where video podcasts unexpectedly switch to showing the podcaster's profile instead of the video.",
+    "primary_topic": "Podcasts",
+    "secondary_topics": [
+      "User Experience"
+    ],
+    "pain_points": [
+      "video podcasts switch to showing podcaster's profile instead of video"
+    ],
+    "feature_requests": [
+      "fix video podcast display issue"
+    ],
+    "positive_themes": [
+      "loves the app for the most part"
+    ],
+    "user_goal": "Watch video podcasts without interruption or unexpected display changes.",
+    "root_cause": "A bug in the video podcast playback functionality.",
+    "mentioned_features": [
+      "podcast with video"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Podcasts",
+    "severity": "medium",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "49",
+    "source": "google_play",
+    "review_text": "I really think Spot is the best music app there is. However, paying for a premium for AD FREE LISTENING and getting ADS during a podcast is pretty stupid. Because you get like 5 ads that are like 2 or more minutes long. At that point, it's better to just watch YouTube so you can skip the ads for free instead of being forced to watch ads while actively PAYING for NO ADS. That is so annoying. I considered 1 or 2 stars if Spotify wasn't otherwise genuinely good. At least as far as music goes.",
+    "review_date": "2026-04-11",
+    "rating": 3,
+    "sentiment": "mixed",
+    "emotion": "Angry",
+    "review_type": "Complaint",
+    "persona": "Premium User",
+    "summary": "A premium user is highly annoyed by receiving long ads during podcasts, despite paying for an ad-free experience, although they generally consider Spotify the best music app.",
+    "primary_topic": "Ads",
+    "secondary_topics": [
+      "Premium",
+      "Podcasts"
+    ],
+    "pain_points": [
+      "receiving ads during podcasts despite having premium",
+      "ads are long (2+ minutes)"
+    ],
+    "feature_requests": [
+      "ad-free podcasts for premium users"
+    ],
+    "positive_themes": [
+      "best music app",
+      "genuinely good (for music)"
+    ],
+    "user_goal": "Enjoy an ad-free experience across all content, including podcasts, as a premium subscriber.",
+    "root_cause": "Discrepancy in ad-free policy application between music and podcast content for premium users.",
+    "mentioned_features": [
+      "podcast"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Ads",
+    "severity": "high",
+    "confidence": 1.0
+  }
+]

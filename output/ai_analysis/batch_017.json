@@ -1,0 +1,389 @@
+[
+  {
+    "review_id": "160",
+    "source": "google_play",
+    "review_text": "I have premium just to use it offline... but it takes forever to load my libraries when I have no service even when I got a bunch downloaded. I found the audio books but that is completely pointless since you only get 15 hours of audio book time.. most books are over 40+ hours and to buy 15 hours more time it cost about $15. so each book would end up costing 30 bucks or more PLUS premium membership. totally useless feature.. waaaay cheaper to just buy the audio book.. or an audible credit.",
+    "review_date": "2025-09-17",
+    "rating": 3,
+    "sentiment": "negative",
+    "emotion": "Frustrated",
+    "review_type": "Complaint",
+    "persona": "Premium User",
+    "summary": "A Premium user is frustrated with slow offline library loading and the poor value proposition of the audiobook feature, citing limited hours and high additional costs.",
+    "primary_topic": "Offline Playback",
+    "secondary_topics": [
+      "Audiobooks",
+      "Premium"
+    ],
+    "pain_points": [
+      "slow loading of offline libraries",
+      "audiobook feature is poor value",
+      "limited audiobook hours for premium users",
+      "cost of additional audiobook hours is too high"
+    ],
+    "feature_requests": [],
+    "positive_themes": [],
+    "user_goal": "Use Spotify offline, listen to audiobooks.",
+    "root_cause": "Inefficient offline library loading mechanism; audiobook feature pricing model is not competitive.",
+    "mentioned_features": [
+      "audio books"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Offline Playback",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "161",
+    "source": "google_play",
+    "review_text": "as a customer who pays for Premium all I would like is a seamless experience with no issues, but the app is constantly having issues, sometimes I have to close the app multiple times to get it to even load, and when connecting to my car sometimes it refuses to show the correct name of the song playing and just stays frozen on the same name, I have to force close and cancel the app to solve the issue. disappointed for paying for Premium service...",
+    "review_date": "2025-10-21",
+    "rating": 3,
+    "sentiment": "negative",
+    "emotion": "Disappointed",
+    "review_type": "Complaint",
+    "persona": "Premium User",
+    "summary": "A Premium user is disappointed with constant app issues, including loading problems and incorrect song information display when connected to a car.",
+    "primary_topic": "Performance",
+    "secondary_topics": [
+      "User Experience",
+      "Premium"
+    ],
+    "pain_points": [
+      "app constantly having issues",
+      "app takes multiple attempts to load",
+      "incorrect song name displayed in car",
+      "song name display freezes in car"
+    ],
+    "feature_requests": [],
+    "positive_themes": [],
+    "user_goal": "Have a seamless music listening experience, especially in the car.",
+    "root_cause": "App instability and bugs affecting loading and car integration.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Performance",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "162",
+    "source": "google_play",
+    "review_text": "Still love the app, but I have to say that the UI change to the queue is so intensely frustrating to me. I enjoy that it shows the album covers, but please for the love of all that is holy, separate the things I added to the queue myself from the \"next in playlist\" section again. The way it looks now is super messy to me and really messes with the way I use it.",
+    "review_date": "2025-03-15",
+    "rating": 4,
+    "sentiment": "mixed",
+    "emotion": "Frustrated",
+    "review_type": "Mixed Feedback",
+    "persona": "Unknown",
+    "summary": "The user generally loves the app but is intensely frustrated by a recent UI change to the queue that combines user-added songs with \"next in playlist\" items, making it messy.",
+    "primary_topic": "User Experience",
+    "secondary_topics": [
+      "Playlist Management"
+    ],
+    "pain_points": [
+      "UI change to queue is frustrating",
+      "queue combines user-added songs with 'next in playlist'",
+      "queue looks messy",
+      "new queue UI messes with usage"
+    ],
+    "feature_requests": [
+      "separate user-added songs from 'next in playlist' in queue"
+    ],
+    "positive_themes": [
+      "enjoys album covers in queue",
+      "still loves the app"
+    ],
+    "user_goal": "Manage their music queue effectively and clearly.",
+    "root_cause": "Recent UI redesign of the queue feature merged distinct sections, reducing clarity and control.",
+    "mentioned_features": [
+      "queue"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "User Experience",
+    "severity": "medium",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "163",
+    "source": "google_play",
+    "review_text": "NOT WORTH IT. Whatever you do, don't get premium. The second you go back to regular, ads are quadrupled. Without premium, the ads are still bad. Every once in awhile, you'll get an option \"wAtCh tHiS aD aNd yOuLl gEt 30 mInUtEs aD-fReE\". It's an outright lie lol. They'll play 1 minute of music and give you 4 more ads back to back. And even if you make a playlist of 4k songs, no matter what, it'll ALWAYS play your top 40 most listened, and you'll never hear those other 3,960 songs EVER AGAIN.",
+    "review_date": "2024-11-09",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Complaint",
+    "persona": "Free User",
+    "summary": "The user warns against Premium, citing an excessive increase in ads after downgrading, misleading ad-free offers, and a frustrating playlist playback algorithm that only plays a small fraction of songs.",
+    "primary_topic": "Ads",
+    "secondary_topics": [
+      "Premium",
+      "Playlist Management",
+      "Recommendation Quality"
+    ],
+    "pain_points": [
+      "ads are quadrupled after downgrading from Premium",
+      "ads are bad without Premium",
+      "ad-free offers are a lie",
+      "playlists always play top 40 songs",
+      "never hears most songs in large playlists"
+    ],
+    "feature_requests": [
+      "reduce ad frequency",
+      "ensure ad-free offers are accurate",
+      "improve playlist shuffle/playback diversity"
+    ],
+    "positive_themes": [],
+    "user_goal": "Listen to music without excessive interruptions, listen to a diverse range of songs from their playlists.",
+    "root_cause": "Aggressive ad monetization strategy; playlist playback algorithm prioritizes frequently played songs over diversity.",
+    "mentioned_features": [],
+    "recommendation_component": "Algorithm",
+    "music_discovery_related": true,
+    "discovery_issue": "The playlist playback algorithm repeatedly plays the same top songs, preventing discovery of other songs within large user-created playlists.",
+    "impact_area": "Ads",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "164",
+    "source": "google_play",
+    "review_text": "Spotify has ruined the app with recent updates. I'm a premium subscriber and I want to be able to download playlists to my galaxy watch. Yet, playlists will only ever partially download and previously downloaded songs sometimes disappear. Interface is worse than ever. Not a premium experience - please fix app or I am going to a competitor.",
+    "review_date": "2025-05-29",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Disappointed",
+    "review_type": "Complaint",
+    "persona": "Premium User",
+    "summary": "A Premium subscriber is frustrated with recent updates that have ruined the app, specifically citing issues with partially downloaded playlists on their Galaxy Watch, disappearing downloaded songs, and a worsened interface.",
+    "primary_topic": "Offline Playback",
+    "secondary_topics": [
+      "User Experience",
+      "Performance",
+      "Premium"
+    ],
+    "pain_points": [
+      "recent updates ruined the app",
+      "playlists only partially download to Galaxy Watch",
+      "previously downloaded songs disappear",
+      "interface is worse than ever",
+      "not a premium experience"
+    ],
+    "feature_requests": [
+      "fix app bugs",
+      "improve Galaxy Watch playlist downloads",
+      "restore previous interface quality"
+    ],
+    "positive_themes": [],
+    "user_goal": "Download and listen to playlists on their Galaxy Watch, have a good user experience.",
+    "root_cause": "Bugs introduced in recent updates affecting offline downloads to wearables and overall UI quality.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Offline Playback",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "165",
+    "source": "google_play",
+    "review_text": "Good selection but needs a better UI like long press to select multiple songs/media. It is such a a pain that you can only move one song at a time in a playlist. When playing from an album or playlist, we need a button to start it over instead of playing from where it was left off. Swipe left to delete. The whole queue should be cleared with one press instead of clearing it twice. I don't know why the Spotify developers don't add these basic features!!",
+    "review_date": "2025-02-21",
+    "rating": 2,
+    "sentiment": "mixed",
+    "emotion": "Frustrated",
+    "review_type": "Suggestion",
+    "persona": "Unknown",
+    "summary": "The user praises the music selection but expresses frustration with several UI/UX shortcomings, including the inability to multi-select songs, move multiple songs at once, easily restart playback, swipe to delete, and clear the queue with a single action.",
+    "primary_topic": "User Experience",
+    "secondary_topics": [
+      "Playlist Management"
+    ],
+    "pain_points": [
+      "cannot long press to select multiple songs",
+      "can only move one song at a time in a playlist",
+      "no button to restart playback from album/playlist",
+      "cannot swipe left to delete",
+      "queue requires two presses to clear"
+    ],
+    "feature_requests": [
+      "add long press for multi-selection",
+      "allow moving multiple songs in playlists",
+      "add a button to restart playback",
+      "implement swipe left to delete",
+      "clear queue with one press"
+    ],
+    "positive_themes": [
+      "good selection"
+    ],
+    "user_goal": "Efficiently manage playlists and control playback.",
+    "root_cause": "Missing common UI/UX patterns for selection, editing, and playback control.",
+    "mentioned_features": [
+      "queue"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "User Experience",
+    "severity": "medium",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "166",
+    "source": "google_play",
+    "review_text": "been using Spotify for years, never had a subscription, didn't need one as the Xbox Spotify basically gives you premium features (unlimited skips / can play any song) but with ads. had some hiccups here n there, but nothing logging out or uninstall n reinstall couldn't fix. however as of recently my liked songs playlist from Spotify isn't showing up at all unless I search for it. and it will not appear on the Xbox side bar either; it only has past songs or playlist on it. it's super frustrating.",
+    "review_date": "2025-10-09",
+    "rating": 3,
+    "sentiment": "negative",
+    "emotion": "Frustrated",
+    "review_type": "Bug Report",
+    "persona": "Free User",
+    "summary": "A long-time free user is frustrated because their \"Liked Songs\" playlist is no longer appearing on the Xbox sidebar or in the main app unless searched for, despite previously having a good experience with the Xbox version.",
+    "primary_topic": "Library",
+    "secondary_topics": [
+      "User Experience",
+      "Performance"
+    ],
+    "pain_points": [
+      "liked songs playlist not showing up unless searched for",
+      "liked songs playlist not appearing on Xbox sidebar"
+    ],
+    "feature_requests": [],
+    "positive_themes": [
+      "Xbox Spotify offers premium-like features for free",
+      "used Spotify for years"
+    ],
+    "user_goal": "Easily access their liked songs playlist across devices.",
+    "root_cause": "Bug affecting the visibility and synchronization of the \"Liked Songs\" playlist, especially on Xbox.",
+    "mentioned_features": [
+      "Liked Songs",
+      "Xbox Spotify"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Library",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "167",
+    "source": "google_play",
+    "review_text": "I was really enjoying this app for the 2 weeks that I had it, but the app quality just got terrible. I try to play a song from my playlist but it doesn't play the full song, only a preview of it. My playlists are also on auto shuffle but it doesn't even shuffle songs that are in my playlist. What's the point of the playlist then?! And the only way to turn off the feature is to buy premium. Never using this app again.",
+    "review_date": "2025-07-10",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Complaint",
+    "persona": "Free User",
+    "summary": "The user is angry because the app quality deteriorated, playing only song previews instead of full songs, and the auto shuffle feature on playlists doesn't work as expected, with the only solution being a Premium subscription.",
+    "primary_topic": "Premium",
+    "secondary_topics": [
+      "Performance",
+      "Playlist Management",
+      "Ads"
+    ],
+    "pain_points": [
+      "app quality got terrible",
+      "songs only play as previews",
+      "auto shuffle doesn't shuffle songs in playlist",
+      "forced to buy premium to fix shuffle issue"
+    ],
+    "feature_requests": [],
+    "positive_themes": [
+      "enjoyed the app for 2 weeks"
+    ],
+    "user_goal": "Play full songs from their playlists and have them shuffle properly.",
+    "root_cause": "Restrictions on the free tier (preview playback, limited shuffle functionality) are perceived as bugs or poor quality.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Premium",
+    "severity": "critical",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "168",
+    "source": "google_play",
+    "review_text": "Mostly decent except for the annoying Smart Shuffle feature that messes up custom songs I've uploaded from Spotify Windows App to download onto Spotify Android App for listening, rendering them unavailable and necessitating a re-download from the Windows App to the Android App every time. Would only give 5 stars if there is a way to disable Smart Shuffle completely when cycle toggling between regular Shuffle & normal playback order, and/or at least ask with a pop-up which shuffle to use.",
+    "review_date": "2024-08-21",
+    "rating": 4,
+    "sentiment": "mixed",
+    "emotion": "Frustrated",
+    "review_type": "Mixed Feedback",
+    "persona": "Unknown",
+    "summary": "The user finds the app mostly decent but is annoyed by the Smart Shuffle feature, which interferes with custom uploaded songs, making them unavailable and requiring frequent re-downloads, and requests an option to disable it or choose shuffle modes.",
+    "primary_topic": "Smart Shuffle",
+    "secondary_topics": [
+      "Offline Playback",
+      "User Experience"
+    ],
+    "pain_points": [
+      "Smart Shuffle messes up custom uploaded songs",
+      "custom songs become unavailable due to Smart Shuffle",
+      "requires re-downloading custom songs every time"
+    ],
+    "feature_requests": [
+      "disable Smart Shuffle completely",
+      "option to choose shuffle type (regular vs. Smart Shuffle) via pop-up"
+    ],
+    "positive_themes": [
+      "mostly decent app"
+    ],
+    "user_goal": "Listen to their custom uploaded songs reliably without interference from Smart Shuffle.",
+    "root_cause": "Smart Shuffle feature is incompatible or buggy with user-uploaded local files, causing them to become unavailable.",
+    "mentioned_features": [
+      "Smart Shuffle",
+      "Spotify Windows App",
+      "Spotify Android App"
+    ],
+    "recommendation_component": "Smart Shuffle",
+    "music_discovery_related": true,
+    "discovery_issue": "The Smart Shuffle feature interferes with user-uploaded local files, rendering them unavailable and requiring re-downloads.",
+    "impact_area": "Smart Shuffle",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "169",
+    "source": "google_play",
+    "review_text": "If it weren't for the ads, I would consider putting it at five stars. when you want to play a song, ad. When you want to skip, ad. The \"30-minute break from ads\" is a lie. You get upmost 10 or 5 min until you get another ad or you skip. Spotify, fix your ad problem.",
+    "review_date": "2025-10-14",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Frustrated",
+    "review_type": "Complaint",
+    "persona": "Free User",
+    "summary": "The user is highly frustrated with the excessive frequency of ads, which appear when playing or skipping songs, and finds the \"30-minute break from ads\" offer to be misleading.",
+    "primary_topic": "Ads",
+    "secondary_topics": [
+      "User Experience"
+    ],
+    "pain_points": [
+      "too many ads",
+      "ads play when playing a song",
+      "ads play when skipping a song",
+      "30-minute ad-free break is a lie"
+    ],
+    "feature_requests": [
+      "reduce ad frequency",
+      "make ad-free offers accurate"
+    ],
+    "positive_themes": [],
+    "user_goal": "Listen to music with minimal ad interruptions.",
+    "root_cause": "Aggressive ad monetization strategy and potentially misleading ad-free offers.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Ads",
+    "severity": "high",
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "Streamlit Dashboard",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-c", "import os,subprocess,sys; subprocess.run([sys.executable,'-m','streamlit','run','dashboard.py','--server.port',os.environ.get('PORT','8501'),'--server.headless','true'])"],
+      "port": 8501,
+      "autoPort": true
+    },
+    {
+      "name": "Pipeline CLI (full run)",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["main.py"],
+      "port": null
+    },
+    {
+      "name": "Pipeline CLI (analytics only)",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["main.py", "--analytics"],
+      "port": null
+    },
+    {
+      "name": "Pipeline CLI (cluster analysis)",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["main.py", "--cluster-analysis"],
+      "port": null
+    }
+  ]
+}

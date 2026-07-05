@@ -1,0 +1,410 @@
+[
+  {
+    "review_id": "150",
+    "source": "google_play",
+    "review_text": "Generally a good app, but in the past few weeks I've grown increasingly frustrated how the \"more\" menu in Your Episodes has changed so the Add to Queue option is \"below the fold.\" Share, Remove from playlist, & Download already have their own buttons, so why do they appear above the fold? Please give Add to Queue its own button outside the \"more\" menu and/or put the options with external buttons at the bottom of the \"more\" menu. And add a feedback option in the app. Samsung Galaxy s24 Ultra",
+    "review_date": "2025-07-09",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Frustrated",
+    "review_type": "Complaint",
+    "persona": "Unknown",
+    "summary": "The user is frustrated with recent UI changes in the \"Your Episodes\" section, specifically the placement of the \"Add to Queue\" option, and requests an in-app feedback option.",
+    "primary_topic": "User Experience",
+    "secondary_topics": [
+      "Podcasts"
+    ],
+    "pain_points": [
+      "Add to Queue option is hidden in 'more' menu",
+      "lack of in-app feedback option"
+    ],
+    "feature_requests": [
+      "Add to Queue button outside 'more' menu",
+      "rearrange 'more' menu options",
+      "add in-app feedback option"
+    ],
+    "positive_themes": [
+      "generally a good app"
+    ],
+    "user_goal": "efficiently manage podcast episodes and add them to queue",
+    "root_cause": "UI change moved a frequently used action ('Add to Queue') to a less accessible location within the 'more' menu.",
+    "mentioned_features": [
+      "Your Episodes",
+      "Add to Queue",
+      "Share",
+      "Remove from playlist",
+      "Download"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "User Experience",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "151",
+    "source": "google_play",
+    "review_text": "This app used to be great. Then they got greedy. I have a paid account, yet my homepage is constantly inundated with advertisements for trashy podcasts that have nothing to do with anything I ever have or would listen to. Like so many other companies these days, they have begun shoving their stupid AI in our faces, to the point where they rearranged a perfectly good UI to try to push their playlist creator. I -never- use that, and now it's in the way. I always keep the app on offline mode now.",
+    "review_date": "2025-06-16",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Complaint",
+    "persona": "Premium User",
+    "summary": "A premium user is angry about irrelevant podcast advertisements and unwanted AI-driven features cluttering the homepage, leading them to use offline mode.",
+    "primary_topic": "Ads",
+    "secondary_topics": [
+      "Podcasts",
+      "AI DJ",
+      "User Experience"
+    ],
+    "pain_points": [
+      "homepage inundated with irrelevant podcast advertisements",
+      "unwanted AI features pushed",
+      "UI rearranged to push playlist creator",
+      "AI playlist creator is in the way"
+    ],
+    "feature_requests": [],
+    "positive_themes": [],
+    "user_goal": "enjoy music without interruptions and have a clean, relevant homepage",
+    "root_cause": "Aggressive promotion of podcasts and AI features (like playlist creator) on the homepage, even for premium users, leading to a cluttered and irrelevant user experience.",
+    "mentioned_features": [
+      "AI",
+      "playlist creator"
+    ],
+    "recommendation_component": "General Discovery",
+    "music_discovery_related": true,
+    "discovery_issue": "The homepage is cluttered with irrelevant podcast advertisements and unwanted AI-driven playlist features.",
+    "impact_area": "Ads",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "152",
+    "source": "google_play",
+    "review_text": "It's okay, I guess but like when there's an advertisement I press the dislike button and it says it improves my ad experience but it doesn't. It just puts more ads. There's also this glitch, where if I stop playing it it continues playing. I really, REAAALLLYYY hope you fix this spotify edit: Please show how many skips I have left so i can skip the ACTUAL bad songs",
+    "review_date": "2025-05-04",
+    "rating": 3,
+    "sentiment": "mixed",
+    "emotion": "Frustrated",
+    "review_type": "Mixed Feedback",
+    "persona": "Free User",
+    "summary": "The user experiences ineffective ad personalization and a playback glitch, and requests to see the remaining skips.",
+    "primary_topic": "Ads",
+    "secondary_topics": [
+      "Performance",
+      "User Experience"
+    ],
+    "pain_points": [
+      "dislike button for ads doesn't improve ad experience",
+      "more ads appear after disliking",
+      "glitch where music continues playing after stopping"
+    ],
+    "feature_requests": [
+      "show remaining skips"
+    ],
+    "positive_themes": [],
+    "user_goal": "control ad experience, stop music reliably, and manage skips effectively",
+    "root_cause": "Ad personalization algorithm is ineffective or broken; a playback bug exists; lack of transparency regarding skip limits.",
+    "mentioned_features": [
+      "dislike button"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Ads",
+    "severity": "medium",
+    "confidence": 0.8
+  },
+  {
+    "review_id": "153",
+    "source": "google_play",
+    "review_text": "extremely ticked off that you removed the ability to remove songs queue in a PAID premium subscription. for this much money I should be able to remove songs from queue. fix it. not only that but shuffle doesn't work like it used to. I get the same songs all the time and artists in a row. that's boring. the whole purpose of shuffle is to shuffle, and get a variety of your playlist. you messed that up too. fix it.",
+    "review_date": "2025-03-28",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Complaint",
+    "persona": "Premium User",
+    "summary": "A premium user is angry about the removal of the ability to remove songs from the queue and a broken shuffle feature that plays repetitive songs and artists.",
+    "primary_topic": "Playlist Management",
+    "secondary_topics": [
+      "Recommendation Quality",
+      "Premium"
+    ],
+    "pain_points": [
+      "removed ability to remove songs from queue",
+      "shuffle doesn't work like it used to",
+      "shuffle plays same songs all the time",
+      "shuffle plays artists in a row"
+    ],
+    "feature_requests": [
+      "restore ability to remove songs from queue",
+      "fix shuffle algorithm"
+    ],
+    "positive_themes": [],
+    "user_goal": "manage playback queue and experience diverse playback from playlists",
+    "root_cause": "A product change removed a core queue management feature; the shuffle algorithm is perceived as repetitive and lacking true randomness or diversity.",
+    "mentioned_features": [
+      "queue",
+      "shuffle"
+    ],
+    "recommendation_component": "Algorithm",
+    "music_discovery_related": true,
+    "discovery_issue": "The shuffle feature is broken, leading to repetitive playback of the same songs and artists, hindering variety within playlists.",
+    "impact_area": "User Experience",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "154",
+    "source": "google_play",
+    "review_text": "Music is OK, but podcasts are buggy and crawlingly slow (eg 20 minutes to open new episodes, then another 20 to open 'My episodes'). Hopeless. So much so, as to make the app virtually unusable. Samsung Galaxy s21 fe 5g all up to date, plenty of space, FAST. IT professional!",
+    "review_date": "2025-04-10",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Frustrated",
+    "review_type": "Bug Report",
+    "persona": "Unknown",
+    "summary": "The user reports severe performance issues with podcasts, making the app virtually unusable for that content type.",
+    "primary_topic": "Performance",
+    "secondary_topics": [
+      "Podcasts"
+    ],
+    "pain_points": [
+      "podcasts are buggy",
+      "podcasts are crawlingly slow",
+      "takes 20 minutes to open new episodes",
+      "takes 20 minutes to open 'My episodes'",
+      "app virtually unusable for podcasts"
+    ],
+    "feature_requests": [],
+    "positive_themes": [
+      "Music is OK"
+    ],
+    "user_goal": "listen to podcasts efficiently",
+    "root_cause": "Severe performance degradation and bugs specifically affecting podcast playback and navigation.",
+    "mentioned_features": [
+      "My episodes"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Performance",
+    "severity": "critical",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "155",
+    "source": "google_play",
+    "review_text": "Update - Really enjoying Spotify, seems more stable, audio books are a big plus. *Feature request* in android auto you cannot see the full title of the song playing. Can the title be made to scroll/ticker tape. I have the title showing on the main screen and also in the driver's console but both are static and only show the first few words.",
+    "review_date": "2025-02-19",
+    "rating": 5,
+    "sentiment": "positive",
+    "emotion": "Satisfied",
+    "review_type": "Mixed Feedback",
+    "persona": "Unknown",
+    "summary": "The user is enjoying Spotify's stability and audiobooks, but requests a scrolling song title feature for Android Auto.",
+    "primary_topic": "User Experience",
+    "secondary_topics": [
+      "Performance",
+      "Podcasts"
+    ],
+    "pain_points": [
+      "cannot see full song title in Android Auto"
+    ],
+    "feature_requests": [
+      "make song title scroll/ticker tape in Android Auto"
+    ],
+    "positive_themes": [
+      "enjoying Spotify",
+      "more stable",
+      "audio books are a big plus"
+    ],
+    "user_goal": "clearly see full song titles while using Android Auto",
+    "root_cause": "Static display of song titles in Android Auto truncates long titles.",
+    "mentioned_features": [
+      "audio books",
+      "Android Auto"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "User Experience",
+    "severity": "low",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "156",
+    "source": "google_play",
+    "review_text": "I have always loved spotify, but I must say the most recent update just ruined the home screen. There used to be tons of suggested playlists, \"made for you\", etc. The only thing that remains are the six most recently listened to playlists. The rest has been replaced by autoplaying snippets of random songs or playlists that i have literally no interest in, and there is no way to turn this off. Please give us the old home screen back, i am absolutely disgusted by this update.",
+    "review_date": "2024-11-13",
+    "rating": 4,
+    "sentiment": "negative",
+    "emotion": "Disgusted",
+    "review_type": "Complaint",
+    "persona": "Unknown",
+    "summary": "The user is disgusted by a recent update that ruined the home screen by replacing personalized suggestions with autoplaying snippets of irrelevant content.",
+    "primary_topic": "User Experience",
+    "secondary_topics": [
+      "Music Discovery",
+      "Recommendation Quality"
+    ],
+    "pain_points": [
+      "recent update ruined home screen",
+      "suggested playlists ('made for you') are gone",
+      "replaced by autoplaying snippets of random songs",
+      "replaced by playlists of no interest",
+      "no way to turn off autoplaying snippets"
+    ],
+    "feature_requests": [
+      "revert to old home screen"
+    ],
+    "positive_themes": [
+      "always loved Spotify"
+    ],
+    "user_goal": "discover new music and personalized content on the home screen",
+    "root_cause": "A recent UI update deprioritized personalized recommendations and introduced intrusive, irrelevant autoplaying content on the home screen.",
+    "mentioned_features": [
+      "home screen",
+      "suggested playlists",
+      "made for you"
+    ],
+    "recommendation_component": "General Discovery",
+    "music_discovery_related": true,
+    "discovery_issue": "The home screen update removed personalized suggested playlists and replaced them with irrelevant autoplaying snippets, hindering music discovery.",
+    "impact_area": "Music Discovery",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "157",
+    "source": "google_play",
+    "review_text": "I have paid for Individual Premium since 2022 and have never had a problem out of Spotify. They've always worked great. I've recently started listening to their audiobooks though, and to my suprise you only get 15 hours a month of listening time, and since I work 8 hours a day 5 days a week, I can easily use 30 to 40 hours a week, and up to 120 or so hours a month of listening time. Due to this limited amount of hours I will be changing to a 4 star rating. I love the music side, but not this.",
+    "review_date": "2025-08-11",
+    "rating": 4,
+    "sentiment": "mixed",
+    "emotion": "Disappointed",
+    "review_type": "Mixed Feedback",
+    "persona": "Premium User",
+    "summary": "A long-time premium user is disappointed by the 15-hour monthly limit on audiobooks, which is insufficient for their listening habits.",
+    "primary_topic": "Podcasts",
+    "secondary_topics": [
+      "Premium"
+    ],
+    "pain_points": [
+      "only 15 hours a month of audiobook listening time",
+      "15 hours is insufficient for heavy listeners"
+    ],
+    "feature_requests": [],
+    "positive_themes": [
+      "never had a problem out of Spotify",
+      "always worked great",
+      "love the music side"
+    ],
+    "user_goal": "listen to audiobooks without time limits",
+    "root_cause": "The premium subscription tier includes a restrictive 15-hour monthly limit for audiobook listening.",
+    "mentioned_features": [
+      "audiobooks"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Premium",
+    "severity": "medium",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "158",
+    "source": "google_play",
+    "review_text": "Pretty good app. Play lists & expansive music library. Offline playlists are great Only grips : - for duo/ family accounts you have to enter your shared address EXACTLY (eg rd not road) as the original family - they don't post small pay artists fairly / proportionally for streams. - You can't seem exclude a search word from results - sometimes Spotify playlists/radio songs aren't in keeping with the suggested artists / genre",
+    "review_date": "2024-11-10",
+    "rating": 4,
+    "sentiment": "mixed",
+    "emotion": "Neutral",
+    "review_type": "Mixed Feedback",
+    "persona": "Unknown",
+    "summary": "The user praises the app's library and offline playlists but has issues with family account address verification, artist compensation, search functionality, and recommendation relevance.",
+    "primary_topic": "User Experience",
+    "secondary_topics": [
+      "Library",
+      "Offline Playback",
+      "Social Features",
+      "Search",
+      "Recommendation Quality"
+    ],
+    "pain_points": [
+      "family account address verification is too strict",
+      "don't pay small artists fairly",
+      "cannot exclude search words",
+      "Spotify playlists/radio songs aren't in keeping with suggested artists/genre"
+    ],
+    "feature_requests": [
+      "allow more flexible address entry for family accounts",
+      "improve artist compensation",
+      "add ability to exclude search words"
+    ],
+    "positive_themes": [
+      "pretty good app",
+      "playlists & expansive music library",
+      "offline playlists are great"
+    ],
+    "user_goal": "manage family accounts easily, find relevant music, and support artists",
+    "root_cause": "Strict address validation for family plans; perceived unfair artist compensation model; lack of advanced search operators; recommendation algorithm sometimes produces irrelevant results.",
+    "mentioned_features": [
+      "playlists",
+      "offline playlists",
+      "duo/family accounts",
+      "search",
+      "Spotify playlists",
+      "radio"
+    ],
+    "recommendation_component": "Radio",
+    "music_discovery_related": true,
+    "discovery_issue": "Spotify playlists and radio sometimes provide songs that are not in keeping with the suggested artists or genre, and search lacks exclusion functionality.",
+    "impact_area": "User Experience",
+    "severity": "medium",
+    "confidence": 0.8
+  },
+  {
+    "review_id": "159",
+    "source": "google_play",
+    "review_text": "Overall a great & useful app that not only connects to Discord, but can be used as an alarm too! MY ONLY ISSUES ARE.. If you go to local files, it'll gave a 70/30% chance of closing. Also, with local files, if you rename the file, it'll stay there. That's pretty annoying, but besides that, everything is coolio!",
+    "review_date": "2025-03-07",
+    "rating": 4,
+    "sentiment": "mixed",
+    "emotion": "Satisfied",
+    "review_type": "Mixed Feedback",
+    "persona": "Unknown",
+    "summary": "The user finds Spotify a great and useful app with good integrations, but experiences crashes and persistence issues when managing local files.",
+    "primary_topic": "Library",
+    "secondary_topics": [
+      "Performance",
+      "Social Features"
+    ],
+    "pain_points": [
+      "app crashes when going to local files (70/30% chance)",
+      "renamed local files persist in the app"
+    ],
+    "feature_requests": [],
+    "positive_themes": [
+      "great & useful app",
+      "connects to Discord",
+      "can be used as an alarm"
+    ],
+    "user_goal": "manage and play local music files reliably",
+    "root_cause": "Bugs in local file management causing crashes and incorrect persistence of renamed files.",
+    "mentioned_features": [
+      "local files",
+      "Discord",
+      "alarm"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Library",
+    "severity": "high",
+    "confidence": 0.9
+  }
+]

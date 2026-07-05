@@ -1,0 +1,708 @@
+{
+  "total_reviews": 1929,
+  "reviews_used_for_clustering": 1490,
+  "descriptive_statistics": {
+    "reviews_per_source": {
+      "reddit": 1556,
+      "google_play": 304,
+      "spotify_community": 52,
+      "app_store": 17
+    },
+    "rating": {
+      "mean": 2.32,
+      "median": 2.0,
+      "std": 1.31,
+      "distribution": {
+        "1": 117,
+        "2": 78,
+        "3": 62,
+        "4": 35,
+        "5": 29
+      }
+    },
+    "review_length_words": {
+      "mean": 402.3,
+      "median": 104.0,
+      "min": 1,
+      "max": 6993,
+      "percentile_25": 69.0,
+      "percentile_75": 238.0
+    }
+  },
+  "ngram_frequencies": {
+    "unigrams": [
+      {
+        "term": "spotify",
+        "count": 5602
+      },
+      {
+        "term": "music",
+        "count": 4474
+      },
+      {
+        "term": "like",
+        "count": 3555
+      },
+      {
+        "term": "songs",
+        "count": 2469
+      },
+      {
+        "term": "one",
+        "count": 2245
+      },
+      {
+        "term": "song",
+        "count": 2183
+      },
+      {
+        "term": "new",
+        "count": 1929
+      },
+      {
+        "term": "playlist",
+        "count": 1922
+      },
+      {
+        "term": "time",
+        "count": 1719
+      },
+      {
+        "term": "also",
+        "count": 1670
+      },
+      {
+        "term": "beatport",
+        "count": 1665
+      },
+      {
+        "term": "get",
+        "count": 1550
+      },
+      {
+        "term": "would",
+        "count": 1408
+      },
+      {
+        "term": "even",
+        "count": 1377
+      },
+      {
+        "term": "app",
+        "count": 1269
+      },
+      {
+        "term": "album",
+        "count": 1255
+      },
+      {
+        "term": "really",
+        "count": 1194
+      },
+      {
+        "term": "people",
+        "count": 1175
+      },
+      {
+        "term": "know",
+        "count": 1082
+      },
+      {
+        "term": "playlists",
+        "count": 1059
+      },
+      {
+        "term": "artists",
+        "count": 1058
+      },
+      {
+        "term": "use",
+        "count": 1057
+      },
+      {
+        "term": "first",
+        "count": 1052
+      },
+      {
+        "term": "good",
+        "count": 1050
+      },
+      {
+        "term": "want",
+        "count": 1048
+      },
+      {
+        "term": "much",
+        "count": 972
+      },
+      {
+        "term": "make",
+        "count": 970
+      },
+      {
+        "term": "listen",
+        "count": 956
+      },
+      {
+        "term": "back",
+        "count": 953
+      },
+      {
+        "term": "way",
+        "count": 949
+      }
+    ],
+    "bigrams": [
+      {
+        "term": "beatport spotify",
+        "count": 1147
+      },
+      {
+        "term": "bandcamp spotify",
+        "count": 506
+      },
+      {
+        "term": "apple music",
+        "count": 492
+      },
+      {
+        "term": "beatport bandcamp",
+        "count": 346
+      },
+      {
+        "term": "spotify playlist",
+        "count": 326
+      },
+      {
+        "term": "new music",
+        "count": 313
+      },
+      {
+        "term": "hip hop",
+        "count": 270
+      },
+      {
+        "term": "ep beatport",
+        "count": 253
+      },
+      {
+        "term": "feel like",
+        "count": 228
+      },
+      {
+        "term": "playlist vol",
+        "count": 214
+      },
+      {
+        "term": "vol mixes",
+        "count": 213
+      },
+      {
+        "term": "discover weekly",
+        "count": 193
+      },
+      {
+        "term": "smart shuffle",
+        "count": 186
+      },
+      {
+        "term": "youtube music",
+        "count": 171
+      },
+      {
+        "term": "feels like",
+        "count": 168
+      },
+      {
+        "term": "mixes spotify",
+        "count": 168
+      },
+      {
+        "term": "last fm",
+        "count": 140
+      },
+      {
+        "term": "drum bass",
+        "count": 136
+      },
+      {
+        "term": "repo free",
+        "count": 134
+      },
+      {
+        "term": "social media",
+        "count": 119
+      },
+      {
+        "term": "various artists",
+        "count": 116
+      },
+      {
+        "term": "gon na",
+        "count": 113
+      },
+      {
+        "term": "pm tz",
+        "count": 113
+      },
+      {
+        "term": "tz denver",
+        "count": 113
+      },
+      {
+        "term": "sound quality",
+        "count": 112
+      },
+      {
+        "term": "tweet est",
+        "count": 112
+      },
+      {
+        "term": "pm mdt",
+        "count": 112
+      },
+      {
+        "term": "mdt pm",
+        "count": 112
+      },
+      {
+        "term": "like spotify",
+        "count": 110
+      },
+      {
+        "term": "music discovery",
+        "count": 110
+      }
+    ],
+    "trigrams": [
+      {
+        "term": "beatport bandcamp spotify",
+        "count": 293
+      },
+      {
+        "term": "spotify playlist vol",
+        "count": 213
+      },
+      {
+        "term": "playlist vol mixes",
+        "count": 213
+      },
+      {
+        "term": "ep beatport spotify",
+        "count": 176
+      },
+      {
+        "term": "vol mixes spotify",
+        "count": 164
+      },
+      {
+        "term": "mixes spotify playlist",
+        "count": 164
+      },
+      {
+        "term": "pm tz denver",
+        "count": 113
+      },
+      {
+        "term": "pm mdt pm",
+        "count": 112
+      },
+      {
+        "term": "mdt pm tz",
+        "count": 112
+      },
+      {
+        "term": "spotify apple music",
+        "count": 101
+      },
+      {
+        "term": "playlist new drum",
+        "count": 90
+      },
+      {
+        "term": "new drum bass",
+        "count": 90
+      },
+      {
+        "term": "label store spotify",
+        "count": 85
+      },
+      {
+        "term": "tz denver tbd",
+        "count": 82
+      },
+      {
+        "term": "spotify various artists",
+        "count": 78
+      },
+      {
+        "term": "tweet pm est",
+        "count": 75
+      },
+      {
+        "term": "discover new music",
+        "count": 62
+      },
+      {
+        "term": "denver tbd nuggets",
+        "count": 60
+      },
+      {
+        "term": "ep beatport bandcamp",
+        "count": 49
+      },
+      {
+        "term": "meow meow meow",
+        "count": 47
+      },
+      {
+        "term": "beatport spotify various",
+        "count": 46
+      },
+      {
+        "term": "find new music",
+        "count": 45
+      },
+      {
+        "term": "ep bandcamp spotify",
+        "count": 45
+      },
+      {
+        "term": "nuggets pm mdt",
+        "count": 44
+      },
+      {
+        "term": "apple music spotify",
+        "count": 39
+      },
+      {
+        "term": "drum bass soundcloud",
+        "count": 39
+      },
+      {
+        "term": "bandcamp label store",
+        "count": 36
+      },
+      {
+        "term": "beatport label store",
+        "count": 36
+      },
+      {
+        "term": "beatport store bandcamp",
+        "count": 33
+      },
+      {
+        "term": "upcoming events start",
+        "count": 31
+      }
+    ]
+  },
+  "recommendation_keywords": [
+    {
+      "keyword": "playlist",
+      "reviews_containing": 665
+    },
+    {
+      "keyword": "playlists",
+      "reviews_containing": 483
+    },
+    {
+      "keyword": "recommendations",
+      "reviews_containing": 422
+    },
+    {
+      "keyword": "discover",
+      "reviews_containing": 281
+    },
+    {
+      "keyword": "radio",
+      "reviews_containing": 265
+    },
+    {
+      "keyword": "algorithm",
+      "reviews_containing": 254
+    },
+    {
+      "keyword": "discovery",
+      "reviews_containing": 234
+    },
+    {
+      "keyword": "new music",
+      "reviews_containing": 222
+    },
+    {
+      "keyword": "recommended",
+      "reviews_containing": 193
+    },
+    {
+      "keyword": "discover weekly",
+      "reviews_containing": 140
+    },
+    {
+      "keyword": "recommendation",
+      "reviews_containing": 135
+    },
+    {
+      "keyword": "autoplay",
+      "reviews_containing": 113
+    },
+    {
+      "keyword": "suggestions",
+      "reviews_containing": 112
+    },
+    {
+      "keyword": "smart shuffle",
+      "reviews_containing": 109
+    },
+    {
+      "keyword": "ai dj",
+      "reviews_containing": 60
+    },
+    {
+      "keyword": "explore",
+      "reviews_containing": 60
+    },
+    {
+      "keyword": "suggest",
+      "reviews_containing": 55
+    },
+    {
+      "keyword": "release radar",
+      "reviews_containing": 48
+    },
+    {
+      "keyword": "personalized",
+      "reviews_containing": 43
+    },
+    {
+      "keyword": "daily mix",
+      "reviews_containing": 26
+    },
+    {
+      "keyword": "blend",
+      "reviews_containing": 22
+    },
+    {
+      "keyword": "similar artists",
+      "reviews_containing": 17
+    },
+    {
+      "keyword": "made for you",
+      "reviews_containing": 13
+    },
+    {
+      "keyword": "suggestion",
+      "reviews_containing": 11
+    },
+    {
+      "keyword": "personalised",
+      "reviews_containing": 2
+    }
+  ],
+  "clustering": {
+    "num_clusters": 11,
+    "outlier_count": 632,
+    "hdbscan_noise_points": 193,
+    "prefilter_excluded": 439,
+    "clusters": [
+      {
+        "cluster_id": 10,
+        "size": 537,
+        "top_keywords": [
+          "spotify",
+          "music",
+          "songs",
+          "like",
+          "playlist",
+          "new",
+          "song",
+          "one",
+          "shuffle",
+          "playlists"
+        ],
+        "dominant_source": "reddit",
+        "avg_review_length_words": 197.8
+      },
+      {
+        "cluster_id": 4,
+        "size": 303,
+        "top_keywords": [
+          "app",
+          "spotify",
+          "music",
+          "premium",
+          "songs",
+          "ads",
+          "get",
+          "song",
+          "like",
+          "listen"
+        ],
+        "dominant_source": "google_play",
+        "avg_review_length_words": 95.2
+      },
+      {
+        "cluster_id": 6,
+        "size": 259,
+        "top_keywords": [
+          "music",
+          "spotify",
+          "apple",
+          "like",
+          "app",
+          "songs",
+          "playlist",
+          "use",
+          "quality",
+          "playlists"
+        ],
+        "dominant_source": "reddit",
+        "avg_review_length_words": 269.1
+      },
+      {
+        "cluster_id": 3,
+        "size": 90,
+        "top_keywords": [
+          "ai",
+          "spotify",
+          "music",
+          "dj",
+          "songs",
+          "like",
+          "song",
+          "artists",
+          "generated",
+          "new"
+        ],
+        "dominant_source": "reddit",
+        "avg_review_length_words": 148.5
+      },
+      {
+        "cluster_id": 8,
+        "size": 35,
+        "top_keywords": [
+          "spotify",
+          "streams",
+          "music",
+          "playlist",
+          "song",
+          "listeners",
+          "playlists",
+          "like",
+          "artists",
+          "new"
+        ],
+        "dominant_source": "reddit",
+        "avg_review_length_words": 537.5
+      },
+      {
+        "cluster_id": 0,
+        "size": 18,
+        "top_keywords": [
+          "playlist",
+          "spotify",
+          "vol",
+          "mixes",
+          "daily",
+          "listening",
+          "curated",
+          "mix",
+          "academic",
+          "music"
+        ],
+        "dominant_source": "reddit",
+        "avg_review_length_words": 45.1
+      },
+      {
+        "cluster_id": 9,
+        "size": 15,
+        "top_keywords": [
+          "discover",
+          "weekly",
+          "spotify",
+          "week",
+          "music",
+          "like",
+          "new",
+          "genre",
+          "genres",
+          "playlist"
+        ],
+        "dominant_source": "reddit",
+        "avg_review_length_words": 109.0
+      },
+      {
+        "cluster_id": 5,
+        "size": 13,
+        "top_keywords": [
+          "spotify",
+          "music",
+          "songs",
+          "like",
+          "artists",
+          "people",
+          "streaming",
+          "also",
+          "even",
+          "one"
+        ],
+        "dominant_source": "reddit",
+        "avg_review_length_words": 297.2
+      },
+      {
+        "cluster_id": 7,
+        "size": 10,
+        "top_keywords": [
+          "daily",
+          "songs",
+          "mixes",
+          "mix",
+          "spotify",
+          "music",
+          "playlist",
+          "day",
+          "make",
+          "artists"
+        ],
+        "dominant_source": "reddit",
+        "avg_review_length_words": 79.9
+      },
+      {
+        "cluster_id": 1,
+        "size": 9,
+        "top_keywords": [
+          "qobuz",
+          "artists",
+          "like",
+          "artist",
+          "music",
+          "spotify",
+          "radio",
+          "station",
+          "discovery",
+          "app"
+        ],
+        "dominant_source": "reddit",
+        "avg_review_length_words": 245.8
+      },
+      {
+        "cluster_id": 2,
+        "size": 8,
+        "top_keywords": [
+          "spotify",
+          "music",
+          "like",
+          "mix",
+          "feature",
+          "songs",
+          "daily",
+          "dj",
+          "apple",
+          "one"
+        ],
+        "dominant_source": "reddit",
+        "avg_review_length_words": 91.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,362 @@
+[
+  {
+    "review_id": "130",
+    "source": "google_play",
+    "review_text": "The free version has more cons than pros. You can get to listen to a whopping 4 ads before listening to a song,podcast, or whatever you listen to. I am not sure if this is only me, but the smartshuffle feature had gone out of control and started playing songs not on my Playlist no matter how much I skip.",
+    "review_date": "2025-06-07",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Frustrated",
+    "review_type": "Complaint",
+    "persona": "Free User",
+    "summary": "The user is frustrated with excessive ads on the free version and the Smart Shuffle feature playing irrelevant songs not from their playlist.",
+    "primary_topic": "Ads",
+    "secondary_topics": [
+      "Smart Shuffle",
+      "Playlist Management"
+    ],
+    "pain_points": [
+      "excessive advertisements on free version",
+      "Smart Shuffle plays songs not on playlist"
+    ],
+    "feature_requests": [],
+    "positive_themes": [],
+    "user_goal": "listen to music without interruptions; listen to songs from their playlist",
+    "root_cause": "free tier ad frequency is too high; Smart Shuffle algorithm deviates too much from playlist content",
+    "mentioned_features": [
+      "Smart Shuffle"
+    ],
+    "recommendation_component": "Smart Shuffle",
+    "music_discovery_related": true,
+    "discovery_issue": "Smart Shuffle plays songs not on the user's playlist, indicating poor relevance.",
+    "impact_area": "Ads",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "131",
+    "source": "google_play",
+    "review_text": "I find it pointless to have \"shuffle\" and \"play in order\" to be behind premium. It should be basic interaction that should've been free. I understand the premium for downloading music, ad free, and listening offline; but having those two behind a paywall just sucks. Like, what do you mean I have to pay for something that's free on any other app? :(",
+    "review_date": "2025-03-06",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Disappointed",
+    "review_type": "Complaint",
+    "persona": "Unknown",
+    "summary": "The user is disappointed that basic playback controls like shuffle and play in order are premium features.",
+    "primary_topic": "Premium",
+    "secondary_topics": [
+      "User Experience"
+    ],
+    "pain_points": [
+      "shuffle and play in order are premium features"
+    ],
+    "feature_requests": [
+      "make shuffle and play in order free"
+    ],
+    "positive_themes": [],
+    "user_goal": "control music playback order (shuffle or sequential)",
+    "root_cause": "basic playback controls are paywalled",
+    "mentioned_features": [
+      "shuffle",
+      "play in order"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Premium",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "132",
+    "source": "google_play",
+    "review_text": "Adds videos and reels to a music app that doesn't pay enough to the artists, threatens a country to pay them money and then plays victim, offers a product on constant downgrades for an expensive price + has an algorithm that doesn't work properly and recommends you stuff that's the opposite to what you play, creating misleading AI-based playlists that aren't anywhere near being good. A shame how people prefer this over better options that show love both to music and fans. Now lyrics are premium.",
+    "review_date": "2025-04-08",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Complaint",
+    "persona": "Unknown",
+    "summary": "The user is highly critical of Spotify's business practices, poor recommendation algorithm, and recent feature downgrades like premium lyrics.",
+    "primary_topic": "Recommendation Quality",
+    "secondary_topics": [
+      "User Experience",
+      "Premium",
+      "Other"
+    ],
+    "pain_points": [
+      "recommendation algorithm suggests irrelevant music",
+      "misleading AI-based playlists",
+      "lyrics are now premium",
+      "adds videos and reels to music app",
+      "poor artist compensation"
+    ],
+    "feature_requests": [
+      "improve recommendation algorithm",
+      "better AI-based playlists"
+    ],
+    "positive_themes": [],
+    "user_goal": "receive relevant music recommendations; access lyrics; listen to music",
+    "root_cause": "recommendation algorithm generates irrelevant suggestions; features are being moved behind a paywall",
+    "mentioned_features": [
+      "lyrics"
+    ],
+    "recommendation_component": "Algorithm",
+    "music_discovery_related": true,
+    "discovery_issue": "The recommendation algorithm suggests music opposite to user's taste and creates misleading AI-based playlists.",
+    "impact_area": "Recommendation Quality",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "133",
+    "source": "google_play",
+    "review_text": "I allowed my Premium subscription to lapse because I was unhappy that despite paying for Premium my New Episodes feed was full of paywalled content that I couldn't play or remove from the playlist. Now the app refuses to play ANY music at all. No playlists, no albums, no songs. I regret ever paying for Spotify, because if I had never subscribed to Premium I would still be able to play music on it, even as a free user.",
+    "review_date": "2025-03-05",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Disappointed",
+    "review_type": "Complaint",
+    "persona": "Premium User",
+    "summary": "The user's app stopped playing any music after their Premium subscription lapsed, which they attribute to issues with paywalled content in their New Episodes feed while they were a Premium user.",
+    "primary_topic": "Premium",
+    "secondary_topics": [
+      "Podcasts",
+      "User Experience",
+      "Performance"
+    ],
+    "pain_points": [
+      "New Episodes feed full of unplayable paywalled content (as Premium user)",
+      "app refuses to play any music after Premium lapse"
+    ],
+    "feature_requests": [],
+    "positive_themes": [],
+    "user_goal": "play music; access podcast content",
+    "root_cause": "unclear transition behavior from Premium to Free tier; paywalled podcast content appearing in Premium user's feed",
+    "mentioned_features": [
+      "New Episodes feed"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Premium",
+    "severity": "critical",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "134",
+    "source": "google_play",
+    "review_text": "I wish they'd introduce a feature similar to Apple's Smart Playlists, so I don't have to manually add songs to playlists. I am begging for a light mode option for the UI :( The dark mode is iconic and part of Spotify's branding, but it makes the app more difficult to use because I have a hard time reading the content. I would very much like an option for light mode!!!",
+    "review_date": "2024-11-07",
+    "rating": 4,
+    "sentiment": "mixed",
+    "emotion": "Frustrated",
+    "review_type": "Suggestion",
+    "persona": "Unknown",
+    "summary": "The user requests a Smart Playlists feature to automate song additions and a light mode option for the UI due to readability issues with dark mode.",
+    "primary_topic": "User Experience",
+    "secondary_topics": [
+      "Playlist Management"
+    ],
+    "pain_points": [
+      "manual song addition to playlists is tedious",
+      "dark mode makes content difficult to read"
+    ],
+    "feature_requests": [
+      "introduce Smart Playlists feature",
+      "add a light mode option for UI"
+    ],
+    "positive_themes": [
+      "dark mode is iconic and part of branding"
+    ],
+    "user_goal": "efficiently manage playlists; comfortably read app content",
+    "root_cause": "lack of automated playlist creation tools; UI color scheme causes readability issues for some users",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "User Experience",
+    "severity": "medium",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "135",
+    "source": "google_play",
+    "review_text": "it's a decent app when it works, but it never wants to work properly. Currently the app crashes every time you try to search up a song. Often times the player will just stop working or show music is being played, but lacking audio through anything. Integration to smart watches also crashes or freezes and will shift priority back and forth often",
+    "review_date": "2024-10-10",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Frustrated",
+    "review_type": "Bug Report",
+    "persona": "Unknown",
+    "summary": "The app frequently crashes when searching, the player stops working or plays without audio, and smartwatch integration is unstable.",
+    "primary_topic": "Performance",
+    "secondary_topics": [
+      "Search",
+      "User Experience"
+    ],
+    "pain_points": [
+      "app crashes when searching for songs",
+      "player stops working",
+      "player shows music playing but no audio",
+      "smartwatch integration crashes/freezes"
+    ],
+    "feature_requests": [],
+    "positive_themes": [
+      "decent app when it works"
+    ],
+    "user_goal": "search for and play music; use Spotify with a smartwatch",
+    "root_cause": "software bugs causing crashes, audio playback issues, and integration instability",
+    "mentioned_features": [
+      "Search"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Performance",
+    "severity": "critical",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "136",
+    "source": "google_play",
+    "review_text": "App is good but glitchy. It randomly freezes my music and I usually have to unpause it a few times to get it playing again. Really annoying so I thought my Internet was the problem so I got the individual premium plan to listen ad free and offline, so I downloaded a few playlists turn Spotify to offline and to get no interruptions I turn on airplane mode. It still randomly freezes my songs, I don't understand why no Internet to interfere, good storage, new phone, app updated. I'm not sure why.",
+    "review_date": "2024-12-18",
+    "rating": 3,
+    "sentiment": "mixed",
+    "emotion": "Frustrated",
+    "review_type": "Bug Report",
+    "persona": "Premium User",
+    "summary": "The app randomly freezes music playback, even with a Premium plan, offline mode, and airplane mode enabled, despite good internet, storage, and a new phone.",
+    "primary_topic": "Performance",
+    "secondary_topics": [
+      "Offline Playback",
+      "Premium"
+    ],
+    "pain_points": [
+      "music randomly freezes during playback",
+      "offline playback also freezes music"
+    ],
+    "feature_requests": [],
+    "positive_themes": [
+      "app is good"
+    ],
+    "user_goal": "listen to music without interruptions, especially offline",
+    "root_cause": "software bug causing playback interruptions, even in offline mode",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Performance",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "137",
+    "source": "google_play",
+    "review_text": "Why is no one talking about the downloads that sometimes disappear when we try to transfer from Internal memory to SD card? I just lost 5.6gb of downloads for absolutely no reason, I'm highly pissed off rn, the time and data costs. It takes to download them is... And I'm seeing everywhere that there's nothing I can do about it. Spotify has done it again my storage location was changed from my SD card to my internal memory for no reason, I have lost my downloads again, this time w/o evn ding antn",
+    "review_date": "2025-09-26",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Bug Report",
+    "persona": "Unknown",
+    "summary": "The user is angry about losing downloaded music when attempting to transfer files to an SD card or when the storage location inexplicably changes.",
+    "primary_topic": "Offline Playback",
+    "secondary_topics": [
+      "Performance",
+      "User Experience"
+    ],
+    "pain_points": [
+      "downloads disappear when transferring to SD card",
+      "storage location changes automatically leading to lost downloads"
+    ],
+    "feature_requests": [],
+    "positive_themes": [],
+    "user_goal": "reliably store and access downloaded music for offline listening",
+    "root_cause": "software bug causing loss of downloaded content and unexpected changes in storage location",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Offline Playback",
+    "severity": "critical",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "138",
+    "source": "google_play",
+    "review_text": "Spotify supports ICE by advertising pro ICE ads. That is completely unacceptable. The app itself is good. Great library of music. The new shuffle system sucks though. Its a shame because I want to give a much, much higher review because I have very much loved my experience on Spotify for the past few years, but I cannot ever recommend an app that supports riping families apart and bringing terror to people. Shame on you Spotify.",
+    "review_date": "2025-10-15",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Mixed Feedback",
+    "persona": "Unknown",
+    "summary": "The user is highly critical of Spotify's political advertising choices and the new shuffle system, despite appreciating the music library.",
+    "primary_topic": "Ads",
+    "secondary_topics": [
+      "User Experience",
+      "Library",
+      "Other"
+    ],
+    "pain_points": [
+      "Spotify advertises pro-ICE ads",
+      "new shuffle system is poor"
+    ],
+    "feature_requests": [],
+    "positive_themes": [
+      "great library of music",
+      "loved experience on Spotify for years"
+    ],
+    "user_goal": "listen to music; have a positive user experience free from objectionable advertising",
+    "root_cause": "Spotify's ad policy allows objectionable content; new shuffle algorithm is perceived as worse",
+    "mentioned_features": [
+      "shuffle system"
+    ],
+    "recommendation_component": "General Discovery",
+    "music_discovery_related": true,
+    "discovery_issue": "The new shuffle system is perceived as poor.",
+    "impact_area": "Ads",
+    "severity": "critical",
+    "confidence": 0.8
+  },
+  {
+    "review_id": "139",
+    "source": "google_play",
+    "review_text": "It's fine, until you finish a pod & it starts playing a random pod that you've never listened to or don't like. There is no way to remove certain podcasts from playing, pls add a not interested button for podcasts! Also paying for premium & only getting 15hrs of audiobook play is a laugh. Barely 1 book in most cases, barely 1 week of listening to/from work on my commute, then oh no, have to wait another 3 weeks to finish it. Forget listening while you work. The time top up is a rip off.",
+    "review_date": "2025-02-26",
+    "rating": 3,
+    "sentiment": "mixed",
+    "emotion": "Frustrated",
+    "review_type": "Mixed Feedback",
+    "persona": "Premium User",
+    "summary": "The user is frustrated with unwanted random podcast playback after finishing an episode and the limited 15 hours of audiobook play for Premium users.",
+    "primary_topic": "Podcasts",
+    "secondary_topics": [
+      "Premium",
+      "Recommendation Quality"
+    ],
+    "pain_points": [
+      "random, unwanted podcasts play after an episode finishes",
+      "no way to remove certain podcasts from playing",
+      "limited 15 hours of audiobook play for Premium users"
+    ],
+    "feature_requests": [
+      "add a 'not interested' button for podcasts"
+    ],
+    "positive_themes": [],
+    "user_goal": "listen to specific podcasts; listen to audiobooks without time limits",
+    "root_cause": "autoplay feature for podcasts plays irrelevant content; audiobook access is severely limited for Premium users",
+    "mentioned_features": [
+      "Autoplay"
+    ],
+    "recommendation_component": "Autoplay",
+    "music_discovery_related": true,
+    "discovery_issue": "The system automatically plays random, unwanted podcasts after an episode finishes.",
+    "impact_area": "Podcasts",
+    "severity": "high",
+    "confidence": 0.9
+  }
+]

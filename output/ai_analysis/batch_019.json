@@ -1,0 +1,376 @@
+[
+  {
+    "review_id": "180",
+    "source": "google_play",
+    "review_text": "The devs increased the monthly Premium subscription for a second time in two years and I'm not sure it's even worth paying for what I get in return. Such a shame, because the app is overall well made and makes for an enjoyable listening experience, especially since many of the bugs were fixed in the past year. I've been a Premium user since 2020, but now I'm considering changing streaming services because of the price of a mere music app.",
+    "review_date": "2025-11-21",
+    "rating": 2,
+    "sentiment": "mixed",
+    "emotion": "Disappointed",
+    "review_type": "Mixed Feedback",
+    "persona": "Premium User",
+    "summary": "The user is disappointed with repeated Premium price increases despite appreciating the app's quality and bug fixes, considering switching services.",
+    "primary_topic": "Premium",
+    "secondary_topics": [
+      "User Experience",
+      "Performance"
+    ],
+    "pain_points": [
+      "increased Premium subscription price",
+      "questioning value for money"
+    ],
+    "feature_requests": [],
+    "positive_themes": [
+      "app is well made",
+      "enjoyable listening experience",
+      "bugs were fixed"
+    ],
+    "user_goal": "Continue using Spotify Premium for an enjoyable listening experience at a reasonable price.",
+    "root_cause": "Perceived poor value for money due to repeated price increases.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Premium",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "181",
+    "source": "google_play",
+    "review_text": "I love this app. listen to podcasts every day. until today. it's doing nothing but cache. and causing high battery drain the second I open it. even after clearing cach. please fix devs. of Spotify!!! so i can resume listening. It's been great for many years till now. completely unusable now. after it's fixed, I'll update my rating.",
+    "review_date": "2025-03-22",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Frustrated",
+    "review_type": "Bug Report",
+    "persona": "Unknown",
+    "summary": "The user is frustrated because the app is constantly caching, draining battery, and is now unusable, preventing them from listening to podcasts.",
+    "primary_topic": "Performance",
+    "secondary_topics": [
+      "Podcasts"
+    ],
+    "pain_points": [
+      "app constantly caching",
+      "high battery drain",
+      "app is unusable"
+    ],
+    "feature_requests": [
+      "fix caching issue",
+      "fix battery drain issue"
+    ],
+    "positive_themes": [
+      "loved the app previously",
+      "listens to podcasts every day"
+    ],
+    "user_goal": "Listen to podcasts without performance issues or battery drain.",
+    "root_cause": "App is stuck in a caching loop, leading to high resource consumption and unresponsiveness.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Performance",
+    "severity": "critical",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "182",
+    "source": "google_play",
+    "review_text": "A very large audio library providing good automated daily risk and recommendations. I have tested it in hip hop and it is the same as tidal, but it is better in podcasts is those are not existing in tidal, and apart from hip hop probably it's a bit better as title started with hip hop. However this case podcasts and maybe more with regards to other music genres. Spotify is a very good music App!",
+    "review_date": "2024-12-24",
+    "rating": 5,
+    "sentiment": "positive",
+    "emotion": "Satisfied",
+    "review_type": "Praise",
+    "persona": "Unknown",
+    "summary": "The user praises Spotify for its large audio library, good automated daily mixes and recommendations, and superior podcast offering compared to Tidal.",
+    "primary_topic": "Podcasts",
+    "secondary_topics": [
+      "Recommendation Quality",
+      "Daily Mix",
+      "Library"
+    ],
+    "pain_points": [],
+    "feature_requests": [],
+    "positive_themes": [
+      "very large audio library",
+      "good automated daily mixes",
+      "good recommendations",
+      "better in podcasts than Tidal",
+      "very good music app"
+    ],
+    "user_goal": "Access a wide range of audio content, including music and podcasts, with good recommendations.",
+    "root_cause": "",
+    "mentioned_features": [
+      "Daily Mix"
+    ],
+    "recommendation_component": "Daily Mix",
+    "music_discovery_related": true,
+    "discovery_issue": "The app provides good automated daily mixes and recommendations.",
+    "impact_area": "Music Discovery",
+    "severity": "none",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "183",
+    "source": "google_play",
+    "review_text": "I absolutely LIVE off of music. It is my comfort in any circumstance, so Spotify is amazing for me. However, I recently got Spotify Premium to get the better experience and it is indeed awesome. but I have one issue. I wish I could have the Spotify Duo Premium plan to give to a friend who doesn't have Premium. The fact that they have to live in the same country, with the same adress as me is a hindrance. We live in different countries. I wish I could have the possibility to have them on Duo.",
+    "review_date": "2025-03-25",
+    "rating": 4,
+    "sentiment": "mixed",
+    "emotion": "Disappointed",
+    "review_type": "Suggestion",
+    "persona": "Premium User",
+    "summary": "The user loves Spotify Premium but is frustrated by the geographical restrictions of the Spotify Duo Premium plan, wishing to share it with a friend in a different country.",
+    "primary_topic": "Premium",
+    "secondary_topics": [
+      "Social Features"
+    ],
+    "pain_points": [
+      "Spotify Duo Premium plan requires users to live in the same country/address"
+    ],
+    "feature_requests": [
+      "allow Spotify Duo Premium plan members to live in different countries"
+    ],
+    "positive_themes": [
+      "Spotify is amazing",
+      "Premium experience is awesome"
+    ],
+    "user_goal": "Share the Spotify Premium experience with a friend via the Duo plan, regardless of their location.",
+    "root_cause": "Spotify Duo Premium plan's geographical restrictions.",
+    "mentioned_features": [
+      "Spotify Premium",
+      "Spotify Duo Premium"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Premium",
+    "severity": "medium",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "184",
+    "source": "google_play",
+    "review_text": "I have been a user of Spotify for many years and I thank God for this platform. Its vast collection of Christian songs, ranging from timeless hymns to contemporary Christian music, is truly impressive. The sound quality is really good. I pray that Spotify will continue to make wholesome music available so that more people, especially the younger generations, will come to know the Saviour. God bless!",
+    "review_date": "2025-02-09",
+    "rating": 5,
+    "sentiment": "positive",
+    "emotion": "Happy",
+    "review_type": "Praise",
+    "persona": "Unknown",
+    "summary": "The user praises Spotify for its vast collection of Christian music and good sound quality, hoping it continues to provide wholesome content.",
+    "primary_topic": "Library",
+    "secondary_topics": [
+      "User Experience"
+    ],
+    "pain_points": [],
+    "feature_requests": [
+      "continue to make wholesome music available"
+    ],
+    "positive_themes": [
+      "vast collection of Christian songs",
+      "impressive music range",
+      "good sound quality"
+    ],
+    "user_goal": "Access a wide variety of Christian music with good sound quality.",
+    "root_cause": "",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Library",
+    "severity": "none",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "185",
+    "source": "google_play",
+    "review_text": "I keep having this issue where the music stops playing. I can't get it to play again. I uninstalled the app and now I can't even log back in. What the hell am I paying for?",
+    "review_date": "2025-06-12",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Bug Report",
+    "persona": "Premium User",
+    "summary": "The user is angry because music repeatedly stops playing, they cannot restart it, and after reinstalling the app, they are unable to log back in.",
+    "primary_topic": "Performance",
+    "secondary_topics": [
+      "User Experience"
+    ],
+    "pain_points": [
+      "music stops playing",
+      "cannot get music to play again",
+      "cannot log back in after uninstalling"
+    ],
+    "feature_requests": [
+      "fix music playback issues",
+      "fix login issues"
+    ],
+    "positive_themes": [],
+    "user_goal": "Play music reliably and log into the app.",
+    "root_cause": "Unspecified bug causing music playback interruption and login failure after reinstallation.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Performance",
+    "severity": "critical",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "186",
+    "source": "google_play",
+    "review_text": "No widgets are working. I have to open the app to pause at any time. Very frustrating. If it's not one thing, it's another with this app.",
+    "review_date": "2025-07-29",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Frustrated",
+    "review_type": "Bug Report",
+    "persona": "Unknown",
+    "summary": "The user is frustrated because Spotify widgets are not working, forcing them to open the app for basic controls like pausing music.",
+    "primary_topic": "User Experience",
+    "secondary_topics": [
+      "Performance"
+    ],
+    "pain_points": [
+      "widgets are not working",
+      "have to open app to pause music"
+    ],
+    "feature_requests": [
+      "fix widget functionality"
+    ],
+    "positive_themes": [],
+    "user_goal": "Control music playback conveniently using widgets.",
+    "root_cause": "Bug preventing widgets from functioning correctly.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "User Experience",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "187",
+    "source": "google_play",
+    "review_text": "I've been using Spotify for about 15 years and I've never been closer to ditching it entirely. It's painfully slow, overburdened with AI, trying to do too many things until it fails at the basics. As a bare minimum for a media player, I expect to hit Play/Pause and the music plays/pauses. Spotify consistently fails at that, or takes 5-10 seconds to respond. Its cache size is huge and yet it takes forever to load the same playlist I use every day. Way too much bloat.",
+    "review_date": "2026-06-25",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Disappointed",
+    "review_type": "Complaint",
+    "persona": "Unknown",
+    "summary": "A long-time user is frustrated with Spotify's painfully slow performance, unresponsiveness to basic controls, large cache size, slow playlist loading, and perceived bloat from excessive AI features.",
+    "primary_topic": "Performance",
+    "secondary_topics": [
+      "User Experience",
+      "AI DJ"
+    ],
+    "pain_points": [
+      "painfully slow app",
+      "overburdened with AI",
+      "fails at basic play/pause functionality",
+      "slow response to play/pause (5-10 seconds)",
+      "huge cache size",
+      "takes forever to load playlists",
+      "too much bloat"
+    ],
+    "feature_requests": [
+      "improve app speed",
+      "improve responsiveness of basic controls",
+      "reduce bloat"
+    ],
+    "positive_themes": [],
+    "user_goal": "Have a fast, responsive music player that reliably performs basic functions.",
+    "root_cause": "Poor app optimization, excessive features leading to bloat, and slow performance.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Performance",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "188",
+    "source": "google_play",
+    "review_text": "Spotify would be a five star app if the options and decisions for free users were expanded. We can't even pick what we want to listen to from our playlists and we only have a couple skips an hour. I feel Spotify already was doing enough with this until they decided to take away queues for us as well. This is highly disappointing because now if you don't pay a subscription price of $15.99 a month, the app is practically useless. I don't mind the ads, but please at least give queues back.",
+    "review_date": "2026-06-25",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Disappointed",
+    "review_type": "Complaint",
+    "persona": "Free User",
+    "summary": "The free user is highly disappointed with the severely limited functionality, including inability to pick songs, limited skips, and the removal of queues, making the app practically useless without a Premium subscription.",
+    "primary_topic": "Free",
+    "secondary_topics": [
+      "User Experience",
+      "Playlist Management"
+    ],
+    "pain_points": [
+      "cannot pick specific songs from playlists (free tier)",
+      "limited skips (free tier)",
+      "queues removed for free users",
+      "app is practically useless without Premium"
+    ],
+    "feature_requests": [
+      "expand options for free users",
+      "restore queues for free users"
+    ],
+    "positive_themes": [],
+    "user_goal": "Use Spotify's basic features like playlist playback and queuing without a Premium subscription.",
+    "root_cause": "Deliberate restriction of core features for the free tier.",
+    "mentioned_features": [
+      "playlists",
+      "queues"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Free",
+    "severity": "critical",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "189",
+    "source": "google_play",
+    "review_text": "Spotify is a classic for a reason. I like the variety of music, but I wish I did not have to pay for Premium to escape the dreaded ads. I know that's how this company pays for itself, though, so :/ I guess it makes sense... otherwise reliable and fun to use (And in my opinion, there are so many pros that they easily outweigh the cons)! EDIT: bringing down to three stars because you shouldn't have to pay just to fast forward or skip songs. New video feature pushes ads twice as often.",
+    "review_date": "2026-06-26",
+    "rating": 3,
+    "sentiment": "mixed",
+    "emotion": "Frustrated",
+    "review_type": "Mixed Feedback",
+    "persona": "Free User",
+    "summary": "The user appreciates Spotify's music variety and reliability but is frustrated by the necessity of Premium to avoid ads and gain basic controls like skipping and fast-forwarding, noting that a new video feature increases ad frequency.",
+    "primary_topic": "Ads",
+    "secondary_topics": [
+      "Premium",
+      "User Experience"
+    ],
+    "pain_points": [
+      "dreaded ads",
+      "have to pay for Premium to skip/fast forward songs",
+      "new video feature pushes ads twice as often"
+    ],
+    "feature_requests": [
+      "reduce ads",
+      "allow skipping/fast-forwarding without Premium"
+    ],
+    "positive_themes": [
+      "classic for a reason",
+      "variety of music",
+      "reliable and fun to use",
+      "pros outweigh cons"
+    ],
+    "user_goal": "Enjoy music with basic controls and fewer interruptions without paying for Premium.",
+    "root_cause": "Business model relies on ads and feature restrictions for free users, exacerbated by new video features.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Ads",
+    "severity": "high",
+    "confidence": 1.0
+  }
+]

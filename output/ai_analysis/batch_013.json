@@ -1,0 +1,364 @@
+[
+  {
+    "review_id": "120",
+    "source": "google_play",
+    "review_text": "Not sure what's going on lately, but the app keeps crashing and freezing. I uninstalled it and reinstalled it and now can't even log in. I'll have to cancel my subscription at this rate. Getting fed up with not being able to use an app that I pay for. The error message tries to blame my Internet, but it's working fine.",
+    "review_date": "2025-04-16",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Bug Report",
+    "persona": "Premium User",
+    "summary": "The user is experiencing frequent app crashes, freezing, and login issues, leading them to consider canceling their paid subscription.",
+    "primary_topic": "Performance",
+    "secondary_topics": [
+      "User Experience",
+      "Premium"
+    ],
+    "pain_points": [
+      "app keeps crashing",
+      "app keeps freezing",
+      "cannot log in",
+      "error message blames internet incorrectly"
+    ],
+    "feature_requests": [],
+    "positive_themes": [],
+    "user_goal": "Use the Spotify app without technical issues.",
+    "root_cause": "App instability and login system failures.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Performance",
+    "severity": "critical",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "121",
+    "source": "google_play",
+    "review_text": "Spotify is great - had premium now for years, recently though despite having offline access, the app refuses to load my downloaded library or allow me to play anything but a few select songs that I can find only by tapping on every single one I have saved. Keeps doing it after multiple reloads with the most updated version. It's almost like offline access breaks the mobile app's ability to do anything.",
+    "review_date": "2024-09-08",
+    "rating": 3,
+    "sentiment": "mixed",
+    "emotion": "Frustrated",
+    "review_type": "Bug Report",
+    "persona": "Premium User",
+    "summary": "A long-time premium user is frustrated because the app fails to load their downloaded library or play most saved songs, especially with offline access enabled.",
+    "primary_topic": "Offline Playback",
+    "secondary_topics": [
+      "Library",
+      "Performance",
+      "User Experience"
+    ],
+    "pain_points": [
+      "app refuses to load downloaded library",
+      "cannot play most saved songs offline",
+      "offline access breaks mobile app functionality"
+    ],
+    "feature_requests": [],
+    "positive_themes": [
+      "Spotify is great"
+    ],
+    "user_goal": "Access and play downloaded music from their library offline.",
+    "root_cause": "Offline playback functionality is broken, preventing access to downloaded content.",
+    "mentioned_features": [
+      "offline access"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Offline Playback",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "122",
+    "source": "google_play",
+    "review_text": "I am not paying for premium, Im making that known. If I click on a playlist it'll play a song or two then just start playing random music! Its so frustrating, because all it does it play different music and completely forgets what you were playing before!!!! I am so mad because Im just trying to listen to a specific playlist. :(",
+    "review_date": "2026-01-03",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Complaint",
+    "persona": "Free User",
+    "summary": "A free user is angry that when they select a playlist, it quickly switches to playing random music instead of continuing the chosen playlist.",
+    "primary_topic": "Playlist Management",
+    "secondary_topics": [
+      "User Experience",
+      "Free User"
+    ],
+    "pain_points": [
+      "playlist plays random music after a few songs",
+      "app forgets what was playing before"
+    ],
+    "feature_requests": [],
+    "positive_themes": [],
+    "user_goal": "Listen to a specific playlist without interruption or random music insertion.",
+    "root_cause": "Free tier playback restrictions or a bug causing unexpected playlist behavior.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "User Experience",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "123",
+    "source": "google_play",
+    "review_text": "The app will regularly try to fetch data about my downloaded albums from the internet even when I'm completely disconnected or have an inconsistent connection. The only way around this is to turn on airplane mode or put Spotify on offline mode, neither of which is something I'm willing to do every time want to listen to music on the subway. Apple Music is worse in every single other way but I will have to go back because working downloads are absolutely essential in a paid service like this",
+    "review_date": "2024-12-12",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Disappointed",
+    "review_type": "Complaint",
+    "persona": "Premium User",
+    "summary": "The user is frustrated that Spotify attempts to fetch data for downloaded albums online even when disconnected, making offline listening inconvenient and unreliable.",
+    "primary_topic": "Offline Playback",
+    "secondary_topics": [
+      "User Experience",
+      "Performance"
+    ],
+    "pain_points": [
+      "app tries to fetch data for downloaded albums online when disconnected",
+      "requires airplane mode or manual offline mode for reliable offline playback"
+    ],
+    "feature_requests": [
+      "reliable offline playback without manual mode activation"
+    ],
+    "positive_themes": [],
+    "user_goal": "Listen to downloaded music reliably offline without manual intervention.",
+    "root_cause": "Offline playback system attempts online data fetching even when not connected, or fails to properly recognize offline state.",
+    "mentioned_features": [
+      "offline mode"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Offline Playback",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "124",
+    "source": "google_play",
+    "review_text": "I'm not sure what caused this glitch to be happening constantly, but whenever I try to play something and then skip to the song I want to hear, it stops playing everything entirely and it is getting very annoying. I'm tired of not being able to listen to anything after I skip something. Please fix this or else I am uninstalling and switching to another music provider. I am SEVERELY disappointed.",
+    "review_date": "2025-01-04",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Disappointed",
+    "review_type": "Bug Report",
+    "persona": "Unknown",
+    "summary": "The user is severely disappointed because skipping a song causes playback to stop entirely, preventing them from listening to music.",
+    "primary_topic": "User Experience",
+    "secondary_topics": [
+      "Performance"
+    ],
+    "pain_points": [
+      "skipping a song stops playback entirely",
+      "cannot listen to anything after skipping"
+    ],
+    "feature_requests": [
+      "fix playback stopping after skip"
+    ],
+    "positive_themes": [],
+    "user_goal": "Play music and skip songs without interruption.",
+    "root_cause": "Playback system bug triggered by skipping songs.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "User Experience",
+    "severity": "critical",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "125",
+    "source": "google_play",
+    "review_text": "I'd rate it higher as it does have a lot of good features but there's one thing it's lacking compared to all other platforms. A dislike button. I don't enjoy rap or other genres, and yet I can't dislike them to remove them from automated playlists or even their new \"DJ\" feature. I like other platforms as I can hit play and let a random radio start off a song, then hit dislike or like to tune it. Spotify however doesn't allow for that and almost forces making playlists.",
+    "review_date": "2025-04-12",
+    "rating": 3,
+    "sentiment": "mixed",
+    "emotion": "Frustrated",
+    "review_type": "Suggestion",
+    "persona": "Unknown",
+    "summary": "The user desires a dislike button to remove unwanted genres like rap from automated playlists and the AI DJ feature, similar to other platforms.",
+    "primary_topic": "Recommendation Quality",
+    "secondary_topics": [
+      "Music Discovery",
+      "AI DJ",
+      "Playlist Management"
+    ],
+    "pain_points": [
+      "cannot dislike songs/genres to remove from automated playlists",
+      "cannot dislike songs/genres to remove from AI DJ",
+      "recommendations include unwanted genres"
+    ],
+    "feature_requests": [
+      "add a dislike button for songs/genres",
+      "improve genre filtering in automated playlists",
+      "improve genre filtering in AI DJ"
+    ],
+    "positive_themes": [
+      "has a lot of good features"
+    ],
+    "user_goal": "Tune recommendations and automated playlists to exclude disliked genres.",
+    "root_cause": "Lack of explicit negative feedback mechanism (dislike button) for recommendation algorithms.",
+    "mentioned_features": [
+      "DJ"
+    ],
+    "recommendation_component": "AI DJ",
+    "music_discovery_related": true,
+    "discovery_issue": "The recommendation system lacks a dislike button, leading to unwanted genres in automated playlists and the AI DJ.",
+    "impact_area": "Recommendation Quality",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "126",
+    "source": "google_play",
+    "review_text": "Unfortunately, Spotify keeps trying to dig its own grave. Songs are absolutely limited, and you can't even choose what playlist you want to use despite that. Unnecessary ads. Spotify used to be good, for both paying users and free users. They keep trying to pressure you into buying their premium by placing basic functions behind a pay wall. You're better off using Youtube music than this sorry excuse of an app.",
+    "review_date": "2025-03-14",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Complaint",
+    "persona": "Free User",
+    "summary": "The user is angry about limited song choices, inability to select specific playlists, excessive ads, and basic functions being paywalled, pushing them to consider alternatives.",
+    "primary_topic": "Free User",
+    "secondary_topics": [
+      "Ads",
+      "Premium",
+      "Playlist Management",
+      "User Experience"
+    ],
+    "pain_points": [
+      "limited song choices for free users",
+      "cannot choose specific playlists for free users",
+      "unnecessary ads",
+      "basic functions paywalled"
+    ],
+    "feature_requests": [],
+    "positive_themes": [],
+    "user_goal": "Listen to music freely and with more control without paying for premium.",
+    "root_cause": "Aggressive free tier limitations and monetization strategies.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Ads",
+    "severity": "critical",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "127",
+    "source": "google_play",
+    "review_text": "Glad that they seem to have fixed the algorithm but really pissed that the queue is different now. Like one of the the main reasons I used premium was so that I could use the queue to preemptively skip songs without having to interrupt my listening session and now you can't do that for some reason?? I just don't get it",
+    "review_date": "2025-01-26",
+    "rating": 2,
+    "sentiment": "mixed",
+    "emotion": "Angry",
+    "review_type": "Complaint",
+    "persona": "Premium User",
+    "summary": "A premium user is angry about recent changes to the queue feature, which now prevents them from preemptively skipping songs without interrupting their listening session.",
+    "primary_topic": "User Experience",
+    "secondary_topics": [
+      "Premium",
+      "Recommendation Quality"
+    ],
+    "pain_points": [
+      "queue functionality is different",
+      "cannot preemptively skip songs in queue without interruption"
+    ],
+    "feature_requests": [
+      "restore previous queue functionality for preemptive skipping"
+    ],
+    "positive_themes": [
+      "algorithm seems fixed"
+    ],
+    "user_goal": "Manage their listening queue efficiently, including preemptive skipping.",
+    "root_cause": "Recent changes to the queue management system.",
+    "mentioned_features": [
+      "queue"
+    ],
+    "recommendation_component": "Algorithm",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "User Experience",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "128",
+    "source": "google_play",
+    "review_text": "Crashes constantly, even with no apps running in the background. Happens for almost every song. I tried to fix with all suggestions Spotify made, cache cleared, no downloads. Nothing. It has been unstable for years. It can't be the phone, as I just got a new S23, and this is still happening. I will be cancelling my premium. Awful user experience. Sick of this. If I could give it 0 stars, then I would, because the app is borderline unusable for its primary function!",
+    "review_date": "2024-12-09",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Bug Report",
+    "persona": "Premium User",
+    "summary": "The user is extremely frustrated with constant app crashes, occurring with almost every song, making the app unusable despite troubleshooting efforts and a new phone.",
+    "primary_topic": "Performance",
+    "secondary_topics": [
+      "User Experience",
+      "Premium"
+    ],
+    "pain_points": [
+      "app crashes constantly",
+      "app crashes for almost every song",
+      "app is unstable for years",
+      "app is borderline unusable"
+    ],
+    "feature_requests": [],
+    "positive_themes": [],
+    "user_goal": "Listen to music without constant interruptions from app crashes.",
+    "root_cause": "Persistent app instability and crashing bugs.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Performance",
+    "severity": "critical",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "129",
+    "source": "google_play",
+    "review_text": "Very convenient for listening to both music and podcasts, but how come you don’t get the option to listen to songs unshuffled? Whereas if you were using tablet or desktop/laptop you get to pick whichever song you so desire and even play them on repeat, have the option to shuffle your playlist or have it play in order of your arrangement. I know it’s mostly got to do phones having the ability to be carried literally anywhere but c'mon.",
+    "review_date": "2025-01-10",
+    "rating": 4,
+    "sentiment": "mixed",
+    "emotion": "Disappointed",
+    "review_type": "Suggestion",
+    "persona": "Unknown",
+    "summary": "The user is disappointed that the mobile app lacks the option to play songs unshuffled, on repeat, or in a specific order, unlike the tablet or desktop versions.",
+    "primary_topic": "User Experience",
+    "secondary_topics": [
+      "Playlist Management",
+      "Podcasts"
+    ],
+    "pain_points": [
+      "cannot listen to songs unshuffled on mobile",
+      "cannot play songs on repeat on mobile",
+      "cannot play songs in order of arrangement on mobile"
+    ],
+    "feature_requests": [
+      "add unshuffled playback option to mobile",
+      "add repeat playback option to mobile",
+      "add ordered playlist playback option to mobile"
+    ],
+    "positive_themes": [
+      "convenient for listening to music and podcasts"
+    ],
+    "user_goal": "Have full control over playlist playback order and repetition on mobile devices.",
+    "root_cause": "Feature disparity between mobile and other platforms (tablet/desktop) for playback control.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "User Experience",
+    "severity": "medium",
+    "confidence": 0.9
+  }
+]

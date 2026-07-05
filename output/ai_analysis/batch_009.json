@@ -1,0 +1,389 @@
+[
+  {
+    "review_id": "80",
+    "source": "google_play",
+    "review_text": "Good interface, but... It'd be way better if Spotify on mobile devices was like Spotify on computers. Just look at how much more freedom you get on a computer when you listen to music in comparison with how limited the mobile version is! I don't know why it is the way it is (most likely marketing, but what isn't nowadays?)... Anyway, not really that good of an experience if you have Spotify Free but I still use it for some reason :/",
+    "review_date": "2025-03-26",
+    "rating": 3,
+    "sentiment": "mixed",
+    "emotion": "Disappointed",
+    "review_type": "Mixed Feedback",
+    "persona": "Free User",
+    "summary": "The user finds the mobile free version of Spotify too limited compared to the desktop version, despite a good interface.",
+    "primary_topic": "User Experience",
+    "secondary_topics": [
+      "Premium"
+    ],
+    "pain_points": [
+      "mobile version is limited compared to desktop",
+      "poor experience on Spotify Free"
+    ],
+    "feature_requests": [
+      "make mobile experience more like desktop",
+      "increase freedom on mobile"
+    ],
+    "positive_themes": [
+      "good interface"
+    ],
+    "user_goal": "have a less restricted music listening experience on mobile",
+    "root_cause": "intentional feature limitations for free tier on mobile",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "User Experience",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "81",
+    "source": "google_play",
+    "review_text": "I very much like this app and have loved organizing all my songs and playlists. I'm a musician, so I have dozens of playlists. Overall great app, but please bring back the hearts! I don't know why it ever needed to get changed, but I way much more prefered the heart symbol to like a song over the little plus sign. It's now much more complicated than it needed to be.",
+    "review_date": "2024-08-28",
+    "rating": 4,
+    "sentiment": "mixed",
+    "emotion": "Disappointed",
+    "review_type": "Mixed Feedback",
+    "persona": "Unknown",
+    "summary": "The user praises the app for organizing songs and playlists but is disappointed by the change from heart to plus sign for liking songs, finding it more complicated.",
+    "primary_topic": "User Experience",
+    "secondary_topics": [
+      "Playlist Management",
+      "Library"
+    ],
+    "pain_points": [
+      "new plus sign for liking songs is more complicated",
+      "heart symbol was removed"
+    ],
+    "feature_requests": [
+      "bring back the heart symbol for liking songs"
+    ],
+    "positive_themes": [
+      "good for organizing songs",
+      "good for organizing playlists",
+      "overall great app"
+    ],
+    "user_goal": "easily like songs and manage music library",
+    "root_cause": "UI change for liking songs made the process less intuitive for the user",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "User Experience",
+    "severity": "medium",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "82",
+    "source": "google_play",
+    "review_text": "Always loved this app. I pay for premium but you still add commercials even though I pay to not have commercials. Granted they can be skipped, but I don't EVEN WANT THEM THATS THE POINT OF PAYING NOT TO HAVE THEM, having the ability to skip is pointless when I have to pick up my phone a million times during a podcast to skip the stupid BOSE headphones commercials. Per Spotify they told me to contact customer support, which I have, and they've never responded or fixed it.",
+    "review_date": "2024-11-15",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Complaint",
+    "persona": "Premium User",
+    "summary": "The premium user is angry about still receiving skippable commercials during podcasts, which defeats the purpose of paying for a commercial-free experience, and has received no resolution from customer support.",
+    "primary_topic": "Ads",
+    "secondary_topics": [
+      "Podcasts",
+      "Premium",
+      "User Experience"
+    ],
+    "pain_points": [
+      "receiving commercials on premium",
+      "commercials during podcasts",
+      "having to manually skip commercials",
+      "customer support unresponsive"
+    ],
+    "feature_requests": [
+      "remove all commercials for premium users"
+    ],
+    "positive_themes": [
+      "always loved this app"
+    ],
+    "user_goal": "listen to podcasts without interruptions from commercials",
+    "root_cause": "premium subscription benefit (no ads) is not being fully delivered for podcasts; customer support failure",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Ads",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "83",
+    "source": "google_play",
+    "review_text": "Plays 1 song at a time. No longer able to listen to playlists or stations. It stops after 1 song. I've cleared cache. Restarted my phone. Uninstalled and reinstalled. Even cleared storage and Uninstalled other apps. Nothing works. I stopped my subscription due to similar issues and now this free version is no longer worth the work or time. I'm done.",
+    "review_date": "2024-12-29",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Frustrated",
+    "review_type": "Bug Report",
+    "persona": "Free User",
+    "summary": "The user is experiencing a critical bug where only one song plays at a time, preventing playlist or station listening, and has tried multiple troubleshooting steps without success, leading them to stop using the app.",
+    "primary_topic": "Performance",
+    "secondary_topics": [
+      "Playlist Management",
+      "Radio",
+      "User Experience",
+      "Premium"
+    ],
+    "pain_points": [
+      "plays only one song at a time",
+      "unable to listen to playlists",
+      "unable to listen to stations",
+      "troubleshooting steps did not work",
+      "free version is not worth the time"
+    ],
+    "feature_requests": [],
+    "positive_themes": [],
+    "user_goal": "listen to music continuously from playlists or stations",
+    "root_cause": "critical playback bug preventing continuous listening",
+    "mentioned_features": [],
+    "recommendation_component": "Radio",
+    "music_discovery_related": true,
+    "discovery_issue": "The user is unable to listen to stations, which is a form of music discovery, due to a playback bug.",
+    "impact_area": "Performance",
+    "severity": "critical",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "84",
+    "source": "google_play",
+    "review_text": "Tbh I'm constantly having issues with the app. It never remembers what podcast episode I last listened to so I have to scroll forever everytime I listen to something else. It freezes a lot or takes forever to start playing. Tons of issues in Android auto with it. Freezing and just not playing, or playing but no sound is coming out. The widget almost never seems to work and I used to use it all the time. Samsung 24 Ultra. Also I'd like to be able to message my friends songs right in the app plz",
+    "review_date": "2024-11-13",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Frustrated",
+    "review_type": "Bug Report",
+    "persona": "Unknown",
+    "summary": "The user is constantly frustrated by multiple app issues including podcasts not remembering progress, frequent freezing, Android Auto problems, a non-functional widget, and desires an in-app messaging feature for sharing songs.",
+    "primary_topic": "Performance",
+    "secondary_topics": [
+      "Podcasts",
+      "User Experience",
+      "Social Features"
+    ],
+    "pain_points": [
+      "app never remembers podcast progress",
+      "app freezes frequently",
+      "app takes forever to start playing",
+      "issues with Android Auto (freezing, no sound)",
+      "widget does not work"
+    ],
+    "feature_requests": [
+      "remember podcast episode progress",
+      "improve Android Auto integration",
+      "fix widget functionality",
+      "add in-app messaging for sharing songs"
+    ],
+    "positive_themes": [],
+    "user_goal": "reliably listen to podcasts and music, control playback easily, share music with friends",
+    "root_cause": "multiple performance bugs across different features and integrations; lack of a social sharing feature",
+    "mentioned_features": [
+      "Android Auto",
+      "widget"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Performance",
+    "severity": "critical",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "85",
+    "source": "google_play",
+    "review_text": "The apps performance really has degraded recently. Crashing every thirty or so minutes, randomly pausing songs, or just straight up dropping the playlist after it crashes and starts playing \"trending\" songs. I can't listen to custom mixes anymore because it crashes and kills the playlist so I have to restart it. The advertisement vs song ratio has become has become a joke, I can listen to FM radio stations and get less ads.",
+    "review_date": "2024-09-28",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Complaint",
+    "persona": "Free User",
+    "summary": "The user reports significant app performance degradation, including frequent crashes, random pausing, dropping playlists, and an excessive advertisement-to-song ratio, making custom mixes unusable.",
+    "primary_topic": "Performance",
+    "secondary_topics": [
+      "Ads",
+      "Playlist Management",
+      "User Experience"
+    ],
+    "pain_points": [
+      "app performance degraded",
+      "app crashing frequently",
+      "songs randomly pausing",
+      "dropping playlists after crash",
+      "app starts playing \"trending\" songs after crash",
+      "unable to listen to custom mixes",
+      "excessive advertisement vs song ratio"
+    ],
+    "feature_requests": [],
+    "positive_themes": [],
+    "user_goal": "listen to music from custom mixes and playlists without interruptions",
+    "root_cause": "severe performance bugs leading to crashes and playback interruptions; aggressive ad frequency for free users",
+    "mentioned_features": [],
+    "recommendation_component": "General Discovery",
+    "music_discovery_related": true,
+    "discovery_issue": "App crashes disrupt listening to custom mixes and force playback of \"trending\" songs, hindering personalized discovery.",
+    "impact_area": "Performance",
+    "severity": "critical",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "86",
+    "source": "google_play",
+    "review_text": "If we can add a playlist from the queue, add a \"remove playlist from queue\" option next. It's so annoying; I accidentally added a playlist from my queue, and whenever I try to listen to another song, that queue immediately plays. Also, can you all add something that will display the genre of the song? It will be very much appreciated.",
+    "review_date": "2026-04-11",
+    "rating": 3,
+    "sentiment": "mixed",
+    "emotion": "Frustrated",
+    "review_type": "Suggestion",
+    "persona": "Unknown",
+    "summary": "The user is frustrated by accidentally adding playlists to the queue and not being able to remove them, and requests a feature to display song genres.",
+    "primary_topic": "User Experience",
+    "secondary_topics": [
+      "Playlist Management",
+      "Music Discovery"
+    ],
+    "pain_points": [
+      "accidentally added playlist to queue",
+      "unable to remove playlist from queue",
+      "queue immediately plays unwanted playlist"
+    ],
+    "feature_requests": [
+      "add \"remove playlist from queue\" option",
+      "display song genre"
+    ],
+    "positive_themes": [],
+    "user_goal": "manage playback queue effectively; understand song genres",
+    "root_cause": "lack of granular control over queue management; missing song metadata display",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": true,
+    "discovery_issue": "The user wants to see song genres to better understand and potentially discover music.",
+    "impact_area": "User Experience",
+    "severity": "medium",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "87",
+    "source": "google_play",
+    "review_text": "Used to have a 2 star rating for the app in 2023, and major issues have been updated, but i still continue to have some issues with songs randomly pausing and not playing. The ads are also insane. 3 to 4 30 second ads in a row after only playing a few songs is very irritating to say the least. I don't have the money to be spending $12/mo for premium so it is what it is, but it gets annoying. Otherwise, app is pretty good for listening to music whenever, driving, walking, etc.",
+    "review_date": "2025-02-06",
+    "rating": 3,
+    "sentiment": "mixed",
+    "emotion": "Frustrated",
+    "review_type": "Mixed Feedback",
+    "persona": "Free User",
+    "summary": "The user notes improvements since 2023 but is still frustrated by songs randomly pausing and an excessive number of long ads, which are particularly annoying for a free user.",
+    "primary_topic": "Ads",
+    "secondary_topics": [
+      "Performance",
+      "User Experience",
+      "Premium"
+    ],
+    "pain_points": [
+      "songs randomly pausing and not playing",
+      "insane number of ads",
+      "3-4 30-second ads in a row after few songs"
+    ],
+    "feature_requests": [],
+    "positive_themes": [
+      "major issues updated",
+      "app is pretty good for listening to music"
+    ],
+    "user_goal": "listen to music without interruptions from ads or technical glitches",
+    "root_cause": "performance bug causing random pausing; aggressive ad frequency for free users",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Ads",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "88",
+    "source": "google_play",
+    "review_text": "Overall I'm happy but the issue of autoplay for podcast. If you listen to one it then goes to your autoplay list & there's no way to get it off. While driving, an episode of a podcast I like & follow finishes then starts an episode of a podcast that I may have listened to once but did not like. I've combed through the settings & there's + ways to like/add a podcast to your list but none to remove it from your autoplay. Fix it!!",
+    "review_date": "2024-10-16",
+    "rating": 3,
+    "sentiment": "mixed",
+    "emotion": "Frustrated",
+    "review_type": "Complaint",
+    "persona": "Unknown",
+    "summary": "The user is generally happy but frustrated by the podcast autoplay feature, which adds listened podcasts to an unmanageable autoplay list, leading to unwanted content playing, and there's no way to remove them.",
+    "primary_topic": "Podcasts",
+    "secondary_topics": [
+      "User Experience"
+    ],
+    "pain_points": [
+      "podcast autoplay adds unwanted podcasts to list",
+      "no way to remove podcasts from autoplay list",
+      "unwanted podcasts play automatically"
+    ],
+    "feature_requests": [
+      "add option to remove podcasts from autoplay list",
+      "improve autoplay management for podcasts"
+    ],
+    "positive_themes": [
+      "overall happy"
+    ],
+    "user_goal": "control podcast playback and avoid unwanted content",
+    "root_cause": "lack of user control over podcast autoplay queue/list",
+    "mentioned_features": [
+      "autoplay"
+    ],
+    "recommendation_component": "Autoplay",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Podcasts",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "89",
+    "source": "google_play",
+    "review_text": "Honestly, when i first started using this, it was an awesome app! It's got all my favorite artists in one place, but, after a while, on my phone, it just doesn't work(?) It will not play the next song, and it will get stuck on an ad, which i can't skip since I have to close the app. But overall, it's a great app, aside from the fact that you only have limited lyrics per month and six skins per hour, I love it! It's great for people who have money to spend on premium. (Aside from me, I dont)",
+    "review_date": "2024-12-22",
+    "rating": 3,
+    "sentiment": "mixed",
+    "emotion": "Disappointed",
+    "review_type": "Mixed Feedback",
+    "persona": "Free User",
+    "summary": "The user initially loved the app for its artist collection but now experiences critical playback issues, ads getting stuck, and finds the free version severely limited by restrictions on lyrics and skips, making it only great for premium users.",
+    "primary_topic": "Performance",
+    "secondary_topics": [
+      "Ads",
+      "Premium",
+      "User Experience",
+      "Library"
+    ],
+    "pain_points": [
+      "app doesn't play next song",
+      "app gets stuck on ads",
+      "unable to skip stuck ads",
+      "limited lyrics per month (free tier)",
+      "limited skips per hour (free tier)"
+    ],
+    "feature_requests": [],
+    "positive_themes": [
+      "awesome app (initially)",
+      "has all favorite artists in one place",
+      "great for premium users"
+    ],
+    "user_goal": "listen to music reliably, access lyrics, and skip songs without severe limitations",
+    "root_cause": "critical playback bug; ad serving bug; intentional feature limitations for free tier",
+    "mentioned_features": [
+      "lyrics"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Performance",
+    "severity": "critical",
+    "confidence": 0.9
+  }
+]

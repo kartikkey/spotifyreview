@@ -1,0 +1,390 @@
+[
+  {
+    "review_id": "170",
+    "source": "google_play",
+    "review_text": "Loved Spotify for yearssss. But now, premium isn't even premium. Don't waste your money on premium bc you'll still get ads, specifically right before listening to podcasts. To make it worse, this year, they just increased the payment plan cost. Now they put in ads too. Paid for nothing. Not worth it. Please change it, Spotify!",
+    "review_date": "2025-06-01",
+    "rating": 2,
+    "sentiment": "mixed",
+    "emotion": "Angry",
+    "review_type": "Complaint",
+    "persona": "Premium User",
+    "summary": "A long-time user is angry because they are still getting ads on podcasts despite paying for Premium, which recently increased in price.",
+    "primary_topic": "Premium",
+    "secondary_topics": [
+      "Ads",
+      "Podcasts"
+    ],
+    "pain_points": [
+      "ads on premium podcasts",
+      "increased premium cost",
+      "premium not delivering ad-free experience"
+    ],
+    "feature_requests": [
+      "remove ads from premium podcasts"
+    ],
+    "positive_themes": [
+      "loved Spotify for years"
+    ],
+    "user_goal": "Enjoy ad-free listening on Premium, especially for podcasts.",
+    "root_cause": "Premium subscription benefits (ad-free listening) are not consistently applied across all content types (podcasts), despite price increases.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Premium",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "171",
+    "source": "google_play",
+    "review_text": "I love the app but have been running into issues where it is automatically turning on smart recommendations when I don't want that feature turned on. Also noticing that every time I connect it to my smart home device (ie Google Home) it resets the playlist I'm actively listening to, which is frustrating cause I'm just trying to change the device it's playing from - I'm not asking for the whole playlist to reset. If I wanted it to do that, then I'd do that myself.",
+    "review_date": "2025-07-01",
+    "rating": 3,
+    "sentiment": "mixed",
+    "emotion": "Frustrated",
+    "review_type": "Bug Report",
+    "persona": "Unknown",
+    "summary": "The user is frustrated by smart recommendations automatically turning on and playlists resetting when connecting to smart home devices.",
+    "primary_topic": "User Experience",
+    "secondary_topics": [
+      "Recommendation Quality",
+      "Social Features"
+    ],
+    "pain_points": [
+      "smart recommendations automatically turning on",
+      "playlist resets when connecting to smart home device"
+    ],
+    "feature_requests": [
+      "option to disable automatic smart recommendations",
+      "maintain playlist state when switching playback device"
+    ],
+    "positive_themes": [
+      "loves the app"
+    ],
+    "user_goal": "Control playback experience, prevent unwanted recommendations, and seamlessly switch playback devices without interruption.",
+    "root_cause": "Default settings for smart recommendations are not user-configurable or persistent; device switching logic incorrectly resets playback state.",
+    "mentioned_features": [
+      "smart recommendations",
+      "Google Home"
+    ],
+    "recommendation_component": "General Discovery",
+    "music_discovery_related": true,
+    "discovery_issue": "Smart recommendations automatically turn on when the user does not want them.",
+    "impact_area": "User Experience",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "172",
+    "source": "google_play",
+    "review_text": "Love this app sm, and the little loop videos it plays while you have it open, it gives such a good mood. But one thing I hate is when it says you get to listen ad free for 30 mins, then plays an ad after that song. At least tell me you're gonna play 7 more ads instead of saying I get 30 mins free.",
+    "review_date": "2024-10-05",
+    "rating": 4,
+    "sentiment": "mixed",
+    "emotion": "Frustrated",
+    "review_type": "Complaint",
+    "persona": "Free User",
+    "summary": "The user loves the app and its visual elements but is frustrated by misleading \"ad-free\" promises that are quickly followed by ads.",
+    "primary_topic": "Ads",
+    "secondary_topics": [
+      "User Experience"
+    ],
+    "pain_points": [
+      "misleading ad-free promises",
+      "ads playing immediately after 'ad-free' period"
+    ],
+    "feature_requests": [
+      "transparent ad frequency communication"
+    ],
+    "positive_themes": [
+      "loves the app",
+      "loop videos (Canvas) create good mood"
+    ],
+    "user_goal": "Enjoy music with clear expectations regarding ad interruptions.",
+    "root_cause": "Ad delivery system or messaging miscommunicates the duration of ad-free listening periods.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Ads",
+    "severity": "medium",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "173",
+    "source": "google_play",
+    "review_text": "awesome selection of songs. It just sucks when you have 100 hrs worth of songs, but the same songs will play during the day when you put your list on shuffle, which is what you need to do unless you want the exact same songs in the exact same order each time. Basically, for example, you get to hear the same 200 songs all the time when you have 15,000 songs in your playlist.",
+    "review_date": "2025-03-29",
+    "rating": 4,
+    "sentiment": "mixed",
+    "emotion": "Disappointed",
+    "review_type": "Complaint",
+    "persona": "Unknown",
+    "summary": "The user praises the song selection but is frustrated that the shuffle feature repeatedly plays the same limited set of songs from large playlists.",
+    "primary_topic": "Playlist Management",
+    "secondary_topics": [
+      "User Experience"
+    ],
+    "pain_points": [
+      "shuffle feature repeats same songs from large playlists",
+      "shuffle not truly random"
+    ],
+    "feature_requests": [
+      "improve shuffle algorithm for better diversity"
+    ],
+    "positive_themes": [
+      "awesome selection of songs"
+    ],
+    "user_goal": "Listen to a diverse range of songs from a large playlist using shuffle.",
+    "root_cause": "Shuffle algorithm does not provide sufficient randomness or diversity across large playlists, leading to repetition.",
+    "mentioned_features": [
+      "shuffle"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "User Experience",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "174",
+    "source": "google_play",
+    "review_text": "🌟🌟🌟🌟🌟 Best music app ever! 🎶💚 Spotify is my favourite app for listening to music anytime, anywhere! It has millions of songs, playlists, podcasts, and moods — whether I’m studying, chilling, dancing, or feeling low, there’s always something perfect to play 🎧🎵💃. The sound quality is amazing, and I love how it recommends songs based on my mood and taste 😍✨. The UI is clean, easy to use, and the dark theme looks so cool 🌙🖤. Yes, ads come in the free version, but it's still worth it.",
+    "review_date": "2025-07-25",
+    "rating": 5,
+    "sentiment": "positive",
+    "emotion": "Excited",
+    "review_type": "Praise",
+    "persona": "Free User",
+    "summary": "The user highly praises Spotify as the best music app, highlighting its vast content, excellent recommendations, sound quality, and user-friendly interface, even with ads on the free version.",
+    "primary_topic": "Music Discovery",
+    "secondary_topics": [
+      "User Experience",
+      "Library",
+      "Ads",
+      "Podcasts",
+      "Recommendation Quality"
+    ],
+    "pain_points": [],
+    "feature_requests": [],
+    "positive_themes": [
+      "best music app",
+      "millions of songs",
+      "diverse playlists for moods",
+      "amazing sound quality",
+      "recommends songs based on mood and taste",
+      "clean UI",
+      "easy to use",
+      "cool dark theme",
+      "worth it even with ads"
+    ],
+    "user_goal": "Listen to music for various moods and activities, discover new music, and enjoy a high-quality user experience.",
+    "root_cause": "",
+    "mentioned_features": [
+      "playlists",
+      "podcasts"
+    ],
+    "recommendation_component": "Algorithm",
+    "music_discovery_related": true,
+    "discovery_issue": "The app effectively recommends songs based on mood and taste.",
+    "impact_area": "Music Discovery",
+    "severity": "none",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "175",
+    "source": "google_play",
+    "review_text": "it works but that's about the best you can say. It's missing a lot of features of other apps and the ones it does have barely work as intended. For me the absolute worst part is how slow it is. It takes forever to load and find my play lists. Was this coded by HS student??",
+    "review_date": "2025-06-06",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Disappointed",
+    "review_type": "Complaint",
+    "persona": "Unknown",
+    "summary": "The user finds Spotify slow, lacking features compared to competitors, and existing features barely functional, particularly noting long loading times for playlists.",
+    "primary_topic": "Performance",
+    "secondary_topics": [
+      "User Experience",
+      "Playlist Management"
+    ],
+    "pain_points": [
+      "app is slow",
+      "takes forever to load",
+      "slow to find playlists",
+      "missing features compared to other apps",
+      "existing features barely work"
+    ],
+    "feature_requests": [
+      "improve app performance",
+      "add more features",
+      "improve existing feature functionality"
+    ],
+    "positive_themes": [],
+    "user_goal": "Efficiently access and manage playlists and enjoy a responsive app experience.",
+    "root_cause": "Poor application performance and potentially inefficient data retrieval for playlists.",
+    "mentioned_features": [
+      "playlists"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Performance",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "176",
+    "source": "google_play",
+    "review_text": "I love all the different playlists on here,, they let me explore different genres and often I find music I haven't listened to in years! I also like that if I want to just listen to an artist, or an album, I can do that too! I haven't been at a loss for good music since I started using this app!",
+    "review_date": "2024-11-08",
+    "rating": 5,
+    "sentiment": "positive",
+    "emotion": "Happy",
+    "review_type": "Praise",
+    "persona": "Unknown",
+    "summary": "The user loves Spotify's diverse playlists for genre exploration and rediscovering old music, as well as the ability to listen to specific artists or albums.",
+    "primary_topic": "Music Discovery",
+    "secondary_topics": [
+      "Playlist Management",
+      "Library"
+    ],
+    "pain_points": [],
+    "feature_requests": [],
+    "positive_themes": [
+      "diverse playlists",
+      "explores different genres",
+      "finds music not listened to in years",
+      "can listen to specific artists/albums",
+      "never at a loss for good music"
+    ],
+    "user_goal": "Discover new genres and rediscover old music, and easily access specific artists or albums.",
+    "root_cause": "",
+    "mentioned_features": [
+      "playlists"
+    ],
+    "recommendation_component": "General Discovery",
+    "music_discovery_related": true,
+    "discovery_issue": "The diverse playlists facilitate genre exploration and rediscovery of music.",
+    "impact_area": "Music Discovery",
+    "severity": "none",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "177",
+    "source": "google_play",
+    "review_text": "I cannot add a 6th member to my family plan. it keeps saying the address doesn't match. ...... I confirmed my own address on my own account.... then typed it in 20 different times. still can't add my daughters account to mine. it's irking me so bad. I've never had an issue with this before. as much as I've spent on Spotify over 5 years and with how much they charge, this platform should be flawless.",
+    "review_date": "2025-05-21",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Bug Report",
+    "persona": "Premium User",
+    "summary": "The user is angry and frustrated because they cannot add a sixth member to their family plan due to a persistent address mismatch error, despite confirming their address multiple times.",
+    "primary_topic": "Premium",
+    "secondary_topics": [
+      "User Experience"
+    ],
+    "pain_points": [
+      "cannot add 6th member to family plan",
+      "address mismatch error prevents adding family member",
+      "family plan setup is flawed"
+    ],
+    "feature_requests": [
+      "fix family plan address verification process"
+    ],
+    "positive_themes": [],
+    "user_goal": "Successfully add a family member to an existing family plan.",
+    "root_cause": "Flawed or overly strict address verification system for family plan members.",
+    "mentioned_features": [
+      "family plan"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Premium",
+    "severity": "critical",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "178",
+    "source": "google_play",
+    "review_text": "Good variety of music options, particularly smaller niche bands, but I'm having issues with sound quality, especially with downloads. Muffled/static sound and inconsistent quality, which shouldn't happen with downloads. Can't find any support option on the app either.",
+    "review_date": "2025-07-22",
+    "rating": 3,
+    "sentiment": "mixed",
+    "emotion": "Disappointed",
+    "review_type": "Complaint",
+    "persona": "Unknown",
+    "summary": "The user appreciates the music variety, especially niche bands, but is experiencing significant issues with muffled and inconsistent sound quality, particularly with downloaded music, and cannot find in-app support.",
+    "primary_topic": "Performance",
+    "secondary_topics": [
+      "Offline Playback",
+      "Library",
+      "User Experience"
+    ],
+    "pain_points": [
+      "muffled/static sound quality",
+      "inconsistent sound quality with downloads",
+      "cannot find in-app support option"
+    ],
+    "feature_requests": [
+      "improve sound quality for downloads",
+      "add accessible in-app support"
+    ],
+    "positive_themes": [
+      "good variety of music options",
+      "particularly smaller niche bands"
+    ],
+    "user_goal": "Listen to high-quality music, especially downloaded tracks, and easily access customer support when issues arise.",
+    "root_cause": "Issues with audio encoding or playback for downloaded content; lack of clear in-app support access.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Performance",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "179",
+    "source": "google_play",
+    "review_text": "Always my go to for music but for some reason today it isn't working properly. Normally you can search your liked songs for a specific artist and it would queue the next song on your liked list of said specific person, but now it's acting like shuffle is on when it isn't, and playing random songs all over the place.",
+    "review_date": "2024-11-22",
+    "rating": 4,
+    "sentiment": "mixed",
+    "emotion": "Frustrated",
+    "review_type": "Bug Report",
+    "persona": "Unknown",
+    "summary": "The user, who typically relies on Spotify for music, is frustrated by a recent bug where searching liked songs for an artist now plays random songs as if shuffle is on, instead of queuing the next song by that artist.",
+    "primary_topic": "Search",
+    "secondary_topics": [
+      "Playlist Management",
+      "User Experience"
+    ],
+    "pain_points": [
+      "search within liked songs for artist plays random songs",
+      "search functionality behaving like shuffle when not enabled"
+    ],
+    "feature_requests": [
+      "restore previous search functionality within liked songs"
+    ],
+    "positive_themes": [
+      "always my go to for music"
+    ],
+    "user_goal": "Search and queue specific songs by an artist from their liked songs in a non-shuffled order.",
+    "root_cause": "A recent change or bug in the search and queuing logic, specifically when filtering liked songs by artist, causing unintended shuffle behavior.",
+    "mentioned_features": [
+      "liked songs",
+      "shuffle"
+    ],
+    "recommendation_component": "Search",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Search",
+    "severity": "high",
+    "confidence": 1.0
+  }
+]

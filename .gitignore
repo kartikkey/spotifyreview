@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+.env.*
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Test and coverage artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Raw source datasets (not read by dashboard.py at runtime; regenerable via the scraping pipeline)
+data/
+
+# Project outputs: ignore everything except the precomputed files dashboard.py
+# reads directly (OUTPUT_DIR reads in dashboard.py), which the deployed app needs.
+output/*
+!output/.gitkeep
+!output/analytics_summary.json
+!output/review_clusters.json
+!output/cluster_insights.json
+!output/master_reviews.csv
+!output/ai_analysis
+output/ai_analysis/*
+!output/ai_analysis/batch_*.json

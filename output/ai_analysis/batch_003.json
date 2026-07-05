@@ -1,0 +1,363 @@
+[
+  {
+    "review_id": "20",
+    "source": "google_play",
+    "review_text": "I havr been using the free version for a while now and i am it sucks a lot. We are litterally listening to more adds than we are listening to music. I always get interupted with adds every 1 song i listen too! Also, the songs in my playlist don't play from bottom to top. Instead it just plays in a random order. You guys couldn't get any more greedy. At this point, I feel like switching to Youtube is better because you can actyally skip adds.",
+    "review_date": "2026-04-29",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Complaint",
+    "persona": "Free User",
+    "summary": "The user is frustrated with the excessive ads and random playlist playback order on the free version, considering switching to another platform.",
+    "primary_topic": "Ads",
+    "secondary_topics": [
+      "Playlist Management"
+    ],
+    "pain_points": [
+      "excessive advertisements",
+      "ads interrupt every song",
+      "playlist songs play in random order"
+    ],
+    "feature_requests": [
+      "ability to skip ads"
+    ],
+    "positive_themes": [],
+    "user_goal": "listen to music without excessive interruptions; play songs in a desired order from a playlist",
+    "root_cause": "aggressive ad frequency policy for free users; lack of user control over playlist playback order on free tier",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Ads",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "21",
+    "source": "google_play",
+    "review_text": "I've used Spotify for years but suddenly you can't hear it despite it saying it was still playing on my earphones. I immediately tried other apps and they work fine. I restarted my phone but no change. I've reinstalled it and it still doesn't play anywhere, on the phone speakers or on earphones, despite it showing as playing. The app is now useless!??!",
+    "review_date": "2026-05-04",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Frustrated",
+    "review_type": "Bug Report",
+    "persona": "Unknown",
+    "summary": "The user reports a critical bug where Spotify shows music playing but no audio is heard, rendering the app useless.",
+    "primary_topic": "Performance",
+    "secondary_topics": [
+      "User Experience"
+    ],
+    "pain_points": [
+      "no audio despite app showing playback",
+      "app is unusable"
+    ],
+    "feature_requests": [],
+    "positive_themes": [],
+    "user_goal": "listen to music",
+    "root_cause": "audio playback bug preventing sound output",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Performance",
+    "severity": "critical",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "22",
+    "source": "google_play",
+    "review_text": "terrible since the last update.... I've been a premium user for years, and it's the most used app on my phone. I never had so many issues with the app, but it's almost unusable at the moment. Very long lags, offline message when my WiFi connection is indeed strong, it crashes so many times that I give up waiting. For £13 a month, it's not currently worth paying for, so PLEASE FIX IT 🙏 (Samsung Galaxy S21 Ultra)",
+    "review_date": "2026-05-06",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Disappointed",
+    "review_type": "Complaint",
+    "persona": "Premium User",
+    "summary": "A long-time premium user is experiencing severe performance issues like lags, offline messages, and crashes since the last update, making the app almost unusable.",
+    "primary_topic": "Performance",
+    "secondary_topics": [
+      "User Experience",
+      "Premium"
+    ],
+    "pain_points": [
+      "very long lags",
+      "offline message despite strong WiFi",
+      "app crashes frequently",
+      "app is almost unusable"
+    ],
+    "feature_requests": [
+      "fix performance issues"
+    ],
+    "positive_themes": [],
+    "user_goal": "use the Spotify app reliably for music playback",
+    "root_cause": "performance degradation and stability issues introduced by a recent update",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Performance",
+    "severity": "critical",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "23",
+    "source": "google_play",
+    "review_text": "I love having a music streaming platform with everything in one place, but the last few months the app hasn't been running properly despite my many efforts to repair on my end. Changing between playlists or pages in app, it takes forever to load. Says I'm offline when I am right beside our working wifi. It's become very frustrating to the point where I am considering another platform.",
+    "review_date": "2026-04-29",
+    "rating": 3,
+    "sentiment": "mixed",
+    "emotion": "Frustrated",
+    "review_type": "Complaint",
+    "persona": "Unknown",
+    "summary": "The user appreciates Spotify's comprehensive platform but is frustrated by persistent performance issues like slow loading times and incorrect offline status, leading them to consider switching.",
+    "primary_topic": "Performance",
+    "secondary_topics": [
+      "User Experience"
+    ],
+    "pain_points": [
+      "slow loading times when changing playlists/pages",
+      "app incorrectly reports offline status",
+      "app not running properly"
+    ],
+    "feature_requests": [],
+    "positive_themes": [
+      "music streaming platform with everything in one place"
+    ],
+    "user_goal": "seamlessly navigate and use the Spotify app for music streaming",
+    "root_cause": "app performance issues and connectivity detection bugs",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Performance",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "24",
+    "source": "google_play",
+    "review_text": "I love music, it's the only thing that keeps me focused on things like drawing, love Spotify, I COULD listen outside of the app and for the last few months of what I expected was just a bug that now constantly happens whenever I leave the app to go to anything else, it closes and turns my music off, back when I'd have said five stars, maybe lower the price instead of increasing an extra dollar every year for premium, and FIVE ads? Thats unnecessary, two or three is fine, but five hits my anger.",
+    "review_date": "2026-04-10",
+    "rating": 3,
+    "sentiment": "mixed",
+    "emotion": "Angry",
+    "review_type": "Mixed Feedback",
+    "persona": "Free User",
+    "summary": "The user loves Spotify for focus but is angered by a bug that stops music playback when leaving the app, excessive ads, and increasing premium prices.",
+    "primary_topic": "Performance",
+    "secondary_topics": [
+      "Ads",
+      "Premium"
+    ],
+    "pain_points": [
+      "app closes and stops music when leaving the app",
+      "excessive advertisements (five ads)",
+      "premium price increases"
+    ],
+    "feature_requests": [
+      "lower premium price"
+    ],
+    "positive_themes": [
+      "love music",
+      "Spotify helps with focus"
+    ],
+    "user_goal": "listen to music continuously, even when using other apps; listen to music with fewer ad interruptions",
+    "root_cause": "background playback bug; aggressive ad frequency policy; premium pricing strategy",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Performance",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "25",
+    "source": "google_play",
+    "review_text": "Too many constant and bad changes. Randomly makes the \"add songs to playlist\" feature look really terrible and user unfriendly, also randomly some accounts won't be able to choose songs or add things to the queue when others can (all free accounts). And some accounts get 4-5 ads in between every single song when some only get one ad after a few songs. Why would I pay for an app that I can't expect consistency from?",
+    "review_date": "2026-04-30",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Frustrated",
+    "review_type": "Complaint",
+    "persona": "Free User",
+    "summary": "The user is frustrated by inconsistent app changes, a terrible \"add songs to playlist\" UI, varying feature availability across free accounts, and inconsistent ad frequency.",
+    "primary_topic": "User Experience",
+    "secondary_topics": [
+      "Ads",
+      "Playlist Management"
+    ],
+    "pain_points": [
+      "constant and bad changes",
+      "add songs to playlist feature is terrible/user unfriendly",
+      "inconsistent feature availability across free accounts (choosing songs, adding to queue)",
+      "inconsistent ad frequency (4-5 ads vs. 1 ad)"
+    ],
+    "feature_requests": [
+      "consistent user experience",
+      "improved 'add songs to playlist' UI"
+    ],
+    "positive_themes": [],
+    "user_goal": "manage playlists and listen to music with a consistent and user-friendly experience",
+    "root_cause": "inconsistent A/B testing or rollout of features/UI changes; varying ad policies for free users",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "User Experience",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "26",
+    "source": "google_play",
+    "review_text": "Recent 'improvements' include the addition of ambient sounds to certain tracks, all of which sound like they were produced by a tone death masochist. Spotify, don't overcomplicate stuff. Sure, the GenAI features are cool (excluding DJ and it's fetish for recommending songs that are like baking a cake) but don't try and change the core product. Don't even get me started on Spotify wrapped these days.",
+    "review_date": "2026-04-13",
+    "rating": 2,
+    "sentiment": "mixed",
+    "emotion": "Disappointed",
+    "review_type": "Mixed Feedback",
+    "persona": "Unknown",
+    "summary": "The user dislikes recent \"improvements\" like ambient sounds and finds the AI DJ's recommendations repetitive, urging Spotify to focus on the core product.",
+    "primary_topic": "User Experience",
+    "secondary_topics": [
+      "AI DJ",
+      "Recommendation Quality"
+    ],
+    "pain_points": [
+      "addition of bad ambient sounds to tracks",
+      "AI DJ recommends repetitive songs",
+      "Spotify Wrapped is disappointing (implied)"
+    ],
+    "feature_requests": [
+      "don't overcomplicate the product",
+      "improve AI DJ recommendation diversity"
+    ],
+    "positive_themes": [
+      "GenAI features are cool (generally)"
+    ],
+    "user_goal": "listen to music without unwanted additions; receive diverse and relevant recommendations",
+    "root_cause": "unwanted feature additions (ambient sounds); AI DJ algorithm lacks diversity in recommendations",
+    "mentioned_features": [
+      "AI DJ",
+      "Spotify Wrapped"
+    ],
+    "recommendation_component": "AI DJ",
+    "music_discovery_related": true,
+    "discovery_issue": "The AI DJ recommends repetitive songs, which hinders diverse music discovery.",
+    "impact_area": "User Experience",
+    "severity": "medium",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "27",
+    "source": "google_play",
+    "review_text": "Decent app for pods as I'm not an iOS user. All these years later, I still miss Google Pods terribly. I subscribe to multiple pods, but they're not all listed in my podcast menu... only eight of the pods are listed. Perhaps they display properly in the paid version. However, I'm not inclined to pay for an app to listen to pods.",
+    "review_date": "2026-04-27",
+    "rating": 3,
+    "sentiment": "mixed",
+    "emotion": "Disappointed",
+    "review_type": "Complaint",
+    "persona": "Free User",
+    "summary": "The user finds Spotify decent for podcasts but is disappointed that not all subscribed podcasts appear in their menu, and they are unwilling to pay for a premium version to fix this.",
+    "primary_topic": "Podcasts",
+    "secondary_topics": [
+      "Library",
+      "Premium"
+    ],
+    "pain_points": [
+      "not all subscribed podcasts are listed in the podcast menu"
+    ],
+    "feature_requests": [
+      "all subscribed podcasts should be listed in the menu"
+    ],
+    "positive_themes": [
+      "decent app for pods"
+    ],
+    "user_goal": "access all subscribed podcasts easily within the app",
+    "root_cause": "bug or limitation in podcast library display for free users",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Podcasts",
+    "severity": "medium",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "28",
+    "source": "google_play",
+    "review_text": "So they finally gave the option to disable smart shuffle, I can rate Spotify more than 1 star now. Always loved Spotify, and just hated that smart shuffle. It would be amazing if y'all could add a way to let us know when a song is removed from a playlist. I just recently went through and noticed multiple songs that weren't there anymore. Assumably due to them being removed off Spotify. If there was something that showed us what songs got removed, we could easily look for a replacement.",
+    "review_date": "2026-04-13",
+    "rating": 4,
+    "sentiment": "positive",
+    "emotion": "Satisfied",
+    "review_type": "Mixed Feedback",
+    "persona": "Unknown",
+    "summary": "The user is satisfied with the new option to disable Smart Shuffle but requests a feature to notify them when songs are removed from playlists.",
+    "primary_topic": "Playlist Management",
+    "secondary_topics": [
+      "Smart Shuffle"
+    ],
+    "pain_points": [
+      "songs are removed from playlists without notification"
+    ],
+    "feature_requests": [
+      "add a way to notify users when a song is removed from a playlist"
+    ],
+    "positive_themes": [
+      "option to disable Smart Shuffle",
+      "always loved Spotify"
+    ],
+    "user_goal": "maintain accurate and complete playlists; avoid unexpected song removals",
+    "root_cause": "lack of notification system for playlist content changes",
+    "mentioned_features": [
+      "Smart Shuffle"
+    ],
+    "recommendation_component": "Smart Shuffle",
+    "music_discovery_related": true,
+    "discovery_issue": "Users are not notified when songs are removed from their playlists, making it difficult to maintain their curated music collection.",
+    "impact_area": "Playlist Management",
+    "severity": "low",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "29",
+    "source": "google_play",
+    "review_text": "if I worked at Spotify, I'd just revel in the fact that it was a money factory. instead they're forcing AI half-baked into it, forcing videos into the podcasts with seemingly no way to have them not being videos as the default, and generally diluting the efficacy of the product with each new update. I mean it is so much harder to find my music on the homepage now than it was 18 months ago. I'm about one more downgrade away from switching entirely.",
+    "review_date": "2026-04-30",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Disappointed",
+    "review_type": "Complaint",
+    "persona": "Unknown",
+    "summary": "The user is frustrated by Spotify's forced integration of \"half-baked\" AI features, default video podcasts, and a cluttered homepage that makes finding music difficult, threatening to switch platforms.",
+    "primary_topic": "User Experience",
+    "secondary_topics": [
+      "AI DJ",
+      "Podcasts",
+      "Library"
+    ],
+    "pain_points": [
+      "forced integration of half-baked AI features",
+      "videos forced into podcasts as default",
+      "harder to find music on the homepage",
+      "product efficacy diluted with updates"
+    ],
+    "feature_requests": [
+      "option to disable video podcasts",
+      "improved homepage organization for music discovery"
+    ],
+    "positive_themes": [],
+    "user_goal": "easily find and listen to music; consume podcasts without forced video",
+    "root_cause": "product strategy prioritizing new features (AI, video podcasts) over core user experience; poor homepage information architecture",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": true,
+    "discovery_issue": "The homepage has become cluttered, making it harder for the user to find their music and potentially discover new content.",
+    "impact_area": "User Experience",
+    "severity": "high",
+    "confidence": 1.0
+  }
+]

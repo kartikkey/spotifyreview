@@ -1,0 +1,330 @@
+[
+  {
+    "review_id": "10",
+    "source": "app_store",
+    "review_text": "if i didn't have this app id die😙✌🏼",
+    "review_date": "2026-06-27T00:00:00.000Z",
+    "rating": 5,
+    "sentiment": "positive",
+    "emotion": "Happy",
+    "review_type": "Praise",
+    "persona": "Unknown",
+    "summary": "The user expresses extreme satisfaction and love for the Spotify app.",
+    "primary_topic": "User Experience",
+    "secondary_topics": [],
+    "pain_points": [],
+    "feature_requests": [],
+    "positive_themes": [
+      "overall app satisfaction"
+    ],
+    "user_goal": "enjoy music",
+    "root_cause": "",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "General",
+    "severity": "none",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "11",
+    "source": "app_store",
+    "review_text": "I love it, but if there is way too many ads",
+    "review_date": "2026-06-27T00:00:00.000Z",
+    "rating": 4,
+    "sentiment": "mixed",
+    "emotion": "Frustrated",
+    "review_type": "Mixed Feedback",
+    "persona": "Free User",
+    "summary": "The user loves the app but is frustrated by the excessive number of ads.",
+    "primary_topic": "Ads",
+    "secondary_topics": [],
+    "pain_points": [
+      "too many advertisements"
+    ],
+    "feature_requests": [],
+    "positive_themes": [
+      "overall app satisfaction"
+    ],
+    "user_goal": "listen to music without interruption",
+    "root_cause": "excessive ad frequency",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Ads",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "12",
+    "source": "app_store",
+    "review_text": "I noticed every time i’m on a discord call with friends, and it’s only discord, that my song on spotify will pause every so often like every 30 seconds and it doesn’t keep playing until I leave the call. Please fix this it’s been like this for months and months.",
+    "review_date": "2026-06-27T00:00:00.000Z",
+    "rating": 4,
+    "sentiment": "negative",
+    "emotion": "Frustrated",
+    "review_type": "Bug Report",
+    "persona": "Unknown",
+    "summary": "The user reports a persistent bug where Spotify pauses repeatedly when on a Discord call.",
+    "primary_topic": "Performance",
+    "secondary_topics": [],
+    "pain_points": [
+      "Spotify pauses during Discord calls",
+      "song doesn't resume automatically"
+    ],
+    "feature_requests": [
+      "fix pausing bug during Discord calls"
+    ],
+    "positive_themes": [],
+    "user_goal": "listen to music while on a Discord call",
+    "root_cause": "software conflict or bug causing playback interruption during Discord calls",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Performance",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "13",
+    "source": "app_store",
+    "review_text": "So buggy, I can’t hop onto a jam with my Girlfriend without it completely glitching out on me. This app used to be so good and now it’s just buns!",
+    "review_date": "2026-06-27T00:00:00.000Z",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Disappointed",
+    "review_type": "Bug Report",
+    "persona": "Unknown",
+    "summary": "The user is frustrated by a bug preventing them from using the Jam feature with their girlfriend.",
+    "primary_topic": "Social Features",
+    "secondary_topics": [
+      "Performance"
+    ],
+    "pain_points": [
+      "Jam feature glitches out",
+      "app is buggy"
+    ],
+    "feature_requests": [
+      "fix Jam feature bugs"
+    ],
+    "positive_themes": [],
+    "user_goal": "use Jam feature with friends/family",
+    "root_cause": "software bug in the Jam feature",
+    "mentioned_features": [
+      "Jam"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Social Features",
+    "severity": "critical",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "14",
+    "source": "app_store",
+    "review_text": "Bring back the daily drive mix",
+    "review_date": "2026-06-27T00:00:00.000Z",
+    "rating": 3,
+    "sentiment": "negative",
+    "emotion": "Disappointed",
+    "review_type": "Suggestion",
+    "persona": "Unknown",
+    "summary": "The user requests the return of the Daily Drive mix feature.",
+    "primary_topic": "Daily Mix",
+    "secondary_topics": [],
+    "pain_points": [
+      "Daily Drive mix is missing"
+    ],
+    "feature_requests": [
+      "bring back Daily Drive mix"
+    ],
+    "positive_themes": [],
+    "user_goal": "listen to the Daily Drive mix",
+    "root_cause": "removal or unavailability of the Daily Drive mix feature",
+    "mentioned_features": [
+      "Daily Mix"
+    ],
+    "recommendation_component": "Daily Mix",
+    "music_discovery_related": true,
+    "discovery_issue": "The user wants the Daily Drive mix feature to be reinstated.",
+    "impact_area": "Music Discovery",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "15",
+    "source": "app_store",
+    "review_text": "It has the music !!!",
+    "review_date": "2026-06-27T00:00:00.000Z",
+    "rating": 5,
+    "sentiment": "positive",
+    "emotion": "Happy",
+    "review_type": "Praise",
+    "persona": "Unknown",
+    "summary": "The user praises Spotify for its music availability.",
+    "primary_topic": "Library",
+    "secondary_topics": [],
+    "pain_points": [],
+    "feature_requests": [],
+    "positive_themes": [
+      "large music catalogue"
+    ],
+    "user_goal": "access music",
+    "root_cause": "",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Library",
+    "severity": "none",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "16",
+    "source": "app_store",
+    "review_text": "It's so great to just listen to your favorite songs everywhere on headphones in stores,car rides and more",
+    "review_date": "2026-06-27T00:00:00.000Z",
+    "rating": 5,
+    "sentiment": "positive",
+    "emotion": "Satisfied",
+    "review_type": "Praise",
+    "persona": "Unknown",
+    "summary": "The user appreciates the ability to listen to their favorite songs anywhere.",
+    "primary_topic": "User Experience",
+    "secondary_topics": [],
+    "pain_points": [],
+    "feature_requests": [],
+    "positive_themes": [
+      "ubiquitous music access",
+      "cross-device listening"
+    ],
+    "user_goal": "listen to favorite music on the go",
+    "root_cause": "",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "User Experience",
+    "severity": "none",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "17",
+    "source": "google_play",
+    "review_text": "The free version is terrible. Bro you can only do 6 skips per hour and then it gives you a whole bunch of recommendations into the playlists you're listening to! like bro when I make a playlist I like it how it is I don't need some robot to recommend things for it! like seriously! I pay for premium now, because it's worth it, but barely. The paid version is excellent but very expensive.",
+    "review_date": "2026-04-21",
+    "rating": 5,
+    "sentiment": "mixed",
+    "emotion": "Frustrated",
+    "review_type": "Mixed Feedback",
+    "persona": "Premium User",
+    "summary": "The user criticizes the free version's skip limits and unwanted playlist recommendations, finding the premium version excellent but expensive.",
+    "primary_topic": "Premium",
+    "secondary_topics": [
+      "Ads",
+      "Recommendation Quality",
+      "Playlist Management"
+    ],
+    "pain_points": [
+      "limited skips on free version",
+      "unwanted recommendations in playlists",
+      "premium is very expensive"
+    ],
+    "feature_requests": [
+      "remove unwanted recommendations from playlists",
+      "reduce premium cost"
+    ],
+    "positive_themes": [
+      "paid version is excellent"
+    ],
+    "user_goal": "listen to music without interruptions or unwanted changes, manage personal playlists",
+    "root_cause": "free tier limitations are too restrictive; recommendation algorithm injects unwanted songs into user-curated playlists; premium pricing is too high",
+    "mentioned_features": [],
+    "recommendation_component": "Algorithm",
+    "music_discovery_related": true,
+    "discovery_issue": "The recommendation system injects unwanted songs into user-created playlists on the free tier.",
+    "impact_area": "Premium",
+    "severity": "high",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "18",
+    "source": "google_play",
+    "review_text": "I adore the app, but at this rate going to YouTube is better lately as I can at least skip ads, no premium needed. Not 1 ad, not 2 but now 3 back to back ads?? Couldn't get a little more greedy now could you! Make it easier for the people who can't get premium. We are listening to more ads than actual music! And the ads suck just by the way, so uninteresting. Still love the app, but please just remove at least one damn ad, or at least allow us to skip it. Don't get greedy now, you are making $$$",
+    "review_date": "2026-04-09",
+    "rating": 3,
+    "sentiment": "mixed",
+    "emotion": "Angry",
+    "review_type": "Mixed Feedback",
+    "persona": "Free User",
+    "summary": "The user loves the app but is angered by the increasing number of unskippable and uninteresting ads on the free tier, comparing it unfavorably to YouTube.",
+    "primary_topic": "Ads",
+    "secondary_topics": [
+      "Premium",
+      "User Experience"
+    ],
+    "pain_points": [
+      "too many back-to-back ads",
+      "ads are unskippable",
+      "ads are uninteresting",
+      "more ads than music"
+    ],
+    "feature_requests": [
+      "reduce number of ads",
+      "allow skipping ads on free tier"
+    ],
+    "positive_themes": [
+      "overall app adoration"
+    ],
+    "user_goal": "listen to music with minimal interruption on the free tier",
+    "root_cause": "increasing ad frequency and unskippable nature on the free tier",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Ads",
+    "severity": "critical",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "19",
+    "source": "google_play",
+    "review_text": "At first, I enjoyed it before this current update. But now, it's getting greedy and unenjoyable. We have to pay for Spotify premium for basic interactions like choosing songs to play, I thought WE are the ones choosing the songs?? why is it suddenly limited? And to skip songs? It's just absurd to me and alot of listeners. And the ads are increasing, It's disturbing our listening experience. I suggest remove the limitations and decrease the ads.",
+    "review_date": "2026-04-09",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Complaint",
+    "persona": "Free User",
+    "summary": "The user is angry about recent updates that limit basic features like song selection and skipping on the free tier, and the increasing number of ads.",
+    "primary_topic": "Premium",
+    "secondary_topics": [
+      "Ads",
+      "User Experience"
+    ],
+    "pain_points": [
+      "basic features limited to premium",
+      "cannot choose specific songs to play on free tier",
+      "limited song skips on free tier",
+      "increasing number of ads"
+    ],
+    "feature_requests": [
+      "remove free tier limitations on song selection",
+      "decrease ads on free tier"
+    ],
+    "positive_themes": [],
+    "user_goal": "choose and skip songs freely on the free tier, listen to music without excessive ads",
+    "root_cause": "recent product changes that restrict free tier functionality and increase ad frequency",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Premium",
+    "severity": "critical",
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,387 @@
+[
+  {
+    "review_id": "30",
+    "source": "google_play",
+    "review_text": "the app is great and all, but the ads. They say you won't get an ad for 30 minutes but it's like 15 minutes instead. One cool thing is you can make a queue for your songs BUT you can't organize it and if you accidentally press on a song in your Playlist, IT DELETES YOUR WHOLE QUEUE LINE oh AND you have a limited amount of times you can make a queue for a day; so if you accidentally get your queue deleted, you'll probably have to wait another DAY to make a queue",
+    "review_date": "2026-04-30",
+    "rating": 3,
+    "sentiment": "mixed",
+    "emotion": "Frustrated",
+    "review_type": "Mixed Feedback",
+    "persona": "Free User",
+    "summary": "The user finds the app great but is frustrated by frequent ads, inability to organize the queue, accidental queue deletion, and daily limits on queue creation.",
+    "primary_topic": "Ads",
+    "secondary_topics": [
+      "Playlist Management",
+      "User Experience"
+    ],
+    "pain_points": [
+      "ads are more frequent than advertised",
+      "cannot organize song queue",
+      "accidental song selection deletes entire queue",
+      "limited daily queue creations"
+    ],
+    "feature_requests": [
+      "allow organizing song queue",
+      "prevent accidental queue deletion",
+      "remove daily limit on queue creation"
+    ],
+    "positive_themes": [
+      "app is great",
+      "can make a song queue"
+    ],
+    "user_goal": "Listen to music with a custom queue without interruptions or limitations.",
+    "root_cause": "Inaccurate ad frequency claims; poor queue management UX; artificial daily queue limits.",
+    "mentioned_features": [
+      "queue",
+      "Playlist"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "User Experience",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "31",
+    "source": "google_play",
+    "review_text": "I use Spotify on the daily but I have been unimpressed with a few things like the spike in prices and that fact prices are advertised as one thing but are actually another thing, oh and on top of that there are occasionally Ads that are not part of the podcast, why are there ads in something that I pay to not have them (occasionally keeps crashing on my phone)",
+    "review_date": "2026-05-15",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Disappointed",
+    "review_type": "Complaint",
+    "persona": "Premium User",
+    "summary": "The user, a daily Spotify user, is disappointed with price increases, misleading advertised prices, unexpected ads in podcasts despite paying for premium, and app crashes.",
+    "primary_topic": "Premium",
+    "secondary_topics": [
+      "Ads",
+      "Podcasts",
+      "Performance"
+    ],
+    "pain_points": [
+      "spike in prices",
+      "misleading advertised prices",
+      "ads in podcasts despite premium subscription",
+      "app crashing occasionally"
+    ],
+    "feature_requests": [],
+    "positive_themes": [],
+    "user_goal": "Enjoy ad-free music and podcasts with a stable app at a fair and transparent price.",
+    "root_cause": "Inconsistent pricing communication; ads incorrectly served to premium users; app instability.",
+    "mentioned_features": [
+      "podcast"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Premium",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "32",
+    "source": "google_play",
+    "review_text": "why is it every time I'm trying to add a song to a playlist it won't add no matter how many times I click and then finally it adds after the 30th try? is it starting to get really annoying and I would like to be able to add songs to my playlist love songs I hear that I like that I think would fit my playlist but I can't because I'm always constantly having to click the add button over and over again just to get no results. please fix this it's so annoying",
+    "review_date": "2026-05-06",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Frustrated",
+    "review_type": "Bug Report",
+    "persona": "Unknown",
+    "summary": "The user is frustrated by a persistent bug where adding songs to a playlist requires multiple attempts before succeeding.",
+    "primary_topic": "Playlist Management",
+    "secondary_topics": [
+      "User Experience",
+      "Performance"
+    ],
+    "pain_points": [
+      "unable to add songs to playlist reliably",
+      "add button requires multiple clicks to work"
+    ],
+    "feature_requests": [
+      "fix bug preventing reliable song addition to playlists"
+    ],
+    "positive_themes": [],
+    "user_goal": "Easily add liked songs to personal playlists.",
+    "root_cause": "Bug in the playlist song addition functionality.",
+    "mentioned_features": [
+      "playlist"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Playlist Management",
+    "severity": "high",
+    "confidence": 0.95
+  },
+  {
+    "review_id": "33",
+    "source": "google_play",
+    "review_text": "I've been a dedicated Spotify user for more or less 5 years now. I went from a free package, to student premium, then to regular premium, and now I have duo premium. I have seen it change and adjust and come into its own, and it gets better every time! It keeps usability at the forefront of every update and I love all the bits and gadgets that they add but I am not pressured to use any of them!",
+    "review_date": "2026-04-20",
+    "rating": 5,
+    "sentiment": "positive",
+    "emotion": "Happy",
+    "review_type": "Praise",
+    "persona": "Premium User",
+    "summary": "A long-term premium user praises Spotify for its continuous improvement, focus on usability, and the non-pressuring introduction of new features.",
+    "primary_topic": "User Experience",
+    "secondary_topics": [
+      "Premium"
+    ],
+    "pain_points": [],
+    "feature_requests": [],
+    "positive_themes": [
+      "continuous improvement",
+      "focus on usability",
+      "non-pressuring new features",
+      "long-term satisfaction"
+    ],
+    "user_goal": "Enjoy a continuously improving and user-friendly music streaming experience.",
+    "root_cause": "",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "User Experience",
+    "severity": "none",
+    "confidence": 0.95
+  },
+  {
+    "review_id": "34",
+    "source": "google_play",
+    "review_text": "ads have gotten better for me, only one or two THANK GOD , but they're still not \"thirty minutes no interruptions!\" I love how many songs there are and I don't really mind the new songs being mixed on , but maybe a genre system would be nice, like being able to select only certain kinds of genres to be mixed into one playlist so it's accurate, because I keep getting almost rock kind of songs in a playlist with Miku and cave town-",
+    "review_date": "2026-05-06",
+    "rating": 2,
+    "sentiment": "mixed",
+    "emotion": "Disappointed",
+    "review_type": "Mixed Feedback",
+    "persona": "Free User",
+    "summary": "The user notes an improvement in ad frequency but still finds them disruptive, appreciates the song variety, but requests a genre-based system for mixing songs into playlists to improve accuracy.",
+    "primary_topic": "Playlist Management",
+    "secondary_topics": [
+      "Ads",
+      "Music Discovery"
+    ],
+    "pain_points": [
+      "ads are still disruptive and not as advertised",
+      "playlists mix disparate genres inaccurately"
+    ],
+    "feature_requests": [
+      "genre-based system for mixing songs into playlists",
+      "ability to select specific genres for playlist mixing"
+    ],
+    "positive_themes": [
+      "ads have gotten better",
+      "large music catalogue"
+    ],
+    "user_goal": "Create genre-accurate playlists and listen to music with fewer ad interruptions.",
+    "root_cause": "Playlist generation algorithm lacks sufficient genre control/filtering for user preferences.",
+    "mentioned_features": [
+      "playlist"
+    ],
+    "recommendation_component": "Algorithm",
+    "music_discovery_related": true,
+    "discovery_issue": "The playlist mixing feature lacks genre control, leading to inaccurate and undesirable song combinations.",
+    "impact_area": "Music Discovery",
+    "severity": "medium",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "35",
+    "source": "google_play",
+    "review_text": "Would get 5 but some quirks. there seems to be no way to move songs around in liked songs in an order you would like manually unless you load them into a queue or make a playlist. i download songs and sometimes the flow is annoying but you cant change this. Also, so many tracks become unavailable in my lists or some albums by bands are not available presumably because Spotify decided they were botted so they don't have to pay them. edit * its 2026 and I think I'm done with Spotify since 2007",
+    "review_date": "2026-04-14",
+    "rating": 4,
+    "sentiment": "mixed",
+    "emotion": "Disappointed",
+    "review_type": "Mixed Feedback",
+    "persona": "Unknown",
+    "summary": "The user is frustrated by the inability to manually reorder liked songs, an annoying flow for downloaded songs, and the frequent unavailability of tracks and albums, leading them to consider quitting Spotify.",
+    "primary_topic": "Library",
+    "secondary_topics": [
+      "Playlist Management",
+      "Offline Playback",
+      "User Experience"
+    ],
+    "pain_points": [
+      "cannot manually reorder liked songs",
+      "annoying flow for downloaded songs",
+      "tracks and albums frequently become unavailable"
+    ],
+    "feature_requests": [
+      "allow manual reordering of liked songs",
+      "improve flow for downloaded songs"
+    ],
+    "positive_themes": [],
+    "user_goal": "Organize and access their music library reliably, including downloaded content.",
+    "root_cause": "Lack of manual sorting functionality for liked songs; issues with content licensing/availability; poor UX for downloaded content.",
+    "mentioned_features": [
+      "liked songs",
+      "queue",
+      "playlist"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Library",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "36",
+    "source": "google_play",
+    "review_text": "Wish I could rate it lower. I've been using the free version for a while, seeing if it got better and worth the paid version. Nope. Now it plays podcasts in the WRONG order, from newest to oldest instead of oldest to newest which would skip to the next podcast. Now it will stay on the same and replay episodes even if they are marked as played. Uninstall and refresh, clear cache etc does nothing. Time to find another app.",
+    "review_date": "2026-02-18",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Bug Report",
+    "persona": "Free User",
+    "summary": "The user is extremely frustrated with the free version, specifically a bug that plays podcasts in the wrong order and replays already played episodes, leading them to abandon the app.",
+    "primary_topic": "Podcasts",
+    "secondary_topics": [
+      "User Experience",
+      "Performance"
+    ],
+    "pain_points": [
+      "podcasts play in wrong order (newest to oldest)",
+      "podcasts replay episodes marked as played",
+      "troubleshooting steps (uninstall, clear cache) do not fix issue"
+    ],
+    "feature_requests": [
+      "fix podcast playback order",
+      "prevent replaying marked episodes"
+    ],
+    "positive_themes": [],
+    "user_goal": "Listen to podcasts in the correct chronological order without replaying old episodes.",
+    "root_cause": "Bug in podcast playback logic and episode tracking.",
+    "mentioned_features": [
+      "podcasts"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Podcasts",
+    "severity": "critical",
+    "confidence": 0.95
+  },
+  {
+    "review_id": "37",
+    "source": "google_play",
+    "review_text": "free version sucks. Windows media player is better by light years (and WMP isn't an amazing platform, either). premium version works well enough to play music from, but is very confusing in how song ratings work. audiobooks are severely limited (15 hours with premium, and 15 hours more on a separate subscription - per month). if you want audiobooks or free music, I highly recommend a different platform.",
+    "review_date": "2026-02-11",
+    "rating": 3,
+    "sentiment": "negative",
+    "emotion": "Disappointed",
+    "review_type": "Complaint",
+    "persona": "Premium User",
+    "summary": "The user finds the free version poor and the premium version confusing regarding song ratings, while audiobooks are severely limited even with a separate subscription, recommending other platforms for audiobooks or free music.",
+    "primary_topic": "Audiobooks",
+    "secondary_topics": [
+      "Premium",
+      "User Experience"
+    ],
+    "pain_points": [
+      "free version is poor",
+      "confusing song rating system in premium",
+      "severely limited audiobook hours (15 hours with premium, additional 15 hours with separate subscription)"
+    ],
+    "feature_requests": [
+      "improve free version experience",
+      "clarify song rating system",
+      "increase audiobook hours for premium/add-on"
+    ],
+    "positive_themes": [
+      "premium version works well enough to play music"
+    ],
+    "user_goal": "Access free music or listen to audiobooks without severe limitations.",
+    "root_cause": "Restrictive audiobook policy; unclear UX for song ratings; poor free tier experience.",
+    "mentioned_features": [
+      "audiobooks"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Audiobooks",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "38",
+    "source": "google_play",
+    "review_text": "I'm fed up with the captions. I've spent hours trying to turn off these annoying captions but nothing works. I want to see the artist cover and not these distracting badly synced AI captions. Searching for solutions I've noticed that this seems to be a problem for years. Isn't it time for us as customers to decide whether or not we want the captions?",
+    "review_date": "2026-02-15",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Complaint",
+    "persona": "Unknown",
+    "summary": "The user is extremely frustrated by persistent, badly synced AI captions that cannot be turned off, obscuring artist covers, and requests the option to disable them.",
+    "primary_topic": "User Experience",
+    "secondary_topics": [],
+    "pain_points": [
+      "annoying captions cannot be turned off",
+      "captions are badly synced",
+      "captions obscure artist cover"
+    ],
+    "feature_requests": [
+      "add option to turn off captions"
+    ],
+    "positive_themes": [],
+    "user_goal": "View artist covers without distracting, poorly synced captions.",
+    "root_cause": "Lack of user control over caption display; poor caption synchronization.",
+    "mentioned_features": [
+      "captions"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "User Experience",
+    "severity": "high",
+    "confidence": 0.95
+  },
+  {
+    "review_id": "39",
+    "source": "google_play",
+    "review_text": "I already pay for premium but that only allows for 15 hours of audiobooks and now they want me to pay for an add on that's the same price as the monthly fee for only 15 hours more. For an extra 11.99 a month audiobook add on it should be unlimited. not to mention the constant price hikes and still having ads in my podcast when I pay for no ads. This will just be the next streaming service I cancelle",
+    "review_date": "2026-02-13",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Complaint",
+    "persona": "Premium User",
+    "summary": "The premium user is angry about limited audiobook hours, an expensive add-on for minimal extra hours, constant price hikes, and still encountering ads in podcasts despite paying for an ad-free experience.",
+    "primary_topic": "Audiobooks",
+    "secondary_topics": [
+      "Premium",
+      "Ads",
+      "Podcasts"
+    ],
+    "pain_points": [
+      "limited audiobook hours (15 hours with premium)",
+      "expensive audiobook add-on for minimal extra hours",
+      "constant price hikes",
+      "ads in podcasts despite premium subscription"
+    ],
+    "feature_requests": [
+      "unlimited audiobook hours for add-on",
+      "remove ads from podcasts for premium users"
+    ],
+    "positive_themes": [],
+    "user_goal": "Access unlimited audiobooks and an ad-free podcast experience as a premium subscriber.",
+    "root_cause": "Restrictive audiobook policy; ads incorrectly served to premium users; perceived poor value for money.",
+    "mentioned_features": [
+      "audiobooks",
+      "podcast"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Premium",
+    "severity": "critical",
+    "confidence": 0.95
+  }
+]

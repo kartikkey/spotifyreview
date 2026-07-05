@@ -1,0 +1,399 @@
+[
+  {
+    "review_id": "100",
+    "source": "google_play",
+    "review_text": "after a while, you have to buy a premium subscription so you can go back to a song, and you also can't replay the song after a while it's just really annoying so I really hope this can be fixed but if it doesn't then I will most likely delete the app. Even though I have worked on it very hard... But also I'll be playing a game like Dandys World or smth, and i will get silence from the app and i will be listening to a song, and then it will just stop randomly playing the song! So please fix this.",
+    "review_date": "2025-08-14",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Frustrated",
+    "review_type": "Complaint",
+    "persona": "Free User",
+    "summary": "The user is frustrated by limitations of the free tier, such as inability to go back or replay songs, and also experiences random song stoppages.",
+    "primary_topic": "Premium",
+    "secondary_topics": [
+      "Performance",
+      "User Experience"
+    ],
+    "pain_points": [
+      "cannot go back to a song on free tier",
+      "cannot replay songs on free tier",
+      "songs stop randomly playing"
+    ],
+    "feature_requests": [
+      "allow going back to songs on free tier",
+      "allow replaying songs on free tier",
+      "fix random song stoppages"
+    ],
+    "positive_themes": [],
+    "user_goal": "Listen to music without interruptions and with basic playback controls.",
+    "root_cause": "Free tier feature restrictions; app performance bug causing random stoppages.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Premium",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "101",
+    "source": "google_play",
+    "review_text": "To say that this app is greedy would be an understatement. You can't even choose the songs you want to listen to, ads are everywhere and it will continue to shove it into your face. You can't skip, you can't make a playlist where it's not on shuffle, and it's genuinely the epitome of a prison if it was an app and if it arrested you for not being on premium. I would rate this 0 star if I could.",
+    "review_date": "2025-09-25",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Complaint",
+    "persona": "Free User",
+    "summary": "The user is extremely angry about the restrictive free tier experience, including inability to choose songs, excessive ads, no skipping, and forced shuffle on playlists.",
+    "primary_topic": "Ads",
+    "secondary_topics": [
+      "Premium",
+      "User Experience",
+      "Playlist Management"
+    ],
+    "pain_points": [
+      "cannot choose specific songs on free tier",
+      "excessive advertisements",
+      "cannot skip songs on free tier",
+      "forced shuffle on playlists on free tier"
+    ],
+    "feature_requests": [
+      "allow choosing specific songs on free tier",
+      "reduce advertisements",
+      "allow skipping songs on free tier",
+      "allow non-shuffle playlists on free tier"
+    ],
+    "positive_themes": [],
+    "user_goal": "Listen to music with full control over playback and without interruptions.",
+    "root_cause": "Aggressive free tier limitations designed to push users to premium.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Ads",
+    "severity": "critical",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "102",
+    "source": "google_play",
+    "review_text": "Super interesting that Spotify said in-app that they were asking for \"bluetooth\" permission when what was REALLY requested was permission to locate/connect with nearby devices. (I was listening to music using bluetooth while this was happening, so it wasn't because my BT was off.) Why do you want that, Spotify? Couldn't be anything good if you have to trick people into granting you access. I'm switching to Tidal. So tired of this bull.",
+    "review_date": "2025-05-01",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Complaint",
+    "persona": "Unknown",
+    "summary": "The user is angry about Spotify misleadingly requesting \"bluetooth\" permission when it actually sought permission to locate/connect with nearby devices, leading them to switch to a competitor.",
+    "primary_topic": "User Experience",
+    "secondary_topics": [],
+    "pain_points": [
+      "misleading permission requests (bluetooth vs. nearby devices)",
+      "lack of transparency regarding data access"
+    ],
+    "feature_requests": [],
+    "positive_themes": [],
+    "user_goal": "Use Spotify without feeling deceived about privacy or data access.",
+    "root_cause": "Misleading permission prompt design.",
+    "mentioned_features": [
+      "bluetooth"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "User Experience",
+    "severity": "critical",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "103",
+    "source": "google_play",
+    "review_text": "Great way to listen to music and affordable pricing for premium subscription. Edit: Everything in this app is good and conveniently adjustable to one's needs, except the damned \"smart shuffle\". The radio is more than enough to discover new songs. When I want to shuffle/unshuffle my own playlists I could not give half a damn about discovering new songs. Please give us the option to turn it off or on in settings, the same way you can toggle all the other features you provide.",
+    "review_date": "2024-09-30",
+    "rating": 3,
+    "sentiment": "mixed",
+    "emotion": "Frustrated",
+    "review_type": "Mixed Feedback",
+    "persona": "Premium User",
+    "summary": "The user praises Spotify's overall value and customizability but is frustrated by the \"Smart Shuffle\" feature, which forces new song discovery when they only want to shuffle their own playlists, and requests an option to disable it.",
+    "primary_topic": "Smart Shuffle",
+    "secondary_topics": [
+      "Premium",
+      "User Experience",
+      "Music Discovery",
+      "Radio",
+      "Playlist Management"
+    ],
+    "pain_points": [
+      "Smart Shuffle forces new song discovery",
+      "Smart Shuffle interferes with desired playlist shuffling"
+    ],
+    "feature_requests": [
+      "add option to turn off Smart Shuffle in settings"
+    ],
+    "positive_themes": [
+      "great way to listen to music",
+      "affordable premium pricing",
+      "app is good and conveniently adjustable"
+    ],
+    "user_goal": "Listen to music from their own playlists with simple shuffle functionality, and discover new music via Radio.",
+    "root_cause": "Smart Shuffle's default behavior or lack of user control over its activation.",
+    "mentioned_features": [
+      "Smart Shuffle",
+      "Radio"
+    ],
+    "recommendation_component": "Smart Shuffle",
+    "music_discovery_related": true,
+    "discovery_issue": "Smart Shuffle forces new song discovery when the user only wants to shuffle their own playlists.",
+    "impact_area": "Music Discovery",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "104",
+    "source": "google_play",
+    "review_text": "For the last few months I haven't been able to play liked songs for a majority of the time. I can play them by searching for them or playing from a specific playlist but not being able to listen to the liked songs playlist is very frustrating and defeats the whole purpose of the app. Occasionally it will work for a few days then stop again. I've deleted and reinstalled the app and it doesn't fix anything.",
+    "review_date": "2024-09-01",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Frustrated",
+    "review_type": "Bug Report",
+    "persona": "Unknown",
+    "summary": "The user is frustrated because they are frequently unable to play songs from their \"Liked Songs\" playlist, despite being able to play the same songs via search or other playlists.",
+    "primary_topic": "Library",
+    "secondary_topics": [
+      "Performance",
+      "User Experience"
+    ],
+    "pain_points": [
+      "unable to play songs from Liked Songs playlist",
+      "Liked Songs playlist functionality is intermittent"
+    ],
+    "feature_requests": [
+      "fix Liked Songs playlist playback issue"
+    ],
+    "positive_themes": [],
+    "user_goal": "Consistently play music from their Liked Songs playlist.",
+    "root_cause": "Bug in the Liked Songs playlist playback functionality.",
+    "mentioned_features": [
+      "Liked Songs playlist"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Library",
+    "severity": "critical",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "105",
+    "source": "google_play",
+    "review_text": "Generally I love Spotify over most other streaming apps. I just started using it for audio books as well since some are included with premium. It's absolutely wild that you \"run out of hours\" to listen to a book, especially when those limited hours are less than it takes to get through a book. Why offer audiobooks with premium at all if you're going to charge more to keep listening to a book that's \"included\" with premium?",
+    "review_date": "2025-06-06",
+    "rating": 3,
+    "sentiment": "mixed",
+    "emotion": "Disappointed",
+    "review_type": "Mixed Feedback",
+    "persona": "Premium User",
+    "summary": "The user generally loves Spotify but is disappointed by the limited audiobook hours included with premium, which often run out before a book is finished, questioning the value proposition.",
+    "primary_topic": "Premium",
+    "secondary_topics": [
+      "Other"
+    ],
+    "pain_points": [
+      "limited audiobook hours with premium",
+      "audiobook hours run out before book completion",
+      "additional charges for continued audiobook listening"
+    ],
+    "feature_requests": [
+      "increase audiobook hours included with premium",
+      "remove additional charges for audiobooks included with premium"
+    ],
+    "positive_themes": [
+      "loves Spotify over other streaming apps"
+    ],
+    "user_goal": "Listen to full audiobooks as part of their premium subscription.",
+    "root_cause": "Premium tier limitations on audiobook listening hours.",
+    "mentioned_features": [
+      "audiobooks"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Premium",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "106",
+    "source": "google_play",
+    "review_text": "\"Enjoy the next 30 minutes commercial free.\" 1 song plays, then 3 commercials, literally 4 minutes after the message. Lies. Another thing? I thumb down an ad, because I'm married 20 years and don't use dating apps, or no kids and every third ad is for Capri Sun or school supplies. Your targeted ads suck. The feedback form doesn't fix it; thumb down/does not apply/etc: it doesn't work. 1/3 off my ads are for Kamala, and every one pushes me farther to the right.",
+    "review_date": "2024-09-08",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Angry",
+    "review_type": "Complaint",
+    "persona": "Free User",
+    "summary": "The user is angry about misleading \"commercial free\" promises, irrelevant and poorly targeted ads, and the ineffectiveness of ad feedback mechanisms.",
+    "primary_topic": "Ads",
+    "secondary_topics": [
+      "User Experience"
+    ],
+    "pain_points": [
+      "misleading 'commercial free' promises",
+      "poorly targeted advertisements",
+      "ad feedback mechanisms are ineffective",
+      "excessive political ads"
+    ],
+    "feature_requests": [
+      "improve ad targeting accuracy",
+      "ensure 'commercial free' promises are honored",
+      "make ad feedback effective"
+    ],
+    "positive_themes": [],
+    "user_goal": "Listen to music with minimal and relevant ad interruptions, or without ads as promised.",
+    "root_cause": "Inaccurate ad scheduling/promises; ineffective ad targeting algorithm; broken ad feedback system.",
+    "mentioned_features": [],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Ads",
+    "severity": "high",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "107",
+    "source": "google_play",
+    "review_text": "used to be better. you have to pay for basic features now. you can't make a playlist without it adding unwanted extra songs. I hate it so much. when I want to play a song, it starts playing suggested songs instead of the thing I want it to play. awful. still decent app, though at this rate, youtube is better.",
+    "review_date": "2024-11-24",
+    "rating": 3,
+    "sentiment": "mixed",
+    "emotion": "Frustrated",
+    "review_type": "Mixed Feedback",
+    "persona": "Free User",
+    "summary": "The user is frustrated that basic features now require payment and that the app automatically adds unwanted songs to playlists and plays suggested songs instead of the user's chosen track.",
+    "primary_topic": "User Experience",
+    "secondary_topics": [
+      "Premium",
+      "Playlist Management",
+      "Music Discovery"
+    ],
+    "pain_points": [
+      "basic features require payment",
+      "unwanted extra songs added to playlists",
+      "app plays suggested songs instead of chosen track"
+    ],
+    "feature_requests": [
+      "allow basic features without payment",
+      "stop automatically adding unwanted songs to playlists",
+      "play chosen songs directly"
+    ],
+    "positive_themes": [
+      "still decent app"
+    ],
+    "user_goal": "Create and play playlists with full control over song selection, without forced discovery or premium restrictions.",
+    "root_cause": "Free tier restrictions and aggressive recommendation/playlist enhancement features.",
+    "mentioned_features": [],
+    "recommendation_component": "General Discovery",
+    "music_discovery_related": true,
+    "discovery_issue": "The app automatically adds unwanted songs to playlists and plays suggested songs instead of the user's chosen track.",
+    "impact_area": "User Experience",
+    "severity": "high",
+    "confidence": 0.8
+  },
+  {
+    "review_id": "108",
+    "source": "google_play",
+    "review_text": "Doesn't play well with Google Pixel 8. Stops connecting to my cars Bluetooth until I restart my phone (won't play any audio). Music stutters while playing. \"Upstream request\" timeouts when I try to access their website. Player won't work on desktop. Wrapped won't play. I restart the app. I install updates. I check settings. I try different browsers. Terrible user experience with Spotify this year. [Edit] I appreciate the response. I have tried reinstalling. I can't reach your site, but will try",
+    "review_date": "2024-12-15",
+    "rating": 1,
+    "sentiment": "negative",
+    "emotion": "Frustrated",
+    "review_type": "Bug Report",
+    "persona": "Unknown",
+    "summary": "The user reports numerous performance and connectivity issues, including problems with Bluetooth on Google Pixel 8, music stuttering, website access failures, desktop player malfunction, and Wrapped not playing.",
+    "primary_topic": "Performance",
+    "secondary_topics": [
+      "User Experience",
+      "Social Features"
+    ],
+    "pain_points": [
+      "poor compatibility with Google Pixel 8",
+      "Bluetooth connection issues with car",
+      "music stutters while playing",
+      "website access issues ('Upstream request' timeouts)",
+      "desktop player not working",
+      "Wrapped feature not playing"
+    ],
+    "feature_requests": [
+      "fix compatibility with Google Pixel 8",
+      "resolve Bluetooth connection issues",
+      "fix music stuttering",
+      "resolve website access issues",
+      "fix desktop player",
+      "fix Wrapped playback"
+    ],
+    "positive_themes": [],
+    "user_goal": "Consistently play music across devices and access Spotify's features without technical issues.",
+    "root_cause": "Multiple software bugs and compatibility issues across different platforms and devices.",
+    "mentioned_features": [
+      "Bluetooth",
+      "Wrapped"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Performance",
+    "severity": "critical",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "109",
+    "source": "google_play",
+    "review_text": "I used to really like Spotify because it was extremely simple and had a large library. It hasn't changed too much, but the problem is that over the years this app has started to work less and less. In the modern day Spotify feels barely functional: Constantly crashing, extremely slow, skipping large portions of playlists, a broken shuffle feature, and buggy bluetooth drivers. I just need an app that plays music and actually works.",
+    "review_date": "2024-10-24",
+    "rating": 2,
+    "sentiment": "negative",
+    "emotion": "Disappointed",
+    "review_type": "Complaint",
+    "persona": "Unknown",
+    "summary": "The user, who previously liked Spotify for its simplicity and large library, is now disappointed by its poor performance, including constant crashing, slowness, playlist skipping, broken shuffle, and buggy Bluetooth.",
+    "primary_topic": "Performance",
+    "secondary_topics": [
+      "User Experience",
+      "Library"
+    ],
+    "pain_points": [
+      "app constantly crashing",
+      "app is extremely slow",
+      "skipping large portions of playlists",
+      "broken shuffle feature",
+      "buggy Bluetooth drivers"
+    ],
+    "feature_requests": [
+      "improve app stability",
+      "improve app speed",
+      "fix playlist skipping",
+      "fix shuffle feature",
+      "fix Bluetooth drivers"
+    ],
+    "positive_themes": [
+      "used to be extremely simple",
+      "large library"
+    ],
+    "user_goal": "Use a functional music app that reliably plays music.",
+    "root_cause": "Multiple software bugs leading to instability and poor performance.",
+    "mentioned_features": [
+      "Bluetooth",
+      "shuffle feature"
+    ],
+    "recommendation_component": "None",
+    "music_discovery_related": false,
+    "discovery_issue": "",
+    "impact_area": "Performance",
+    "severity": "critical",
+    "confidence": 0.9
+  }
+]
